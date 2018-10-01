@@ -6,6 +6,7 @@ tags:
 date: '2016-04-06'
 type: post
 locale: fr_FR
+slug: la-candidature-qui-fait-mouche
 ---
 
 De biens bons conseils pour tous les étudiants qui peaufinent actuellement leurs CVs. Qui sait, peut-être pour venir nous voir [chez Clever Age Bordeaux](http://www.clever-age.com/fr/carriere/#jobs-panel) ?

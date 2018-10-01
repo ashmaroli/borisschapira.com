@@ -7,6 +7,7 @@ tags:
 date: '2007-12-24'
 type: post
 locale: fr_FR
+slug: nous-les-racoleurs-de-luxe
 ---
 
 Qualit&#233; &#233;ditoriale et mon&#233;tisation du contenu semblent deux ingr&#233;dients d&#233;licats &#224; doser pour les blogueurs.

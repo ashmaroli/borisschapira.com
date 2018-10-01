@@ -5,6 +5,7 @@ type: post
 tags:
     - anecdotes
 locale: fr_FR
+slug: enfermes-dans-un-sous-sol
 ---
 
 Alors que je m'apprête à tourner une page professionnelle, je ressens le besoin de partager des anecdotes de ma vie de consultant. Celle-ci, rétrospectivement, me fait rire. Mais je faisais moins mon fier en 2011…

@@ -7,6 +7,7 @@ date: '2016-02-01'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: xenophobes
 ---
 
 J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/2016/01/laicite/ "Laïcité") mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).

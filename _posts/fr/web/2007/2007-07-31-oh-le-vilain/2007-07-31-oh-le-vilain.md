@@ -5,6 +5,7 @@ tags:
 date: '2007-07-31'
 type: post
 locale: fr_FR
+slug: oh-le-vilain
 ---
 
 Voilà , je viens d'avoir le droit à un joli crash de ma base de données avec suppression de mes tables. Heureusement que je fais des sauvegardes automatiques régulières…

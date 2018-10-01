@@ -11,6 +11,7 @@ date: '2015-10-22'
 type: post
 locale: en_US
 cloudinary_logo: clever-logo
+slug: online-advertising-current-status
 ---
 
 ## A Multifaceted War

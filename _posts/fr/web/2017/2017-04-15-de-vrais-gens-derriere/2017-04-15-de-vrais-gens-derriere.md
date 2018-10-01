@@ -5,6 +5,7 @@ type: post
 tags:
     - anecdotes
 locale: fr_FR
+slug: de-vrais-gens-derriere
 ---
 
 Il y a parfois des souvenirs, des échanges, qui font de vous le professionnel que vous êtes. En voici un lié à la Qualité…

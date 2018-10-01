@@ -3,6 +3,7 @@ title: Cauchemar
 date: '2018-01-31'
 type: post
 locale: fr_FR
+slug: cauchemar
 ---
 
 4 h du matin, j'entends des pleurs. Je descends, c'est le grand qui a fait un cauchemar.

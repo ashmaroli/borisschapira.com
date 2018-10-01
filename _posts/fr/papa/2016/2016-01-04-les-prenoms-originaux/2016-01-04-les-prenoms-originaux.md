@@ -3,6 +3,7 @@ title: 'Les prénoms originaux'
 date: '2016-01-04'
 type: post
 locale: fr_FR
+slug: les-prenoms-originaux
 ---
 
 > À la crèche, un parent appelle son enfant.  

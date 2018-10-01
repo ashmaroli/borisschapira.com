@@ -9,6 +9,7 @@ tags:
     - Video
 locale: en_US
 cloudinary_logo: dareboost-logo
+slug: optimize-your-mp4-video-for-better-performance
 ---
 
 Representing more than 75% of the videos served on the Internet, MP4 is the most commonly used format today. However, MP4 is often used improperly, which can have an unfortunate impact on the User Experience. Let's see how we can improve this.

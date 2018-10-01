@@ -8,6 +8,7 @@ tags:
 date: '2008-11-04'
 type: post
 locale: fr_FR
+slug: monsieur-vous-devez-resilier-bye-bye-free-23
 ---
 
 **Free** et moi, c'était une grande et belle histoire. Mais quand j'ai voulu **déménager**, ça s'est avéré très **problématique**. Après plus d'une heure de **Hotline** pour un problème qui ne nécessitait pas mon intervention, j'avais craqué. Nous sommes le lendemain, je rappelle pour avoir des informations à jour, plus de 20 jours après la validation de ma demande de déménagement et 8 jours après le début du premier mois normalement facturé…

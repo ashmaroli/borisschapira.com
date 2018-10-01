@@ -5,6 +5,7 @@ tags:
 date: '2015-12-28'
 type: post
 locale: fr_FR
+slug: analyse-du-projet-de-revision-constitutionnelle-etat-urgence
 ---
 
 > C’est ainsi que loin de constituer une garantie pour les droits et libertés fondamentaux, le projet de révision constitutionnelle constitue une régression en ce qu’il grave dans le marbre de la Constitution, la possibilité pour le législateur de «&nbsp;renouveler&nbsp;» les «&nbsp;outils&nbsp;» que les «&nbsp;forces de sécurité&nbsp;» pourront mettre en action en violation des droits et libertés.  

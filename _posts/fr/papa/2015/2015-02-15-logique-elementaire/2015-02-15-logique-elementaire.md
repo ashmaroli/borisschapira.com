@@ -3,6 +3,7 @@ title: 'Logique élémentaire'
 date: '2015-02-15'
 type: post
 locale: fr_FR
+slug: logique-elementaire
 ---
 
 > — C'est quoi que tu manges, là ?  

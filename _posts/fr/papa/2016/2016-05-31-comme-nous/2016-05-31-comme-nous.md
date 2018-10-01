@@ -3,6 +3,7 @@ title: 'Comme nous'
 date: '2016-05-31'
 type: post
 locale: fr_FR
+slug: comme-nous
 ---
 
 Discussion à propos de Mozart, notre chaton.

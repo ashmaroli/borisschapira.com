@@ -6,6 +6,7 @@ tags:
 date: '2008-07-07'
 type: post
 locale: fr_FR
+slug: stereotypes-de-bac5
 ---
 
 Depuis quelques jours de nouveaux messages ornent les couloirs de circulation du metro. "Je suis poursuivi", "Je suis convoitée", "Je suis adulé"… Des phrases issues de jeunes BAC+5 ayant fait leur recherche d'emploi sur les sites de l'annonceur…

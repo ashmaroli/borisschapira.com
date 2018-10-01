@@ -3,6 +3,7 @@ title: 'Ça faisait longtemps'
 date: '2017-06-20'
 type: post
 locale: fr_FR
+slug: ca-faisait-longtemps
 ---
 
 Semaine de cours intensif avec mes élèves, démarrage des cours tous les matins à neuf heures. Hors de question d'être en retard.

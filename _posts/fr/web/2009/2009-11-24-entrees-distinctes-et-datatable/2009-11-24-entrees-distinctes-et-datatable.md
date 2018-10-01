@@ -6,6 +6,7 @@ tags:
 date: '2009-11-24'
 type: post
 locale: fr_FR
+slug: entrees-distinctes-et-datatable
 ---
 
 Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour alimenter une liste déroulante pour réaliser, par exemple, un filtre ?

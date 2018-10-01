@@ -3,6 +3,7 @@ title: 'Les activités des grands'
 date: '2015-11-13'
 type: post
 locale: fr_FR
+slug: les-activites-des-grands
 ---
 
 Il est venu me voir pour me dire que dans la cour où il joue avec les autres enfants de maternelle, il a vu "des grands jouer avec leurs boules". Bien sûr, il me mime ce que vous imaginez, poing fermé bougeant de haut en bas.

@@ -5,6 +5,7 @@ type: post
 locale: fr_FR
 tags:
     - guide
+slug: mon-propre-guide-d-ecriture-inclusive
 ---
 
 Cet article me servira de note à moi-même ou d'explication vers laquelle pointer si j'ai besoin d'expliquer ma façon de procéder.

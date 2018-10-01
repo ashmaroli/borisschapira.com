@@ -3,6 +3,7 @@ title: 'Discussion normale...'
 date: '2015-04-03'
 type: post
 locale: fr_FR
+slug: discussion-normale
 ---
 
 > — On l'avait depuis combien de temps, déjà, le robot hachoir ?  

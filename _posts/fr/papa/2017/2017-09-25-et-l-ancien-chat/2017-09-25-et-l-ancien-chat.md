@@ -3,6 +3,7 @@ title: 'Et l''ancien chat ?'
 date: '2017-09-25'
 type: post
 locale: fr_FR
+slug: et-l-ancien-chat
 ---
 
 Nous avons accueuilli un nouveau pensionnaire. Simba est un chaton tigré de 5 mois. Il ressemble beaucoup à notre ancien chat, malheureusement écrasé dans le parking de notre ancienne résidence… Le petit nous explique :

@@ -3,6 +3,7 @@ title: 'Personnages de dessins animés'
 date: '2015-03-01'
 type: post
 locale: fr_FR
+slug: personnages-de-dessins-animes
 ---
 
 > — Tu le reconnais lui ?  

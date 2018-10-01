@@ -3,6 +3,7 @@ title: 'Toi ti yarrive'
 date: '2017-01-31'
 type: post
 locale: fr_FR
+slug: toi-ti-yarrive
 ---
 
 Le petit est en colère

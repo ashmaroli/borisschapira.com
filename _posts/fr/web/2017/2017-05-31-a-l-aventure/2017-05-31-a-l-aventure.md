@@ -4,6 +4,7 @@ date: '2017-05-31'
 main_image: /assets/images/2017-05-31/forest.jpg
 type: post
 locale: fr_FR
+slug: a-l-aventure
 ---
 
 J'ai tourné et retourné dix fois la manière dont j'allais écrire ça, mais je n'arrive pas à trouver "la" bonne manière. Tourner une page de sa vie n'est jamais facile…

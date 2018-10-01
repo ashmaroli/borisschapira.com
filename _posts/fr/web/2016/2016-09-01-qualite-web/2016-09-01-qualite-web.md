@@ -5,6 +5,7 @@ tags:
 date: '2016-09-01'
 type: post
 locale: fr_FR
+slug: qualite-web
 ---
 
 Quel que soit votre rôle dans la chaine de valeur du Web, je ne saurais que trop vous conseiller l'achat de cet ouvrage qui vaut largement son prix et vous permettra d'en découvrir [les faces cachées](https://www.quaternum.net//2016/08/26/les-faces-cachees-du-web/).

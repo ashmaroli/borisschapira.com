@@ -3,6 +3,7 @@ title: 'L''author-sitting'
 date: '2017-11-30'
 type: post
 locale: fr_FR
+slug: l-author-sitting
 ---
 
 Les enfants entendent des auteurs et autrices jeunesse manifester à la radio. Évidemment, ils demandent pourquoi…

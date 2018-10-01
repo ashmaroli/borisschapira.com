@@ -5,6 +5,7 @@ type: post
 locale: fr_FR
 tags:
     - guide
+slug: guide-de-survie-aux-discussions
 ---
 
 ## (sur les réseaux sociaux)

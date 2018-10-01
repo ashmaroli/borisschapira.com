@@ -5,6 +5,7 @@ type: post
 tags:
     - Littérature
 locale: fr_FR
+slug: a-la-croise-des-mondes-les-romans
 ---
 
 "À la croisée des mondes" est une saga en trois tomes, écrite par Philip Pullman entre 1994 et 2001. Les titres français sont, comme d'habitude, complètement différents des titres anglais (et cette nuance est incompréhensible). En revanche, les romans sont excellents dans les deux langues.

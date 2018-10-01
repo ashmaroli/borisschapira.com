@@ -6,6 +6,7 @@ tags:
 date: '2008-11-11'
 type: post
 locale: fr_FR
+slug: premiere-tache-fixer-la-date
 ---
 
 Au [Salon du Mariage de la Porte de Cham­per­ret](http://www.salonmariagefete.com/), nous avons pu discuter avec de nombreux acteurs du mariage : maquilleurs, décorateurs, traiteurs, préparateurs religieux, couturiers…

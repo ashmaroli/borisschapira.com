@@ -6,6 +6,7 @@ tags:
 date: '2007-11-04'
 type: post
 locale: fr_FR
+slug: cassons-le-cou-aux-rumeurs-vista-ne-mange-pas-la-mmoire
 ---
 
 Vista est gourmand en mémoire, certes. Mais contrairement à ce qu'on peut lire sur certains forums, pas besoin de 12Go de RAM pour le faire tourner. D'ailleurs certains UMPC le font tourner sans problème avec un peu plus de 800MO…

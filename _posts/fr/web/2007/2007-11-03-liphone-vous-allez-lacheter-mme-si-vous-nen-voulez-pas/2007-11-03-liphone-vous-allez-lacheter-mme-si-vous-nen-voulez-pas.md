@@ -8,6 +8,7 @@ tags:
 date: '2007-11-03'
 type: post
 locale: fr_FR
+slug: liphone-vous-allez-lacheter-mme-si-vous-nen-voulez-pas
 ---
 
 Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste prend la parole&nbsp;:

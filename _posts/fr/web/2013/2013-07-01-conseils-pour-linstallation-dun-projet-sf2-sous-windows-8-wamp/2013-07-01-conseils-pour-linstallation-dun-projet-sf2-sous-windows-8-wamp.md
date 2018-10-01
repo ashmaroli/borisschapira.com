@@ -5,6 +5,7 @@ tags:
 date: '2013-07-01'
 type: post
 locale: fr_FR
+slug: conseils-pour-linstallation-dun-projet-sf2-sous-windows-8-wamp
 ---
 
 Sous le pression de [William](http://william-pottier.fr/ "Site personnel de William Pottier"), je me mets à [Symfony](http://symfony.com/ "Site officiel de Symfony"). J'y retrouve toutes les grandes tendances de ce que je connais déjà en ASP.NET MVC, et découvre par la même occasion les outils Sf2 qui offrent aux développeurs PHP ce qui est disponible depuis longtemps dans le monde .NET. Utilisateur convaincu de Windows, j'ai pris quelques minutes pour m'installer mon environnement… et quelques heures pour comprendre certaines erreurs idiotes, donc autant que ça profite à d'autres.

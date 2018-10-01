@@ -3,6 +3,7 @@ title: Retrouvée
 date: '2015-03-08'
 type: post
 locale: fr_FR
+slug: retrouvee
 ---
 
 > — Chéri ! Viens-voir !  

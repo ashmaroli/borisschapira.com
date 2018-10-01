@@ -3,6 +3,7 @@ title: 'Petit dragueur'
 date: '2016-04-30'
 type: post
 locale: fr_FR
+slug: petit-dragueur
 ---
 
 Gros câlin avec mon petit koala…

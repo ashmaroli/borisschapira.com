@@ -3,6 +3,7 @@ title: 'Les sous-entendus'
 date: '2017-11-18'
 type: post
 locale: fr_FR
+slug: les-sous-entendus
 ---
 
 Un des petits plaisirs d'être parent, c'est de parfois avoir des échanges quelconques qui peuvent devenir très croustillants dès qu'on y met quelques sous-entendus. Les enfants : un jour vous lirez ça, et vous rirez aussi.

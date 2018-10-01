@@ -6,6 +6,7 @@ tags:
 date: '2014-06-23'
 type: post
 locale: fr_FR
+slug: vagrant-windows-et-nfs
 ---
 
 Si vous développez avec Vagrant sous Windows, vous avez probablement déjà vu ce message&nbsp;:

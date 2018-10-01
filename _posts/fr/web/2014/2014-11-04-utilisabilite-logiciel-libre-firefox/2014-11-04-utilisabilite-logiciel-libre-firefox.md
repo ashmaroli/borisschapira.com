@@ -7,6 +7,7 @@ date: '2014-11-04'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: utilisabilite-logiciel-libre-firefox
 ---
 
 ## L'UX, souvent un tabou dans les communautés du logiciel libre

@@ -5,6 +5,7 @@ tags:
 date: '2014-02-14'
 type: post
 locale: fr_FR
+slug: rappels-javascript-js-ftw
 ---
 
 J'ai animé il y a quelques jours une présentation chez [Clever Age](http://www.clever-age.com/fr/) autour de JavaScript.

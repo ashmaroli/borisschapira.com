@@ -5,6 +5,7 @@ tags:
 date: '2007-05-16'
 type: post
 locale: fr_FR
+slug: 8-facons-de-me-faire-fuir
 ---
 
 Depuis plusieurs semaines, je reçois diverses offres (une à deux par jour) de sociétés souhaitant apparemment m'intégrer à leurs équipes. Ces mails sont pour la plupart très bien rédigés, s'accompagnent de coup de fils aimables et donnent suite à des entretiens.

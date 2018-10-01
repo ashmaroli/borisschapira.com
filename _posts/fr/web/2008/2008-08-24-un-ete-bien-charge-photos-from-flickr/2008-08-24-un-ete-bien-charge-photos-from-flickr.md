@@ -5,6 +5,7 @@ tags:
 date: '2008-08-24'
 type: post
 locale: fr_FR
+slug: un-ete-bien-charge-photos-from-flickr
 ---
 
 <p style="text-align: center">

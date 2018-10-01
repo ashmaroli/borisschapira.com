@@ -3,6 +3,7 @@ title: 'Comme sur des rails'
 date: '2016-01-17'
 type: post
 locale: fr_FR
+slug: comme-sur-des-rails
 ---
 
 Il essaie, il itère et il réussit. De fil en aiguille, il devient plus agile, plus mesuré, prend davantage de recul. Ses constructions sont ordonnées, câlées, concises… et nous permettent de voir un pan de sa personnalité qu'il dévoile rarement.

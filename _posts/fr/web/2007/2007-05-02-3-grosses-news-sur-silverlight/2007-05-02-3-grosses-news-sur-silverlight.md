@@ -12,6 +12,7 @@ tags:
 date: '2007-05-02'
 type: post
 locale: fr_FR
+slug: 3-grosses-news-sur-silverlight
 ---
 
 Le MIX, un des plus gros évènements de la sphère Microsoft, a débuté il y a peu. L'occasion pour la firme de dévoiler aux journalistes présents de nombreuses nouveautés, et de confirmer les percées technologiques de ces derniers mois.

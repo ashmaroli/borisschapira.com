@@ -3,6 +3,7 @@ title: 'Amp Bookmarklet'
 date: '2016-02-25'
 type: post
 locale: fr_FR
+slug: amp-bookmarklet
 ---
 
 Les premières pages <abbr title="Accelerated Mobile Pages">AMP</abbr> apparaissent dans les résultats de recherche Google.

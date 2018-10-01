@@ -3,6 +3,7 @@ title: 'Le lafaisselle'
 date: '2014-11-08'
 type: post
 locale: fr_FR
+slug: le-lafaisselle
 ---
 
 > — Papa, surprise !  

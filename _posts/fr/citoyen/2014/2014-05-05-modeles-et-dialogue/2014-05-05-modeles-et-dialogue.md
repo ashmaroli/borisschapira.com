@@ -5,6 +5,7 @@ tags:
 date: '2014-05-05'
 type: post
 locale: fr_FR
+slug: modeles-et-dialogue
 ---
 
 > Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature.  

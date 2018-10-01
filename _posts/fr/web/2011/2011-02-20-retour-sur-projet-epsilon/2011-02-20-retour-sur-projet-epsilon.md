@@ -5,6 +5,7 @@ tags:
 date: '2011-02-20'
 type: post
 locale: fr_FR
+slug: retour-sur-projet-epsilon
 ---
 
 Plus d'un mois après la livraison en Production du projet **Epsilon**, beaucoup de choses ont changé. L'occasion pour moi de revenir à la Genèse du projet.

@@ -8,6 +8,7 @@ tags:
 date: '2007-04-25'
 type: post
 locale: fr_FR
+slug: sharepoint-et-moi-episode-1
 ---
 
 Deux mois de stages chez Microsoft France, c'est déjà beaucoup et en même temps peu. Il y a tant à apprendre ici&nbsp;!

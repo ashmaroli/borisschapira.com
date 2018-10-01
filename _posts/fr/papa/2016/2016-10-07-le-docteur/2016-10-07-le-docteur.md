@@ -3,6 +3,7 @@ title: 'Le docteur'
 date: '2016-10-07'
 type: post
 locale: fr_FR
+slug: le-docteur
 ---
 
 > — Papa, quand Maman va aller chez le docteur ?  

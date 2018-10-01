@@ -3,6 +3,7 @@ title: 'Troisième jour d''école'
 date: '2014-09-04'
 type: post
 locale: fr_FR
+slug: troisieme-jour-decole
 ---
 
 Il repère les lieux, puis se dirige vers la maîtresse :

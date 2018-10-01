@@ -3,6 +3,7 @@ title: 'Sortir Mamie'
 date: '2016-04-17'
 type: post
 locale: fr_FR
+slug: sortir-mamie
 ---
 
 Il me dirige sur le chemin qui amène de chez sa Mamie à chez son arrière grand-mère, "Mémé".

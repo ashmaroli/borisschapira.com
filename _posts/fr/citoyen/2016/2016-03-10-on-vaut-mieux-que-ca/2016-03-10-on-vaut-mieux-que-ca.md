@@ -5,6 +5,7 @@ tags:
 date: '2016-03-10'
 type: post
 locale: fr_FR
+slug: on-vaut-mieux-que-ca
 ---
 
 > Mais quels effets aurait cette réforme sur un entrepreneur ?

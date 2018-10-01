@@ -6,6 +6,7 @@ tags:
 date: '2007-09-17'
 type: post
 locale: fr_FR
+slug: coup-de-coeur-musical-nameless
 ---
 
 J'ai eu l'occasion de passer mes journées de la semaine dernière aux côtés de Julien Henry, bassiste du groupe Nameless, et il a eu la gentillesse de me faire découvrir avec humilité et retenue le Brit Rock pourtant énergique et riche qu'il joue sur scène.

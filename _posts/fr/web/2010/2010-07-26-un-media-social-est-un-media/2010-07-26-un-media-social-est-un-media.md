@@ -5,6 +5,7 @@ tags:
 date: '2010-07-26'
 type: post
 locale: fr_FR
+slug: un-media-social-est-un-media
 ---
 
 Malgré sa nature sociale (c'est-à-dire qu'il intègre le concept de réseau entre les personnes), le média social n'est qu'un moyen de communication qui permet la transmission d'un message, l'envoi ou la réception de signaux. Y ouvrir un compte n'est pas un signal en soi.

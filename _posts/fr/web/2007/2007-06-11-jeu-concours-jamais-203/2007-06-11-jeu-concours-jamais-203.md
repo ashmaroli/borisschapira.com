@@ -11,6 +11,7 @@ tags:
 date: '2007-06-11'
 type: post
 locale: fr_FR
+slug: jeu-concours-jamais-203
 ---
 
 Après le mini-concours pour tester Monster Madness en avant première et celui sur Forza Motorsports 2 (j'ai dit que c'était un très bon jeu ou pas encore&nbsp;?), voici donc un troisième concours, qui se tient **du 11 juin au 11 juillet** (ne pas tenir compte de la date sur la bannière) et&nbsp;gr&acirc;ce auquel vous pouvez **gagner une XBox360** (pour changer).

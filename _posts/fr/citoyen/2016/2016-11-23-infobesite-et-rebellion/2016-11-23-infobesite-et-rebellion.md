@@ -5,6 +5,7 @@ tags:
 date: '2016-11-23'
 type: post
 locale: fr_FR
+slug: infobesite-et-rebellion
 ---
 
 Trois lectures qui se font écho et rappellent que seule l'éducation permet de se prémunir contre l'émergence de comportements issus de situations d'impuissance.

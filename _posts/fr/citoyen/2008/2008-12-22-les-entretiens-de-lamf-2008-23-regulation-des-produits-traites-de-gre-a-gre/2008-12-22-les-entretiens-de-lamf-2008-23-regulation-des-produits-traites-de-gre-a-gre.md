@@ -3,6 +3,7 @@ title: 'Les Entretiens de l''AMF 2008 (2/3) : régulation des produits traités 
 date: '2008-12-22'
 type: post
 locale: fr_FR
+slug: les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre
 ---
 
 _Le 6 novembre dernier avaient lieu les Entretiens de l'AMF 2008 (voir CP). Les objectifs de ces tables rondes auxquelles participait Christine LAGARDE, étaient définis par l'air du temps:_

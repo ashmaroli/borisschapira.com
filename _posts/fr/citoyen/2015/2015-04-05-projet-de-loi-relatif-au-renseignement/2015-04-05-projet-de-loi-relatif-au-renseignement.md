@@ -7,6 +7,7 @@ series:
 date: '2015-04-05'
 type: post
 locale: fr_FR
+slug: projet-de-loi-relatif-au-renseignement
 ---
 
 Ce projet m'inquiète pour de nombreuses raisons qui se résument rapidement en&nbsp;:

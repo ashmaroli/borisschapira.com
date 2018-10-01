@@ -6,6 +6,7 @@ series: 'Dangers du Net'
 date: '2007-04-04'
 type: post
 locale: fr_FR
+slug: dangers-du-net-le-phishing
 ---
 
 Dans cette série d'articles de vulgarisation sur les dangers du Net, nous allons commencer par aborder le <span lang="en">Phishing</span>,

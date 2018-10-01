@@ -5,6 +5,7 @@ tags:
 date: '2017-01-24'
 type: post
 locale: fr_FR
+slug: resolutions
 ---
 
 ## Retour sur 2016

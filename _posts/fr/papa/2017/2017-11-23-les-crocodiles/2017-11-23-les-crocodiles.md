@@ -3,6 +3,7 @@ title: 'Les crocodiles'
 date: '2017-11-23'
 type: post
 locale: fr_FR
+slug: les-crocodiles
 ---
 
 Reportage à la radio sur les animaux de compagnie.

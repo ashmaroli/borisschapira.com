@@ -3,6 +3,7 @@ title: 'C''était le bon temps'
 date: '2014-03-03'
 type: post
 locale: fr_FR
+slug: cetait-le-bon-temps
 ---
 
 Il fut un temps où une "journée de repos" voulait dire que j'allais me reposer.

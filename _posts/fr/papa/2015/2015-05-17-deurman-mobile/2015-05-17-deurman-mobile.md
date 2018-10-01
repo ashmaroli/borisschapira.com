@@ -3,6 +3,7 @@ title: 'Deurman mobile'
 date: '2015-05-17'
 type: post
 locale: fr_FR
+slug: deurman-mobile
 ---
 
 Je joue à [Spiderman Unlimited](http://www.gameloft.com/minisites/spidermanunlimited-us/) sur mon téléphone Android, un _infinite  runner_ scénarisé dans l'univers de Spiderman. Parfois, le petit regarde un peu...

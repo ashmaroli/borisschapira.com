@@ -3,6 +3,7 @@ title: 'Souvenirs d''une taupe'
 date: '2007-09-13'
 type: post
 locale: fr_FR
+slug: souvenirs-dune-taupe
 ---
 
 **[Manuel par Bezout pour entrer à Polytechnique](http://www.dailymotion.com/video/x2yz4u_manuel-par-bezout-pour-entrer-a-pol_tech)**

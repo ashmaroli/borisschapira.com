@@ -3,6 +3,7 @@ title: 'Quitte à regarder des dessins animés...'
 date: '2013-09-08'
 type: post
 locale: fr_FR
+slug: quitte-a-regarder-des-dessins-animes
 ---
 
 Le grand veut regarder des dessins animés, alors je lui mets Gulli. Trois minutes plus tard, je regarde la pendule et change pour France 4. Ma femme me surprend en flagrant délit, je tente de la jouer fine :

@@ -6,6 +6,7 @@ tags:
 date: '2008-12-19'
 type: post
 locale: fr_FR
+slug: phrases-insolites-e2-80-a6-12
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

@@ -6,6 +6,7 @@ tags:
 date: '2007-07-09'
 type: post
 locale: fr_FR
+slug: sun-donne-t-il-lavantage-a-microsoft-office
 ---
 
 Sun a livré la version finale 1.0 de son traducteur au format ODF pour Office. Office 2007 n'est pas pris en charge mais c'est, d'après Sun, le fait d'un mystérieux bug anti-filtres dans Office 2007 qui empêcherait d'ouvrir dans Office 2007 des fichiers dont l'extension n'est pas gérée en natif, que tout le monde espère réparé rapidement.

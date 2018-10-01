@@ -7,6 +7,7 @@ tags:
 date: '2007-09-21'
 type: post
 locale: fr_FR
+slug: rentre-du-hardware-chez-microsoft
 ---
 
 Il y a peu se tenait la soirée de rentrée Microsoft Hardware, en l’honneur de la 25<sup>ème</sup> année de présence de la marque dans le domaine du matériel informatique. Manque de chance pour l'effet de surprise, la plupart des gens présents faisaient déjà partie de la "sphère" Microsoft. Mais si les surprises n’en étaient pas vraiment, cela ne nous a pas empêché de contempler les tueries qu'on nous annonçait depuis quelques mois.

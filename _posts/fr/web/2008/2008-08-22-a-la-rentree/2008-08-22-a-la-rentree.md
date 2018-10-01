@@ -7,6 +7,7 @@ tags:
 date: '2008-08-22'
 type: post
 locale: fr_FR
+slug: a-la-rentree
 ---
 
 _À la rentrée_, les sacs n'étaient pas chargés de décorations pré-inscrites. Ils étaient plus ou moins unis et c'est nous qui en faisions des ramassis de mauvais-goût, avec du temps, de la patience, du blanco et des feutres.

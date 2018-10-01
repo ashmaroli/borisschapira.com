@@ -3,6 +3,7 @@ title: 'Pop Culture'
 date: '2018-06-17'
 type: post
 locale: fr_FR
+slug: pop-culture
 ---
 
 Ils n'ont beau avoir que 5 à 7 ans, ils ont leurs influences, leur culture à eux, qu'ils digèrent et façonnent pour créer de nouveaux jeux.

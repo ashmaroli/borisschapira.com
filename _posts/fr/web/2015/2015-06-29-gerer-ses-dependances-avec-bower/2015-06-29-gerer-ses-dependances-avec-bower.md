@@ -9,6 +9,7 @@ canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec
 date: '2015-06-29'
 type: post
 locale: fr_FR
+slug: gerer-ses-dependances-avec-bower
 ---
 
 ## Un besoin d’industrialisation

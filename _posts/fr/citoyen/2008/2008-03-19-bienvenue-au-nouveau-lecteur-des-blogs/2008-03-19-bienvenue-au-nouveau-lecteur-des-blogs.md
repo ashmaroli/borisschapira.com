@@ -5,6 +5,7 @@ tags:
 date: '2008-03-19'
 type: post
 locale: fr_FR
+slug: bienvenue-au-nouveau-lecteur-des-blogs
 ---
 
 Toutes mes félicitations à toi,

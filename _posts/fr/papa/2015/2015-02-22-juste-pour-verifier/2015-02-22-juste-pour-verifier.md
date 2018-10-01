@@ -3,6 +3,7 @@ title: 'Juste pour vérifier'
 date: '2015-02-22'
 type: post
 locale: fr_FR
+slug: juste-pour-verifier
 ---
 
 > — Dis, chérie, de toi à moi, juste pour vérifier, toi aussi tu as un deuxième toi dans la tête ?  

@@ -3,6 +3,7 @@ title: 'A venir sur Boris-Schapira.com'
 date: '2007-06-10'
 type: post
 locale: fr_FR
+slug: a-venir-sur-boris-schapiracom
 ---
 
 * Un dossier sur ma vision de l'industrie du Logiciel Libre (mon gros morceau du moment).

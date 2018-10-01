@@ -7,6 +7,7 @@ tags:
 date: '2007-12-21'
 type: post
 locale: fr_FR
+slug: envahis-par-des-lutins
 ---
 
 Prenez une salle de marché très sérieuse (très).

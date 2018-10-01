@@ -3,6 +3,7 @@ title: 'Agenda de ministre'
 date: '2014-06-18'
 type: post
 locale: fr_FR
+slug: agenda-de-ministre
 ---
 
 > — Allez, petit dictateur, à table!  

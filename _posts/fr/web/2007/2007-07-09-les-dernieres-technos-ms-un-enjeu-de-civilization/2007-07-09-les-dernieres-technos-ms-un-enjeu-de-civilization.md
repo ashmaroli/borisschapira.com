@@ -13,6 +13,7 @@ tags:
 date: '2007-07-09'
 type: post
 locale: fr_FR
+slug: les-dernieres-technos-ms-un-enjeu-de-civilization
 ---
 
 Il y a quelques jours sont venus dans les locaux de Microsoft des enseignants en informatique pour une formation [CERPET](http://eduscol.education.fr/pid31532/stages-cerpep-de-formation-en-milieu-professionnel.html) (un réseau de formation des professeurs en partenariat avec des entreprises de haut niveau, sous la gouvernance du Ministère de l'Education Nationale).

@@ -7,6 +7,7 @@ tags:
 date: '2009-01-23'
 type: post
 locale: fr_FR
+slug: appartement-cest-plus-possible
 ---
 
 Gros ras-le-bol et article très personnel (j'aurais prévenu). C'est fini, j'en ai marre. On va trouver autre chose et se casser. 940€ par moi de loyer pour 37m², des murs moisis et maintenant des fuites. Trop, c'est trop.

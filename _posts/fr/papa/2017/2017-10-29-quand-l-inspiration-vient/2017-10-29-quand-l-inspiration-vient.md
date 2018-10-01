@@ -3,6 +3,7 @@ title: 'Quand l''inspiration vient'
 date: '2017-10-29'
 type: post
 locale: fr_FR
+slug: quand-l-inspiration-vient
 ---
 
 > Papa, j'ai une ampoule !

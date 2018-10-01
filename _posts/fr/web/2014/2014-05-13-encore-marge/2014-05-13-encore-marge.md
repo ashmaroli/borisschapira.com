@@ -6,6 +6,7 @@ tags:
 date: '2014-05-13'
 type: post
 locale: fr_FR
+slug: encore-marge
 ---
 
 ## Pour mieux apprivoiser nos matériels

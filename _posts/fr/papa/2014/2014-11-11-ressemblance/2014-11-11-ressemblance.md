@@ -3,6 +3,7 @@ title: Ressemblance
 date: '2014-11-11'
 type: post
 locale: fr_FR
+slug: ressemblance
 ---
 
 Des mois que j'explique à ma femme que notre petit dernier ressemble à son père et, plus généralement, à la lignée masculine de sa famille.

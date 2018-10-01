@@ -5,6 +5,7 @@ tags:
 date: '2009-08-11'
 type: post
 locale: fr_FR
+slug: changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees
 ---
 
 Je lis [ça et là](http://lespriviliegiesparlent.blogspot.com/2009/08/le-changement-de-statut-de-la-poste-bon.html) des [articles de blog](http://unclavesien.blogspot.com/2009/07/pour-un-referendum-populaire-sur-la.html) sur la privatisation de la Poste. Marianne demande même la tenue d'un référendum sur la question (sans proposer de solutions pour le financer, hein, faut pas pousser non plus). Je ne peux pas m’empêcher d’y mettre mon grain de sel, m’étant fait expliquer pas mal de choses il y a quelques mois par ma Libellule, qui rédigeait un mémoire sur cette question (elle a d’ailleurs validé cet article pour que je sois sûr de ne pas écrire de bêtises ou de dénaturer son travail).

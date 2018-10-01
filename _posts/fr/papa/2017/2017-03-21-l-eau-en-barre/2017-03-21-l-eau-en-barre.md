@@ -3,6 +3,7 @@ title: 'L''eau en barre'
 date: '2017-03-21'
 type: post
 locale: fr_FR
+slug: l-eau-en-barre
 ---
 
 En reprenant mes notes (qui sont légion), je retombe sur une anecdote, jamais reprise ici, qui date d'octobre dernier…

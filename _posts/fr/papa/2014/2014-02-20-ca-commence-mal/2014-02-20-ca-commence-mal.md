@@ -3,6 +3,7 @@ title: 'Ça commence mal'
 date: '2014-02-20'
 type: post
 locale: fr_FR
+slug: ca-commence-mal
 ---
 
 Réveil douloureux.

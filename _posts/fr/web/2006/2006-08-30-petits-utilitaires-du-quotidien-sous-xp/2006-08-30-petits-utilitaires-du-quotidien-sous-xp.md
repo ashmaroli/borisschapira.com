@@ -5,6 +5,7 @@ tags:
 date: '2006-08-30'
 type: post
 locale: fr_FR
+slug: petits-utilitaires-du-quotidien-sous-xp
 ---
 
 Je suis quasiment certain de regretter cet inventaire dans quelques années, mais sait-on jamais, peut-être cela me donnera-t-il un autre regard ?

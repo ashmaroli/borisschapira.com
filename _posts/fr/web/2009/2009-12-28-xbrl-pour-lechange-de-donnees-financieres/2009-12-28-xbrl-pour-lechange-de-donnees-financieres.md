@@ -7,6 +7,7 @@ tags:
 date: '2009-12-28'
 type: post
 locale: fr_FR
+slug: xbrl-pour-lechange-de-donnees-financieres
 ---
 
 Je vous propose aujourd'hui une introduction au <abbr title="eXtensible Business Reporting Language">XBRL</abbr>, langage dont vous avez sûrement déjà entendu / vous entendrez parler durant les prochaines années dans la sphère informatico-financière…</em>

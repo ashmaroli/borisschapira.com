@@ -6,6 +6,7 @@ tags:
 date: '2008-06-03'
 type: post
 locale: fr_FR
+slug: mariage-annule-les-politiques-prolongent-le-cauchemar-de-la-mariee
 ---
 
 Je tiens à féliciter personnellement le sous-ensemble de la classe politique française qui s'opposait à l'annulation de mariage. Grâce à ces courageux hommes et femmes, la mariée (peut-on encore l'appeler ainsi&nbsp;?) va subir les joies d'un second procès qui démarrera certainement en septembre (l'été n'étant pas propice à l'actualité, autant garder le meilleur pour la rentrée).

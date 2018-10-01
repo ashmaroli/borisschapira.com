@@ -3,6 +3,7 @@ title: 'Bruits suspects'
 date: '2015-03-08'
 type: post
 locale: fr_FR
+slug: bruits-suspects
 ---
 
 On entend des bruits à l'étage, alors qu'ils sont normalement en train de dormir. Ma femme s'enquiert :

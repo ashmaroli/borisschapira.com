@@ -3,6 +3,7 @@ title: 'Plan de vie'
 date: '2017-10-15'
 type: post
 locale: fr_FR
+slug: plan-de-vie
 ---
 
 En voiture avec leur mère, les enfants écoutent la radio. On y parle de la fins des contrats aidés dans les écoles primaires.

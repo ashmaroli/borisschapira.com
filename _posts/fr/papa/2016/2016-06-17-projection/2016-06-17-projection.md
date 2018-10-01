@@ -3,6 +3,7 @@ title: Projection
 date: '2016-06-17'
 type: post
 locale: fr_FR
+slug: projection
 ---
 
 Discussion entre le grand et sa maman.

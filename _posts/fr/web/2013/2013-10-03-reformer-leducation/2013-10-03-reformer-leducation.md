@@ -5,6 +5,7 @@ tags:
 date: '2013-10-03'
 type: post
 locale: fr_FR
+slug: reformer-leducation
 ---
 
 ## parce que bon, là, on rate un truc…

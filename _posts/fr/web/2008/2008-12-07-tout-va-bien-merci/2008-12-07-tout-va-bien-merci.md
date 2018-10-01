@@ -5,6 +5,7 @@ tags:
 date: '2008-12-07'
 type: post
 locale: fr_FR
+slug: tout-va-bien-merci
 ---
 
 Cher Père Noël,

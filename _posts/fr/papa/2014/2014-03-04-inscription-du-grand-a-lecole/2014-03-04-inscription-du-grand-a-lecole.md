@@ -3,6 +3,7 @@ title: 'Inscription du grand à l''école'
 date: '2014-03-04'
 type: post
 locale: fr_FR
+slug: inscription-du-grand-a-lecole
 ---
 
 On nous a affecté à la Maternelle qui ne nous arrange pas logistiquement, donc on a fait une dérogation qui va prendre 15 jours à être traitée.

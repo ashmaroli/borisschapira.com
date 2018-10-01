@@ -3,6 +3,7 @@ title: 'Juste un papa'
 date: '2016-02-16'
 type: post
 locale: fr_FR
+slug: juste-un-papa
 ---
 
 > Tout à l'heure, il grattera le fromage froid sur le lino, pendra de toutes petites chemises sur la corde à linge, mettra du désodorisant sur les coussins du salon pour enlever l'odeur de pipi et ramassera les petites crottes dans la baignoire.

@@ -4,6 +4,7 @@ date: '2018-03-21'
 type: post
 i18n-key: mobile-carrier
 locale: fr_FR
+slug: operateur
 ---
 
 L'aîné découvre depuis quelques semaines le théâtre. Il passe son temps à jouer des scènes et nous faire marcher.

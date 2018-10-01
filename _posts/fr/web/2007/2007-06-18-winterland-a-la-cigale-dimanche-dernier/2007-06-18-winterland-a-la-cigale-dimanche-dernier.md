@@ -6,6 +6,7 @@ tags:
 date: '2007-06-18'
 type: post
 locale: fr_FR
+slug: winterland-a-la-cigale-dimanche-dernier
 ---
 
 … est arrivé sixième dans un concours de Rock/Métal qui s'est transformé en concours de popularité. En effet, le classement du public votant devait séparer les 4 groupes de tête des autres et ensuite un jury devait ordonner ces deux divisions pour créer le classement. Winterland, troisième des votes de spectateurs, s'est pourtant retrouvé 6e du classement final. Un tôlé qui n'a pas laissé un bon souvenir dans l'esprit du public, d'après mes premières découvertes sur le Net.

@@ -4,6 +4,7 @@ main_image: /assets/images/papa/2016-01-16/1.gif
 date: '2016-01-16'
 type: post
 locale: fr_FR
+slug: anniversaire-du-grand
 ---
 
 Ils était 3 selon la Police, 27 d'après les organisateurs.

@@ -6,6 +6,7 @@ tags:
 date: '2009-09-30'
 type: post
 locale: fr_FR
+slug: le-virus-du-developpeur
 ---
 
 Je ne sais pas vous, mais moi je suis toujours très excité quand j’apprends un truc nouveau dans le Framework .NET. Je commence par me demander comment il marche, si cette nouvelle méthode est plus performante que l’ancienne, si son implémentation dans une solution existante prendrait du temps…

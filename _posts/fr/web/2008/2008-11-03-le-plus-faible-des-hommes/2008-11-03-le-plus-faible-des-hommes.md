@@ -6,6 +6,7 @@ tags:
 date: '2008-11-03'
 type: post
 locale: fr_FR
+slug: le-plus-faible-des-hommes
 ---
 
 Les films mentent. Le moment parfait ne vient jamais tout seul. Les mots les plus élaborés s'oublient très vite et les situations les mieux préparées… ne se déroulent jamais comme prévues. Hugh Grant est un tricheur.

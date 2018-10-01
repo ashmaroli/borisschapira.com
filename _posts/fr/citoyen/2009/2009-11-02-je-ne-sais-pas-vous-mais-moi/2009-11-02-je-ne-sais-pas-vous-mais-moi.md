@@ -8,6 +8,7 @@ tags:
 date: '2009-11-02'
 type: post
 locale: fr_FR
+slug: je-ne-sais-pas-vous-mais-moi
 ---
 
 Plus ça va, moins je comprends les publicités à la télévision. Outre quelques réclames d'agences innovantes qui arrivent à me surprendre une fois tous les trimestres, c'est absurdité sur absurdité. À croire que nous sommes tous complètement stupides. C'est affligeant.

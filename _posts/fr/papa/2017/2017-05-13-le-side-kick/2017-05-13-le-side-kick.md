@@ -3,6 +3,7 @@ title: 'Le Side-Kick'
 date: '2017-05-13'
 type: post
 locale: fr_FR
+slug: le-side-kick
 ---
 
 J'ai fini Final Fantasy XV hier. Du coup, aujourd'hui, je me suis mis en tête de finir le donjon le plus long du jeu : les ruines de Pitioss.

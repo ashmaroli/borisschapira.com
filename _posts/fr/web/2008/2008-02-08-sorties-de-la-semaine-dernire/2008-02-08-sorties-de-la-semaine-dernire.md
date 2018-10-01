@@ -8,6 +8,7 @@ tags:
 date: '2008-02-08'
 type: post
 locale: fr_FR
+slug: sorties-de-la-semaine-dernire
 ---
 
 **Mardi 29&nbsp;: Soir&#233;e Fanny's Party**</p>

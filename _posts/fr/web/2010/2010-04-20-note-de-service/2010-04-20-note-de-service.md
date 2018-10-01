@@ -5,6 +5,7 @@ tags:
 date: '2010-04-20'
 type: post
 locale: fr_FR
+slug: note-de-service
 ---
 
 En ce moment, j'ai plein d'envies. Depuis que je suis parti de Paris, en fait. Avec plus de deux heures par jour passées sous terre, la Ville Lumière me rendait surtout aveugle. Depuis mon retour à Bordeaux, je vois à nouveau et je respire.

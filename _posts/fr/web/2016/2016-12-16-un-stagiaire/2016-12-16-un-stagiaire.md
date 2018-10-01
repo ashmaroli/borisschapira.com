@@ -3,6 +3,7 @@ title: 'Un stagiaire'
 date: '2016-12-16'
 type: post
 locale: fr_FR
+slug: un-stagiaire
 ---
 
 Après une semaine, voici l'heure du départ pour notre futur ex-stagiaire.

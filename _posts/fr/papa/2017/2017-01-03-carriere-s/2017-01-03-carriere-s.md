@@ -3,6 +3,7 @@ title: Carrière(s)
 date: '2017-01-03'
 type: post
 locale: fr_FR
+slug: carriere-s
 ---
 
 Nous expliquons régulièrement aux enfants que nous les aimerons quoi qu'il arrive, quoi qu'ils deviennent dans la vie.

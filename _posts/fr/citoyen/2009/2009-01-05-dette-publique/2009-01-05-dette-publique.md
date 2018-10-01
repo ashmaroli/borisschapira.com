@@ -7,6 +7,7 @@ tags:
 date: '2009-01-05'
 type: post
 locale: fr_FR
+slug: dette-publique
 ---
 
 Au menu aujourd'hui, des éléments de réponse aux questions suivantes :

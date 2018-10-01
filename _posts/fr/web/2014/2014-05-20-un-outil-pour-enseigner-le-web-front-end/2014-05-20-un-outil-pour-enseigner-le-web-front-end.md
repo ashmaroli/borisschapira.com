@@ -11,6 +11,7 @@ date: '2014-05-20'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: un-outil-pour-enseigner-le-web-front-end
 ---
 
 ## suite d'un atelier Sud Web 2014

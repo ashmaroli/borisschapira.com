@@ -3,6 +3,7 @@ title: 'Encore un rendez-vous à la crèche'
 date: '2012-11-26'
 type: post
 locale: fr_FR
+slug: encore-un-rendez-vous-a-la-creche
 ---
 
 Quand les responsables de crèches essaient absolument de te faire placer ton gosse ailleurs :

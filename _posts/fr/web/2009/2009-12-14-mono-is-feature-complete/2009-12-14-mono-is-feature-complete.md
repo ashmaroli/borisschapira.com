@@ -6,6 +6,7 @@ tags:
 date: '2009-12-14'
 type: post
 locale: fr_FR
+slug: mono-is-feature-complete
 ---
 
 C’est Marek Safar qui l’annonce sur son blog et chez NexDotNet, ça nous rend tous choses… <span lang="en">Well done guys</span> !

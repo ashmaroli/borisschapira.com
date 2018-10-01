@@ -6,6 +6,7 @@ tags:
 date: '2008-04-10'
 type: post
 locale: fr_FR
+slug: phrases-insolites-9
 ---
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_

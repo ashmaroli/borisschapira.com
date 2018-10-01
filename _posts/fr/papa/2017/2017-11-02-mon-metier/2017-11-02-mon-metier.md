@@ -3,6 +3,7 @@ title: 'Mon métier'
 date: '2017-11-02'
 type: post
 locale: fr_FR
+slug: mon-metier
 ---
 
 Discussion à propos des métiers des parents d'élèves.

@@ -5,6 +5,7 @@ tags:
 date: '2016-01-01'
 type: post
 locale: fr_FR
+slug: resolutions
 ---
 
 ## pour 2016

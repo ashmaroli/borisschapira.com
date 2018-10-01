@@ -3,6 +3,7 @@ title: 'C''est ta vie'
 date: '2014-10-05'
 type: post
 locale: fr_FR
+slug: cest-ta-vie
 ---
 
 > — A château, papa!  

@@ -5,6 +5,7 @@ tags:
 date: '2010-04-28'
 type: post
 locale: fr_FR
+slug: vindicte-populaire-laffaire-s-duchemontul
 ---
 
 Personne ne se serait intéressé à S. Duchemontul si on n'avait pas arrêté sa femme au volant pour **conduite en état d'ivresse**. Depuis, c'est la folie médiatique. La France entière semble se passionner pour ce cheminot qui, il faut bien le dire, attire à lui toutes les inimitiés…

@@ -8,6 +8,7 @@ series:
 date: '2013-09-11'
 type: post
 locale: fr_FR
+slug: rester-sous-windows-phone
 ---
 
 Je ne sais plus quoi penser de Windows Phone. J'aime beaucoup la plate-forme, autant au niveau de son architecture logicielle que de son design, mais j'ai du mal à voir son avenir.

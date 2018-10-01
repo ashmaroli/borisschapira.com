@@ -8,6 +8,7 @@ tags:
 date: '2007-06-21'
 type: post
 locale: fr_FR
+slug: les-microsoft-student-partners-se-demarquent-a-limagine-cup
 ---
 
 Je viens de recevoir la [Newsletter MSDN Flash](http://msdn.microsoft.com/en-us/aa570311.aspx) publiée par [Laurent](http://blogs.msdn.com/b/laurelle/) et je ne peux pas m'empêcher de relever la suprématie des [Microsoft Student Partners (MSP)](https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx) vainqueurs de la Finale française de l'Imagine Cup. Certains iront donc en finale internationale&nbsp;:

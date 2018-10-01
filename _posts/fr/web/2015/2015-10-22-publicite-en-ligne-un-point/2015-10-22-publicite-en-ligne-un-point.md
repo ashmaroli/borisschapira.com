@@ -10,6 +10,7 @@ canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-poin
 date: '2015-10-22'
 locale: fr_FR
 type: post
+slug: publicite-en-ligne-un-point
 ---
 
 ## Une guerre aux multiples facettes

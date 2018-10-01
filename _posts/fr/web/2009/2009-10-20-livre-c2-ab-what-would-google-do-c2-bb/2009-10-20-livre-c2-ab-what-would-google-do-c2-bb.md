@@ -8,6 +8,7 @@ tags:
 date: '2009-10-20'
 type: post
 locale: fr_FR
+slug: livre-c2-ab-what-would-google-do-c2-bb
 ---
 
 _**What Would Google Do**, que vous trouverez en français sous le titre \_\_La Méthode Google est un essai de Jeff Jarvis, professeur de journalisme à NYU et homme de medias. Il y dissèque la stratégie de Google pour en extraire quelques grands principes et ensuite les appliquer à plusieurs types d'entreprises._

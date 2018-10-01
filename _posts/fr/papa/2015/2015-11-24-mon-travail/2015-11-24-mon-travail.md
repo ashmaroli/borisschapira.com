@@ -3,6 +3,7 @@ title: 'Mon travail'
 date: '2015-11-24'
 type: post
 locale: fr_FR
+slug: mon-travail
 ---
 
 > — Papa, ton travail c'est aider le chef ?  

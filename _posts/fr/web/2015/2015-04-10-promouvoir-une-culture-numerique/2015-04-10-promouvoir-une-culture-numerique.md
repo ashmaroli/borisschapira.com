@@ -6,6 +6,7 @@ tags:
 date: '2015-04-10'
 type: post
 locale: fr_FR
+slug: promouvoir-une-culture-numerique
 ---
 
 ## il n'est jamais trop tard

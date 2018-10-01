@@ -6,6 +6,7 @@ date: '2015-12-27'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: etat-urgence-permanent
 ---
 
 Je ne comprends pas.

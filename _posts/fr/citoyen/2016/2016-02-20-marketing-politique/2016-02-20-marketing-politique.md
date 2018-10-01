@@ -8,6 +8,7 @@ loadTwitter: true
 date: '2016-02-20'
 type: post
 locale: fr_FR
+slug: marketing-politique
 ---
 
 ## pour mieux régner

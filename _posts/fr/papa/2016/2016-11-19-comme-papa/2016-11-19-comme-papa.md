@@ -3,6 +3,7 @@ title: 'Comme Papa'
 date: '2016-11-19'
 type: post
 locale: fr_FR
+slug: comme-papa
 ---
 
 Libellule attend avec l'aîné dans la salle d'attente de l'orthophoniste.

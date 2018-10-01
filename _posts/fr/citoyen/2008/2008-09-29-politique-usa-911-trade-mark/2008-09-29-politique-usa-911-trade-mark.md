@@ -5,6 +5,7 @@ tags:
 date: '2008-09-29'
 type: post
 locale: fr_FR
+slug: politique-usa-911-trade-mark
 ---
 
 Vidéo traduite par [CaféCroissant](http://cafecroissant.fr/2008/bonne-nuit-et-bonne-chance/), à propos de la récupération politique du 11 septembre par les républicains. Le monologue de 8 minutes est de Keith Olbermann et la chaine est MSNBC, pro-démocrate.

@@ -9,6 +9,7 @@ tags:
     - Video
 locale: fr_FR
 cloudinary_logo: dareboost-logo
+slug: video-optimisez-vos-mp4-pour-de-meilleures-performances
 ---
 
 Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujourd’hui. Cependant, il est souvent mal utilisé, ce qui peut dégrader l’expérience utilisateur. Voyons ensemble comment améliorer ça.

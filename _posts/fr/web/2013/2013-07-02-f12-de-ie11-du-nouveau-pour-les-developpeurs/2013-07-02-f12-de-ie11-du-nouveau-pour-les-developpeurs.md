@@ -7,6 +7,7 @@ canonical: 'https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pou
 date: '2013-07-02'
 type: post
 locale: fr_FR
+slug: f12-de-ie11-du-nouveau-pour-les-developpeurs
 ---
 
 Cela fait un petit moment que je n’avais pas vu de challenger sérieux aux Dev. Tools de Chrome (de nombreuses études montrent que Firebug pénalise le Firefox sur lequel il est installé, faussant ainsi les mesures réalisées au niveau WebPerf, par exemple).

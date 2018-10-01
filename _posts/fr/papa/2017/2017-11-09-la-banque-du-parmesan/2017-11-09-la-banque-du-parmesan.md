@@ -3,6 +3,7 @@ title: 'La banque du parmesan'
 date: '2017-11-09'
 type: post
 locale: fr_FR
+slug: la-banque-du-parmesan
 ---
 
 Les enfants aiment le parmesan. J'en achète souvent, en bloc, et je le rape moi-même. Tantôt finement, tantôt en grand copeaux dans la salade, c'est toujours un succès. Mais maintenant qu'ils sont plus grands, nous voulons commencer à leur expliquer la valeur que ça a, ce qui n'est pas toujours évident pour eux.

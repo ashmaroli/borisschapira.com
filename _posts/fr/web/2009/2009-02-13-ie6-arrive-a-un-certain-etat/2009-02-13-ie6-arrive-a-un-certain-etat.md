@@ -7,6 +7,7 @@ tags:
 date: '2009-02-13'
 type: post
 locale: fr_FR
+slug: ie6-arrive-a-un-certain-etat
 ---
 
 > Arrivé à un certain état, il est indécent de vivre plus longtemps.  

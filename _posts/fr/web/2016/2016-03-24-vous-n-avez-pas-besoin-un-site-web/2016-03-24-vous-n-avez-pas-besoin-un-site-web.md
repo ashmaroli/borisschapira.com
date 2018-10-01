@@ -5,6 +5,7 @@ tags:
 date: '2016-03-24'
 type: post
 locale: fr_FR
+slug: vous-n-avez-pas-besoin-un-site-web
 ---
 
 > **Vous n’avez pas besoin d’un site web.**

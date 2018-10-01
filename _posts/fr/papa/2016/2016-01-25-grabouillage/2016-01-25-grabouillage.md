@@ -3,6 +3,7 @@ title: Grabouillage
 date: '2016-01-25'
 type: post
 locale: fr_FR
+slug: grabouillage
 ---
 
 > — Maman, pourquoi tu fais du grabouillage ?  

@@ -5,6 +5,7 @@ series:
 date: '2010-06-24'
 type: post
 locale: fr_FR
+slug: phrases-insolites-e2-80-a6-19-clients-from-hell
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c'est une oreille de consultant en informatique ou de développeur, c'est encore plus délicieux. Que celui qui n'a jamais entendu ces quelques phrases me jette le premier bug&nbsp;!

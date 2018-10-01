@@ -8,6 +8,7 @@ tags:
 date: '2008-10-14'
 type: post
 locale: fr_FR
+slug: 4-conseils-pour-nommer-son-atelier-a-la-mode-du-web
 ---
 
 Rien de plus simple.

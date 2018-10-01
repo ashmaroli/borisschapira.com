@@ -5,6 +5,7 @@ tags:
 date: '2007-07-02'
 type: post
 locale: fr_FR
+slug: colocation-avec-avantages
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

@@ -3,6 +3,7 @@ title: 'Pendant que les hommes posent'
 date: '2018-05-19'
 type: post
 locale: fr_FR
+slug: pendant-que-les-hommes-posent
 ---
 
 Au supermarché, un jeu de figurines "Justice League", dont Wonder Woman est, assez curieusement, absente.

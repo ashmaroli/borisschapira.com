@@ -7,6 +7,7 @@ tags:
 date: '2009-06-09'
 type: post
 locale: fr_FR
+slug: les-5-contre-verite-des-iphone-addicts
 ---
 
 Tout le foin autour de la sortie du firmware 3.0 et de l'iPhone 3Gs m'exaspère, mais je dois reconnaître que les commerciaux d'Apple savent jouer avec l'alchimie des multitudes. Pour preuve, les meilleurs vendeurs d'iPhone sont les propriétaires d'iPhone. Il faut les voir essayer de vous convaincre que&nbsp;:

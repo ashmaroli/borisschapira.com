@@ -3,6 +3,7 @@ title: 'Perdre une heure'
 date: '2017-03-25'
 type: post
 locale: fr_FR
+slug: perdre-une-heure
 ---
 
 Hey, les gens sans enfants !

@@ -8,6 +8,7 @@ tags:
     - 'Performance Web'
 locale: fr_FR
 cloudinary_logo: dareboost-logo
+slug: comment-differer-l-execution-d-un-script
 ---
 
 Les artistes ne sont pas les seul·e·s à redouter les pages blanches, les internautes aussi. Leur frustration peut les pousser à abandonner votre site plus tôt qu’ils ou elles ne l’auraient voulu. Pour éviter ça, plusieurs techniques d’optimisation du rendu existent. Comme différer l’analyse et l’exécution des fichiers JavaScript.

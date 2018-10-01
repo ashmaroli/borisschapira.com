@@ -6,6 +6,7 @@ tags:
 date: '2011-04-04'
 type: post
 locale: fr_FR
+slug: soutenez-la-quadrature-du-net
 ---
 
 La **[Quadrature du Net](https://support.laquadrature.net/)** informe et donne les outils nécessaires à la compréhension de textes et de projets liberticides, et pas seulement sur Internet. Elle fournit également une plate-forme d'action citoyenne collaborative et riche, et tout cela avec seulement deux salariés.

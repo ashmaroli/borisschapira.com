@@ -8,6 +8,7 @@ date: '2015-01-09'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: je-ne-suis-pas-charlie-je-suis-francais
 ---
 
 ## précisions pour ceux qui s'offusquent

@@ -3,6 +3,7 @@ title: Accessibilité
 date: '2014-03-01'
 type: post
 locale: fr_FR
+slug: accessibilite
 ---
 
 Les bouchons sécurisés sur les médicaments, je suis sûr que ça gêne des milliers de personnes en France qui du coup ne peuvent pas se servir du contenu.

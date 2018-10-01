@@ -6,6 +6,7 @@ tags:
     - election
     - legislatives
 locale: fr_FR
+slug: legislatives
 ---
 
 Rappelons le principe d'un député : il est censé prendre l'avis de sa circonscription et le défendre, quelles que soient ses idées personnelles, tout au long de son mandat. Elle ou il est porteuse·eur d'un mandat de représentation du Peuple.

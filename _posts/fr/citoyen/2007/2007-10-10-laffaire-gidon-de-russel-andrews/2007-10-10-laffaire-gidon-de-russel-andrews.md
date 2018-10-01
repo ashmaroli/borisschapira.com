@@ -5,6 +5,7 @@ tags:
 date: '2007-10-10'
 type: post
 locale: fr_FR
+slug: laffaire-gidon-de-russel-andrews
 ---
 
 _Heureusement que ma Libellule est là pour me rappeller à l’ordre&nbsp;: cela fait plus d’une semaine que j’ai dévoré l’Affaire Gideon, et pas un article pour en parler. J’ai une excuse&nbsp;: je m’en remettais._

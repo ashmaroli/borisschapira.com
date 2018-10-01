@@ -3,6 +3,7 @@ title: 'Reconnaissant mais pas trop'
 date: '2015-07-19'
 type: post
 locale: fr_FR
+slug: reconnaissant-mais-pas-trop
 ---
 
 > — Papa, pardon.  

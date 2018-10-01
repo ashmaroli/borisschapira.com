@@ -6,6 +6,7 @@ series: 'Dangers du Net'
 date: '2007-08-29'
 type: post
 locale: fr_FR
+slug: mails-messageries-web-cest-aussi-la-rentree-des-dangers
 ---
 
 Lundi matin **Renaud Marcadet**, chef de produit Microsoft Office chez Microsoft France, donnait [sur BFM](http://bfmbusiness.bfmtv.com/) quelques conseils de rentrée pour prendre de bons réflexes avec les mails laissés à l'abandon pendant de longues semaines de dorage de pilule.

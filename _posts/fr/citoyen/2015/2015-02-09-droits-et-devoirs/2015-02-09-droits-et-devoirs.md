@@ -6,6 +6,7 @@ tags:
 date: '2015-02-09'
 type: post
 locale: fr_FR
+slug: droits-et-devoirs
 ---
 
 > Chacun a le **devoir** de travailler et le **droit** d'obtenir un emploi.  

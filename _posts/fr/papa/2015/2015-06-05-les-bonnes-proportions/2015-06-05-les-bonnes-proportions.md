@@ -3,6 +3,7 @@ title: 'Les bonnes proportions'
 date: '2015-06-05'
 type: post
 locale: fr_FR
+slug: les-bonnes-proportions
 ---
 
 > — chetchup Papa !  

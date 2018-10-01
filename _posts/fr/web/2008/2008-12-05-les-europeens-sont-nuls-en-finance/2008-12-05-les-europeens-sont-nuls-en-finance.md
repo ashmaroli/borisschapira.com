@@ -7,6 +7,7 @@ tags:
 date: '2008-12-05'
 type: post
 locale: fr_FR
+slug: les-europeens-sont-nuls-en-finance
 ---
 
 En période de crise, tout le monde donne son avis sur ce que devrait ou ne devrait pas faire le gouvernement, les entreprises et la BCE pour permettre aux familles de retrouver leur "**pouvoir d'achat**". De ces discussions n'émane que très rarement une idée objective du problème et une esquisse de solution. Et pour cause : **les européens sont nuls en Economie et en Finance** !

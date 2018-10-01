@@ -6,6 +6,7 @@ tags:
 date: '2014-11-04'
 type: post
 locale: fr_FR
+slug: attitude-dhomme-blanc
 ---
 
 > En juin dernier, Fiona Taylor Gorringe soulevait une question intéressante sur son blog&nbsp;:

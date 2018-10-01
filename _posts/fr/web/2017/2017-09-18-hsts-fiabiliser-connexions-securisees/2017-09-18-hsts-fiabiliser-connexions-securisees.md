@@ -8,6 +8,7 @@ type: post
 tags:
     - 'Performance Web'
 locale: fr_FR
+slug: hsts-fiabiliser-connexions-securisees
 ---
 
 Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé [qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/ "Passer au HTTPs est nécessaire, et pas uniquement pour le SEO &mid; Blog Dareboost"). L’échéance est d’autant plus forte que les géants du Web ont déjà tiré leurs coups de semonce en affichant des alertes sur certaines pages en HTTP dans Google Chrome et Mozilla Firefox. Bientôt, ce seront tous les formulaires qui seront concernés.

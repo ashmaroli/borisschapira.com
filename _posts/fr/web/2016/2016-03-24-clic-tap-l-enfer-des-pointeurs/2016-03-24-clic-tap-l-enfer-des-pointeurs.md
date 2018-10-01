@@ -3,6 +3,7 @@ title: 'Clic, Tap, l''enfer des pointeurs'
 date: '2016-03-24'
 type: post
 locale: fr_FR
+slug: clic-tap-l-enfer-des-pointeurs
 ---
 
 ## Le problème

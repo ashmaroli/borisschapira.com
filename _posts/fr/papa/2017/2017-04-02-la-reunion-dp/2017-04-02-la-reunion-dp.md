@@ -3,6 +3,7 @@ title: 'La réunion DP'
 date: '2017-04-02'
 type: post
 locale: fr_FR
+slug: la-reunion-dp
 ---
 
 [Leur mère](http://libelilou.github.io/) rentre du travail et dit qu'elle a eu, dans la journée, une réunion <abbr title="Délégués du Personnel">DP</abbr>. Ils se sont mis à en parler tous les deux…

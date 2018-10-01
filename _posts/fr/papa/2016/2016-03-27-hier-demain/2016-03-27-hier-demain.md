@@ -3,6 +3,7 @@ title: 'Hier Demain'
 date: '2016-03-27'
 type: post
 locale: fr_FR
+slug: hier-demain
 ---
 
 > — Tu as une petite mine, mon poussin, on dirait que tu n'as pas fait la sieste…  

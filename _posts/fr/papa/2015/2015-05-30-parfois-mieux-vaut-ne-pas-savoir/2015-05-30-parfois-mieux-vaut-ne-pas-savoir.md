@@ -3,6 +3,7 @@ title: 'Parfois, mieux vaut ne pas savoir'
 date: '2015-05-30'
 type: post
 locale: fr_FR
+slug: parfois-mieux-vaut-ne-pas-savoir
 ---
 
 > — Papa, Maman, j'ai vomi !  

@@ -5,6 +5,7 @@ type: post
 tags:
     - anecdotes
 locale: fr_FR
+slug: le-rendez-vous
 ---
 
 [Le souvenir du mois dernier](/2017/04/de-vrais-gens-derriere/) en a appelé un autre, tout aussi mémorable…

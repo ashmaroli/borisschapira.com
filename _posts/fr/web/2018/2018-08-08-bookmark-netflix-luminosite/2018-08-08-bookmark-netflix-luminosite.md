@@ -6,6 +6,7 @@ type: post
 tags:
     - Netflix
 locale: fr_FR
+slug: bookmark-netflix-luminosite
 ---
 
 Mes enfants sont en vacances chez leurs grand-mères, ce qui me laisse beaucoup de temps libre pour binge-watcher des séries TV sur Netflix. Sauf que je trouve que sur Netflix, l'image est souvent trop sombre. Pas vous ?

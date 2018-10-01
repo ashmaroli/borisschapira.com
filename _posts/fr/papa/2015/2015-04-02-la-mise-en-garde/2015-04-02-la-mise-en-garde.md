@@ -3,6 +3,7 @@ title: 'La mise en garde'
 date: '2015-04-02'
 type: post
 locale: fr_FR
+slug: la-mise-en-garde
 ---
 
 En sortie avec le petit dernier de 20 mois :

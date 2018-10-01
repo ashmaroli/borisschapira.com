@@ -9,6 +9,7 @@ tags:
 date: '2007-04-20'
 type: post
 locale: fr_FR
+slug: deux-emissions-a-ne-pas-louper-sur-arte
 ---
 
 Dans un contexte tendu de positions dominantes (rachat de DoubleClick par Google, procès de Bruxelles envers Microsoft), deux émissions pertinentes sur Arte&nbsp;:

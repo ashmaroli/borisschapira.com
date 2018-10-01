@@ -3,6 +3,7 @@ title: 'Preuves à charge'
 date: '2015-03-12'
 type: post
 locale: fr_FR
+slug: preuves-a-charge
 ---
 
 Le réparateur du PC, venant tout démonter pour changer la carte mère :

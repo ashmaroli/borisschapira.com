@@ -7,6 +7,7 @@ tags:
 date: '2010-11-21'
 type: post
 locale: fr_FR
+slug: bienvenue-a-regenerate-thumbnails-2-1-0
 ---
 
 Une nouvelle version du plugin Wordpress [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) est disponible, avec quelques améliorations issues d'un de mes projets personnels.

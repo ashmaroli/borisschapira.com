@@ -5,6 +5,7 @@ tags:
 date: '2015-12-21'
 type: post
 locale: fr_FR
+slug: trois-lois
 ---
 
 S'il est un auteur qui n'a cessé, dans son œuvre, de questionner l'intelligence artificielle, c'est bien Asimov. Chacun de ces romans est une réflexion autour des lois fondamentales qu'il faudrait suivre pour éviter que la robotique ne nuise à l'homme. Formulées par Asimov, ces lois sont les suivantes :

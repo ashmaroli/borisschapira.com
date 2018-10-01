@@ -3,6 +3,7 @@ title: 'Un gitignore pour les gouverner tous'
 date: '2016-09-26'
 type: post
 locale: fr_FR
+slug: un-gitignore-pour-les-gouverner-tous
 ---
 
 ## TL;DR

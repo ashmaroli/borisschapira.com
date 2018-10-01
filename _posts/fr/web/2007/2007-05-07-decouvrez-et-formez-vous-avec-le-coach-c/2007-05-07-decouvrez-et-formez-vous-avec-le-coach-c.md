@@ -5,6 +5,7 @@ tags:
 date: '2007-05-07'
 type: post
 locale: fr_FR
+slug: decouvrez-et-formez-vous-avec-le-coach-c
 ---
 
 Source&nbsp;: [Centre de développement C#](http://msdn.microsoft.com/en-us/vstudio/bb409645.aspx)

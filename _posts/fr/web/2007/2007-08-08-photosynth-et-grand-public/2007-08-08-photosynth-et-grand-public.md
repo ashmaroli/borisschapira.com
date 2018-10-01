@@ -7,6 +7,7 @@ tags:
 date: '2007-08-08'
 type: post
 locale: fr_FR
+slug: photosynth-et-grand-public
 ---
 
 J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depuis) pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.

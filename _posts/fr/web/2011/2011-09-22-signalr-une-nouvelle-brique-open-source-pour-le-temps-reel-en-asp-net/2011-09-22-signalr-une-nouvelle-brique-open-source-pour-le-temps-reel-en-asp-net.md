@@ -5,6 +5,7 @@ tags:
 date: '2011-09-22'
 type: post
 locale: fr_FR
+slug: signalr-une-nouvelle-brique-open-source-pour-le-temps-reel-en-asp-net
 ---
 
 Cela faisait longtemps qu’on l’attendait et la voici : la réponse de Microsoft aux technologies de Web Temps Réel qui fleurissent autour de Node.js.

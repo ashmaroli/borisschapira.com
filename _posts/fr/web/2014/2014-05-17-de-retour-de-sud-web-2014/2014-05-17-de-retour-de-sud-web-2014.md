@@ -7,6 +7,7 @@ series:
 date: '2014-05-17'
 type: post
 locale: fr_FR
+slug: de-retour-de-sud-web-2014
 ---
 
 ## De beaux projets, de belles personnes

@@ -6,6 +6,7 @@ canonical: 'https://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-m
 date: '2012-07-31'
 type: post
 locale: fr_FR
+slug: a-quelle-vitesse-ma-page-se-charge-t-elle
 ---
 
 Cette question est à la base de toute stratégie de WebPerf et pour autant, elle n’admet aucune bonne réponse. Alors comment mesurer la performance Web&nbsp;?

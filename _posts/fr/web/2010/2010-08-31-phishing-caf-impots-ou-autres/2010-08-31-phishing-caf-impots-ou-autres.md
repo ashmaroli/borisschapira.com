@@ -4,6 +4,7 @@ date: '2010-08-31'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: phishing-caf-impots-ou-autres
 ---
 
 ## Ceci n'est pas une pipe

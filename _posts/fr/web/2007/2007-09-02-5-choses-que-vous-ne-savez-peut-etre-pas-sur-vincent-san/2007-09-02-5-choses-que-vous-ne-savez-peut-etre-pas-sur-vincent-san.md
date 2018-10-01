@@ -3,6 +3,7 @@ title: '5 choses que vous ne savez (peut-être) pas sur Vincent-San'
 date: '2007-09-02'
 type: post
 locale: fr_FR
+slug: 5-choses-que-vous-ne-savez-peut-etre-pas-sur-vincent-san
 ---
 
 En tant que fidèle lecteur du blog, fidèle relecteur de mes fautes de design et de grammaire, fidèle animateur de mes commentaires et fidèle camarade qui m'avait retrouvé, il y a longtemps de cela, le titre d'un film, Vincent-san mérite bien qu'on révèle quelques-un de ses secrets&nbsp;:

@@ -3,6 +3,7 @@ title: 'Blair à l''UMP… (sic)'
 date: '2008-01-15'
 type: post
 locale: fr_FR
+slug: blair-a-lump-sic
 ---
 
 La présence de Tony Blair au Conseil National de l'UMP est fortement symptomatique des déséquilibres politiques en France&nbsp;:

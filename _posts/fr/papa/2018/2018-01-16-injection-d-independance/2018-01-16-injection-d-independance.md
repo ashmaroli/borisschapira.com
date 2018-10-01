@@ -4,6 +4,7 @@ date: '2018-01-16'
 type: post
 i18n-key: independence-injection
 locale: fr_FR
+slug: injection-d-independance
 ---
 
 À la maison, mon rôle principal est d'éviter que les enfants ne dépassent du cadre en leur donnant un contexte dans lequel se positionner.

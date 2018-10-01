@@ -3,6 +3,7 @@ title: 'Les pommes des joues'
 date: '2014-04-11'
 type: post
 locale: fr_FR
+slug: les-pommes-des-joues
 ---
 
 > — C'est bien chéri, je suis très fier de toi, tu manges bien ta pomme.  

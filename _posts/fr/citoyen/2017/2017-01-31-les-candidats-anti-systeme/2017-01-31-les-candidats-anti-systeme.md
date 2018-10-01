@@ -5,6 +5,7 @@ tags:
 date: '2017-01-31'
 type: post
 locale: fr_FR
+slug: les-candidats-anti-systeme
 ---
 
 > Je suis le candidat anti-système, donc votez pour moi.

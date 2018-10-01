@@ -6,6 +6,7 @@ tags:
 date: '2007-08-29'
 type: post
 locale: fr_FR
+slug: impressionnant-traitement-dimages
 ---
 
 Une extraordinnaire nouvelle technique de redimensionnement d'images que nous présente ici [Fred Cavazza](http://www.fredcavazza.net/2007/08/27/des-algorithmes-de-retouche-dimage-toujours-plus-performants/). Merci pour la vidéo, je vais suivre ça de près maintenant.

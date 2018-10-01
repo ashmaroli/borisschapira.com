@@ -5,6 +5,7 @@ tags:
 date: '2007-02-19'
 type: post
 locale: fr_FR
+slug: premier-jour-chez-microsoft
 ---
 
 J'ai passé aujourd'hui ma première journée au cœur du département Services de Microsoft France. Accueilli par Jean-Marc Sennechael, j'ai été conduit à travers quelques étapes administratives avant de profiter d'une présentation de la structure de cette grande entreprise et de mon rôle…

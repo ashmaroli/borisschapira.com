@@ -3,6 +3,7 @@ title: 'Tread softly because you tread on my dreams'
 date: '2017-10-19'
 type: post
 locale: fr_FR
+slug: tread-softly
 ---
 
 À la place d'une lutte entre la droite et la gauche, nous sommes désormais témoins d'une lutte entre réformateurs et conservateurs. Nos partis traditionnels, de gauche comme de droite, ont implosé, avec les garde-fous qu'ils pouvaient apporter en terme de constance politique.

@@ -5,6 +5,7 @@ tags:
 date: '2008-12-31'
 type: post
 locale: fr_FR
+slug: voeux-2009-enfin-presque
 ---
 
 Vous ne trouvez pas qu'il est vraiment difficile de faire ses vœux aujourd'hui&nbsp;? Imaginons que vous vouliez envoyer un message à vos connaissances…

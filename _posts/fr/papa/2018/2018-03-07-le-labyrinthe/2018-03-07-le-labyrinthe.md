@@ -4,6 +4,7 @@ date: '2018-03-07'
 type: post
 i18n-key: the-curtain
 locale: fr_FR
+slug: le-labyrinthe
 ---
 
 Nous étions au Mc Donald's, ils jouaient dans les jeux d'intérieur. Il vint me voir, tout excité.

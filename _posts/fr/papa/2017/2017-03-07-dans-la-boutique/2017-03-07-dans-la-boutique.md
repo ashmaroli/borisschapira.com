@@ -3,6 +3,7 @@ title: 'Dans la boutique'
 date: '2017-03-07'
 type: post
 locale: fr_FR
+slug: dans-la-boutique
 ---
 
 Ce week-end, je rentre dans une boutique de belles chemises et de cravates. Le grand me suit.

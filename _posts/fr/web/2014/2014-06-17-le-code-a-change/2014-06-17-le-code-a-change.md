@@ -5,6 +5,7 @@ tags:
 date: '2014-06-17'
 type: post
 locale: fr_FR
+slug: le-code-a-change
 ---
 
 ## ou l'absurdité d'une PPL sur le code à l'Ecole

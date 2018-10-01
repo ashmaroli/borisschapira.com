@@ -5,6 +5,7 @@ tags:
 date: '2007-12-22'
 type: post
 locale: fr_FR
+slug: demain-cest-nol
 ---
 
 **Re-Edit**&nbsp;: Elle a fini par arriver, mais on ne sait pas où sont les bagages (qui contenaient notamment les cadeaux de Noël pour la famille)…

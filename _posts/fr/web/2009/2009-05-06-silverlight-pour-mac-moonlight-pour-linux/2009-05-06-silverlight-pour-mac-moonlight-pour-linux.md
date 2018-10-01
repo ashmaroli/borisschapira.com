@@ -6,6 +6,7 @@ tags:
 date: '2009-05-06'
 type: post
 locale: fr_FR
+slug: silverlight-pour-mac-moonlight-pour-linux
 ---
 
 Un reproche que l’on fait habituellement aux technologies de développement .NET est qu’elles ne sont opérantes que sur des PC équipés de Windows. Silverlight, le framework pour Applications Internet Riches (RIA) ne déroge pas à la règle et pourtant…

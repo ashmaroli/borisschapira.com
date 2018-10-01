@@ -3,6 +3,7 @@ title: 'Paie ton éducation'
 date: '2015-12-14'
 type: post
 locale: fr_FR
+slug: paie-ton-education
 ---
 
 > — Allez, on rentre vite, on enlève les chaussures, les manteaux et…  

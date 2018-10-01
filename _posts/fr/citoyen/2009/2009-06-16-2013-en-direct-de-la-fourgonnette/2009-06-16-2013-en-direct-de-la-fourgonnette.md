@@ -5,6 +5,7 @@ tags:
 date: '2009-06-16'
 type: post
 locale: fr_FR
+slug: 2013-en-direct-de-la-fourgonnette
 ---
 
 Témoignage en direct du futur :

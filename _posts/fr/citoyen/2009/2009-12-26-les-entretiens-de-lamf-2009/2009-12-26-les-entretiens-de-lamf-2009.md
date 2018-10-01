@@ -5,6 +5,7 @@ tags:
 date: '2009-12-26'
 type: post
 locale: fr_FR
+slug: les-entretiens-de-lamf-2009
 ---
 
 Le _16 décembre_ dernier avaient lieu les **Entretiens de l’<abbr title="Autorité des Marchés Financiers">AMF</abbr> 2009**. Dans la plus grande discrétion, ce sont deux sujets très importants qui ont été discutés&nbsp;: la réforme la régulation financière en Europe et le bilan sur la directive <abbr title="Marchés d'Instruments Financiers">MIF</abbr> qui impose de nouvelles règles visant à faciliter l'européanisation des services offerts par les <abbr title="Prestataires de Services d'Investissement">PSI</abbr> et une meilleure compatibilité avec les évolutions récentes des Marchés, dont la multiplication de lieux d'exécution.

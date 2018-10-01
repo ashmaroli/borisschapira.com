@@ -6,6 +6,7 @@ tags:
 date: '2013-10-17'
 type: post
 locale: fr_FR
+slug: donnees-personnelles-enjeu-davenir
 ---
 
 J'écrivais l'année dernière, pour [le Train de 13h37](http://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/ '"Scripts tiers & appels induits : ne perdez pas le contrôle de votre site" ", LeTrainDe13h37')&nbsp;:

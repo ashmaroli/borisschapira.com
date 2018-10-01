@@ -3,6 +3,7 @@ title: 'Dessin du jour'
 date: '2018-03-15'
 type: post
 locale: fr_FR
+slug: dessin-du-jour
 ---
 
 Le petit arrive, tout fier.

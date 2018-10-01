@@ -7,6 +7,7 @@ tags:
 date: '2007-04-19'
 type: post
 locale: fr_FR
+slug: microsoft-aide-les-pays-emergeants
 ---
 
 Bill Gates a annoncé aujourd'hui à Beijing le lancement d'un programme permettant aux populations des **pays émergeants** d'obtenir des **versions allégées de Windows, Office et d'autres logiciels pour 3$**.

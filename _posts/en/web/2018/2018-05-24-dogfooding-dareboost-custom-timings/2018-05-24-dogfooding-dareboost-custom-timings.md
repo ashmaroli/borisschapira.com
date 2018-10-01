@@ -9,6 +9,7 @@ tags:
     - Metrics
 locale: en_US
 cloudinary_logo: dareboost-logo
+slug: dogfooding-dareboost-custom-timings
 ---
 
 We may be Web Performance experts, we still don’t have superpowers. We also need tools to analyze our sites and applications. So when we released our new Custom Timings feature, we naturally jumped at the chance to test it on Dareboost.com… and immediately saw the benefit.

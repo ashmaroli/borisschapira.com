@@ -5,6 +5,7 @@ tags:
 date: '2016-03-22'
 type: post
 locale: fr_FR
+slug: comme-un-seul-homme
 ---
 
 > Somewhere in the internet there’s a guy named Doug Wilson ([@blipsofadoug](https://twitter.com/blipsofadoug)). And for the past 3 years, he’s the one who’s been taking care of Express for the rest of us.

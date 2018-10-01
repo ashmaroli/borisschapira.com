@@ -8,6 +8,7 @@ date: '2015-01-12'
 type: post
 locale: fr_FR
 loadTwitterWjs: true
+slug: ecouter-et-reflechir
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jours.

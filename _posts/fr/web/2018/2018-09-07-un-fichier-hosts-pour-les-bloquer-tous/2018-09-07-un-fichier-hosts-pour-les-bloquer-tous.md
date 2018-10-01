@@ -10,6 +10,7 @@ tags:
     - Outils
     - Productivité
 locale: fr_FR
+slug: un-fichier-hosts-pour-les-bloquer-tous
 ---
 
 

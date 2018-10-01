@@ -3,6 +3,7 @@ title: 'La peinture'
 date: '2017-03-31'
 type: post
 locale: fr_FR
+slug: la-peinture
 ---
 
 Le petit dernier et sa mère se font des bisous…

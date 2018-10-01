@@ -3,6 +3,7 @@ title: 'James Bond'
 date: '2016-05-22'
 type: post
 locale: fr_FR
+slug: james-bond
 ---
 
 Dans les James Bond, le méchant gâche toujours son plan machiavélique en le divulguant trop tôt.

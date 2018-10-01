@@ -6,6 +6,7 @@ series: Hadopi
 date: '2009-06-04'
 type: post
 locale: fr_FR
+slug: et-les-livres-pirates
 ---
 
 Les industries culturelles ont peur de la numérisation des médias. Elles font tout aujourd'hui pour favoriser une économie de la rareté qui n'a plus lieu d'exister à l'ère du Peer to Peer.

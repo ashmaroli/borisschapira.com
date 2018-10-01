@@ -7,6 +7,7 @@ tags:
 date: '2009-03-05'
 type: post
 locale: fr_FR
+slug: darwin-chez-les-ados
 ---
 
 Un an après la polémique soulevée par le site [Note2Be](http://www.note2be.com/), un potentiel site chamboule à nouveau le monde de l'Education&nbsp;: FaisMesDevoirs. Le concept&nbsp;: des élèves de collège et de lycée pourrait charger sur le site leurs intitulés d'exercice et, moyennant finance, le site réalise le travail à leur place…

@@ -6,6 +6,7 @@ tags:
 date: '2009-12-11'
 type: post
 locale: fr_FR
+slug: marietta-karamanli-identite-nationale
 ---
 
 ## Merci pour ce témoignage, Madame

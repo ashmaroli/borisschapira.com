@@ -6,6 +6,7 @@ tags:
 date: '2007-09-23'
 type: post
 locale: fr_FR
+slug: mentalits-informatique-et-runion-de-famille
 ---
 
 Pour tout esprit normalement constitué ces trois mots n'ont rien à faire ensemble. À la limite, les deux extrêmes s'entrechoquent-ils assez souvent mais celui du milieu y est rarement pour grand-chose.

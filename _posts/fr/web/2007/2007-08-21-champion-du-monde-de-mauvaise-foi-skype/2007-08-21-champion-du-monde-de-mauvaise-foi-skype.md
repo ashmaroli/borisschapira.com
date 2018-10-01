@@ -6,6 +6,7 @@ tags:
 date: '2007-08-21'
 type: post
 locale: fr_FR
+slug: champion-du-monde-de-mauvaise-foi-skype
 ---
 
 Je trouve Skype génial. Sérieusement, je suis un utilisateur assez satisfait. Mais quand les responsables du logiciel rejettent la faute de leur gros plantage de 72h il y a deux jours sur Windows Update… j'esquisse un sourire qui s'efface rapidement.

@@ -3,6 +3,7 @@ title: 'L''Ass. Mat de la mort : le gros énervement'
 date: '2014-05-25'
 type: post
 locale: fr_FR
+slug: lass-mat-de-la-mort-le-gros-enervement
 ---
 
 Le matin, j'explique :

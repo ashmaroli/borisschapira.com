@@ -6,6 +6,7 @@ tags:
 date: '2009-07-27'
 type: post
 locale: fr_FR
+slug: microsoft-wireless-mobile-mouse-6000
 ---
 
 {% capture img_alt %}Photos de la souris sous toutes les coutures{% endcapture %}

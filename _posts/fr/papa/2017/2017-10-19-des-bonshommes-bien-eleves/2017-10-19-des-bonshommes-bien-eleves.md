@@ -3,6 +3,7 @@ title: 'Les bonshommes bien élevés'
 date: '2017-10-19'
 type: post
 locale: fr_FR
+slug: des-bonshommes-bien-eleves
 ---
 
 Depuis mon bureau, j'entends mon petit dernier. Il est allé dans sa chambre et joue seul avec ses bonshommes. Comme à chaque fois, il leur fait revivre ses propres apprentissages.

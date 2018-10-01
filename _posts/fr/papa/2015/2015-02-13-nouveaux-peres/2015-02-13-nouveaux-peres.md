@@ -3,6 +3,7 @@ title: 'Nouveaux pères'
 date: '2015-02-13'
 type: post
 locale: fr_FR
+slug: nouveaux-peres
 ---
 
 Ma femme, avec une amie enceinte :

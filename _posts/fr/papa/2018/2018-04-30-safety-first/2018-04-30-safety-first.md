@@ -3,6 +3,7 @@ title: 'Safety first'
 date: '2018-04-30'
 type: post
 locale: fr_FR
+slug: safety-first
 ---
 
 Éveil musical. Le petit découvre la flûte traversière.

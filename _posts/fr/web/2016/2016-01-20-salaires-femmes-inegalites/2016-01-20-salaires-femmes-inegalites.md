@@ -7,6 +7,7 @@ tags:
 date: '2016-01-20'
 type: post
 locale: fr_FR
+slug: salaires-femmes-inegalites
 ---
 
 > Que pensez-vous du plan d'action suivant :

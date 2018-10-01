@@ -3,6 +3,7 @@ title: 'En attendant l''immunité'
 date: '2015-02-21'
 type: post
 locale: fr_FR
+slug: en-attendant-limmunite
 ---
 
 Qu'il est bon d'avoir une femme qui a cet humour !

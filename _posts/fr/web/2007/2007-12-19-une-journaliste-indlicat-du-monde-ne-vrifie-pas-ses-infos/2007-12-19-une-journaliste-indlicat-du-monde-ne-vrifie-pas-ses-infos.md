@@ -9,6 +9,7 @@ tags:
 date: '2007-12-19'
 type: post
 locale: fr_FR
+slug: une-journaliste-indlicat-du-monde-ne-vrifie-pas-ses-infos
 ---
 
 Au début, j'ai pensé être méchant voire cynique. Mais je crois que je vais me contenter de rétablir la vérité et d'espérer un démenti ou au moins des précisions de la part de ce journal que j'apprécie.

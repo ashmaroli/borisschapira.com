@@ -4,6 +4,7 @@ date: '2018-03-08'
 type: post
 i18n-key: doctor-of-the-not-dead
 locale: fr_FR
+slug: docteur-des-pas-morts
 ---
 
 Ma femme couche le petit dernier. Elle lui fait un dernier câlin avant d'aller se coucher elle-même.

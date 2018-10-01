@@ -5,6 +5,7 @@ tags:
 date: '2010-08-24'
 type: post
 locale: fr_FR
+slug: rework-jason-fried-et-david-heinemeier-hansson
 ---
 
 Avant de véritablement commencer à lire "Business Model Generation" (dont je ferai une critique plus tard), j'ai pris trois jours pour lire ce livre, prêté par Oncle Tom…

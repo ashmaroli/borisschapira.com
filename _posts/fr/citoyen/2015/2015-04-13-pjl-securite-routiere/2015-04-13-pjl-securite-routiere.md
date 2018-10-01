@@ -7,6 +7,7 @@ series:
 date: '2015-04-13'
 type: post
 locale: fr_FR
+slug: pjl-securite-routiere
 ---
 
 Ainsi commença l'histoire…

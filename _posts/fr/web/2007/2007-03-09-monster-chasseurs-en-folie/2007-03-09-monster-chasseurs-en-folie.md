@@ -6,6 +6,7 @@ tags:
 date: '2007-03-09'
 type: post
 locale: fr_FR
+slug: monster-chasseurs-en-folie
 ---
 
 Il y a quelques jours Benjamin Gauthey me confirmait autour d'un café que faire un stage chez Microsoft France allait me rapporter beaucoup d'offres de chasseurs de profils. Voulant tester, j'ai mis ce matin mon CV à jour sur [Monster.fr](http://www.monster.fr/)…

@@ -7,6 +7,7 @@ tags:
 date: '2016-04-20'
 type: post
 locale: fr_FR
+slug: femmes-dans-l-histoire
 ---
 
 Plusieurs initiatives récentes permettent de rappeler que l'Histoire est écrite par les vainqueurs, c'est-à-dire les hommes, pour les hommes et en prenant bien soin d'en écarter les femmes.

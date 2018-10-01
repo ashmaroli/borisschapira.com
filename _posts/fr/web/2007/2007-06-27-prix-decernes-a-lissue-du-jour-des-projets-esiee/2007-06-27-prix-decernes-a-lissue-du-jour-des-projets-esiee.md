@@ -5,6 +5,7 @@ tags:
 date: '2007-06-27'
 type: post
 locale: fr_FR
+slug: prix-decernes-a-lissue-du-jour-des-projets-esiee
 ---
 
 ## Prix de l'innovation 2007

@@ -3,6 +3,7 @@ title: 'L''orage et la mort'
 date: '2015-09-16'
 type: post
 locale: fr_FR
+slug: l-orage-et-la-mort
 ---
 
 Discussion avec le grand. Parfois, je ne sais pas trop où il m'emmène...

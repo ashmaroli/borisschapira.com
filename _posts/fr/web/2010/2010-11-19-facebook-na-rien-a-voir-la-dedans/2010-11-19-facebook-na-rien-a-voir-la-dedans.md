@@ -5,6 +5,7 @@ tags:
 date: '2010-11-19'
 type: post
 locale: fr_FR
+slug: facebook-na-rien-a-voir-la-dedans
 ---
 
 Il y a en ce moment une affaire qui fait scandale, où une salariée est poursuivie aux Prud'Hommes pour des propos tenus sur Facebook. La tendance est à l'accusion du réseau social, qualifié de danger pour nos libertés. C'est en général vrai.

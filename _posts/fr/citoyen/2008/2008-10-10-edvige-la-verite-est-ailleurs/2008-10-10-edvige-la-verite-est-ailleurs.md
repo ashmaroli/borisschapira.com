@@ -5,6 +5,7 @@ tags:
 date: '2008-10-10'
 type: post
 locale: fr_FR
+slug: edvige-la-verite-est-ailleurs
 ---
 
 On a beaucoup parlé d'EDVIGE. Certains sont contre et se font entendre, craignant la mise en place lente et silencieuse d'un État sécuritaire porteur de nombreuses dérives. Faut-il vraiment aller jusque-là&nbsp;?

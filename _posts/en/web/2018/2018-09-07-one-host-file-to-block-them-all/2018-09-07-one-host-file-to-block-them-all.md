@@ -10,6 +10,7 @@ tags:
     - Outils
     - Productivité
 locale: en_US
+slug: one-host-file-to-block-them-all
 ---
 
 As a field expert, people often ask me how to improve websites' performance. Sometimes, they also ask me how to improve the Web's performance on their own machine, for their own browsing experience. In that case, my answer is always the same: the lowest hanging fruit is most certainly the **hosts** file.

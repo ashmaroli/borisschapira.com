@@ -5,6 +5,7 @@ tags:
 date: '2007-11-02'
 type: post
 locale: fr_FR
+slug: the-worlds-best-bottom-sloggi
 ---
 
 Le concours **Show Me You Sloggi** organisé par la marque éponyme vient de se terminer.

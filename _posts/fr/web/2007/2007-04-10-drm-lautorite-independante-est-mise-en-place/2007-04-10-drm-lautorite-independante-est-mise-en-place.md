@@ -6,6 +6,7 @@ tags:
 date: '2007-04-10'
 type: post
 locale: fr_FR
+slug: drm-lautorite-independante-est-mise-en-place
 ---
 
 Après un précédent débat sur la gestion des droits numériques et le rôle de Microsoft, l'actualité nous rattrape. C'est en effet aujourd'hui qu'a été officialisée l'autorité en charge de la copie privée. Elle se compose de&nbsp;:

@@ -7,6 +7,7 @@ canonical: 'https://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-
 date: '2012-10-03'
 type: post
 locale: fr_FR
+slug: avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper
 ---
 
 Beaucoup attendaient Anders Hejlsbernt au tournant. Il faut dire que l’homme attire l’attention, tant il cumule les succès professionnels. Après avoir participé à l’élaboration du Turbo Pascal, l’ingénieur danois est devenu chef de projet sur Delphi puis a créé le framework .NET et C# au début des années 2000\. Il est en charge depuis de faire évoluer ce langage fortement typé. Autant dire qu’on ne l’attendait pas sur du JavaScript, à tort.

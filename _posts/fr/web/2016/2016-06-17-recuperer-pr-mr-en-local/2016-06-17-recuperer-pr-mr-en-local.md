@@ -3,6 +3,7 @@ title: 'Récupérer une Pull Request (GitHub) ou une Merge Request (Gitlab) en l
 date: '2016-06-17'
 type: post
 locale: fr_FR
+slug: recuperer-pr-mr-en-local
 ---
 
 Votre collègue a fait une <abbr title="Pull Request">PR</abbr> ou une <abbr title="Merge Request">MR</abbr> et vous ne comprenez pas pourquoi elle ne passe pas le _build_ ? Vous pouvez la récupérer en local pour l'exécuter.

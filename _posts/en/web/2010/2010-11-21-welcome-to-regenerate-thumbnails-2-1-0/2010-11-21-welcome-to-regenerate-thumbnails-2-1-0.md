@@ -7,6 +7,7 @@ tags:
     - Projets
 date: '2010-11-21'
 type: post
+slug: welcome-to-regenerate-thumbnails-2-1-0
 ---
 
 _A new version of the [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) plugin is available, including some improvements from one of my personal projects._

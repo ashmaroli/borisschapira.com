@@ -6,6 +6,7 @@ series: Hadopi
 date: '2009-04-09'
 type: post
 locale: fr_FR
+slug: rejet-dhadopi-faut-il-se-rejouir
 ---
 
 **Je n'aime pas du tout la façon dont l'opposition traite le projet de loi Création et Internet. Il fallait que je le dise.**
