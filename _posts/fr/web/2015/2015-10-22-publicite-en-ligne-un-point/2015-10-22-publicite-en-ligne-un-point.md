@@ -1,5 +1,5 @@
 ---
-title: 'Publicité en ligne&nbsp;: un point sur la situation'
+title: 'Publicité en ligne : un point sur la situation'
 i18n-key: online-advertising
 tags:
     - Publicité
@@ -8,8 +8,8 @@ tags:
     - Presse
 canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
 date: '2015-10-22'
-type: post
 locale: fr_FR
+type: post
 ---
 
 ## Une guerre aux multiples facettes
