@@ -6,7 +6,7 @@ tags:
     - Facebook
 date: '2008-01-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: facebook-et-moi
 ---
 

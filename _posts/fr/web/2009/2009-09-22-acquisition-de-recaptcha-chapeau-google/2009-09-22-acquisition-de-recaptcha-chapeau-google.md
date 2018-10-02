@@ -2,7 +2,7 @@
 title: 'Acquisition de ReCaptcha, chapeau Google'
 date: '2009-09-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: acquisition-de-recaptcha-chapeau-google
 ---
 

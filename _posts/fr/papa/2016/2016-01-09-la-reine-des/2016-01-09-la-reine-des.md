@@ -2,7 +2,7 @@
 title: 'La Reine des…'
 date: '2016-01-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-reine-des
 ---
 

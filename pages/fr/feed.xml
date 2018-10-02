@@ -2,6 +2,6 @@
 permalink: /feed.xml
 layout: category-feed
 category: ''
-locale: fr_FR
+locale: fr
 description: "Mes opinions sur le Web mais aussi sur ma vie de parent et de citoyen."
 ---

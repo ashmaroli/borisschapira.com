@@ -5,7 +5,7 @@ tags:
 series: 'Dangers du Net'
 date: '2007-04-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: dangers-du-net-le-pharming
 ---
 

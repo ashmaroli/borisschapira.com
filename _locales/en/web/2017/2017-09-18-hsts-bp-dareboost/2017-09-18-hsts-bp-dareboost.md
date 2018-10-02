@@ -7,7 +7,7 @@ canonical: 'https://blog.dareboost.com/en/2017/09/hsts-ensure-secured-connection
 type: post
 tags:
     - 'Performance Web'
-locale: en_US
+locale: en
 cloudinary_logo: dareboost-logo
 slug: hsts-ensure-secured-connections
 ---

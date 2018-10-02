@@ -4,7 +4,7 @@ tags:
     - Qualité
 date: '2016-09-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: qualite-web
 ---
 

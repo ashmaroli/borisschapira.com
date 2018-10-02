@@ -4,7 +4,7 @@ tags:
     - 'Jeu Video'
 date: '2010-03-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: jeux-video-responsables
 ---
 

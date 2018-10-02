@@ -2,7 +2,7 @@
 title: 'Le téléscope'
 date: '2016-09-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-telescope
 ---
 

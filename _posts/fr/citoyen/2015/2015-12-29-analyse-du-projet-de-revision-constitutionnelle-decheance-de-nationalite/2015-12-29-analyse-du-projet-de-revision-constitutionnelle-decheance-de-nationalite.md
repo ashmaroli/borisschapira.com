@@ -3,7 +3,7 @@ title: 'L''analyse du projet de révision constitutionnelle : la déchéance de 
 tags: null
 date: '2015-12-29'
 type: post
-locale: fr_FR
+locale: fr
 loadTwitterWjs: true
 slug: analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite
 ---

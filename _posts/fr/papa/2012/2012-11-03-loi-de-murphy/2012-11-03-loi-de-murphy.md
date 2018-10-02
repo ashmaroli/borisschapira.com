@@ -2,7 +2,7 @@
 title: 'Loi de Murphy'
 date: '2012-11-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: loi-de-murphy
 ---
 

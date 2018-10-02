@@ -6,7 +6,7 @@ tags:
     - Stockage
 date: '2009-02-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: quel-serveur-nas-pour-la-maison
 ---
 

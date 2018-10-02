@@ -4,7 +4,7 @@ tags:
     - Emploi
 date: '2010-03-06'
 type: post
-locale: fr_FR
+locale: fr
 slug: emploi-precarite-stages-et-auto-reve
 ---
 

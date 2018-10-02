@@ -2,7 +2,7 @@
 title: 'Le sommeil, c''est surfait'
 date: '2013-08-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-sommeil-cest-surfait
 ---
 

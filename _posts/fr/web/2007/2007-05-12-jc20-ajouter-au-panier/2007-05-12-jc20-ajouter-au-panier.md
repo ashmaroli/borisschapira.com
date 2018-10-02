@@ -5,7 +5,7 @@ tags:
     - ESIEE
 date: '2007-05-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: jc20-ajouter-au-panier
 ---
 

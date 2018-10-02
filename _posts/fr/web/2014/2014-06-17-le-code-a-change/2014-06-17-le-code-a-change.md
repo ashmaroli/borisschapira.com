@@ -4,7 +4,7 @@ tags:
     - Education
 date: '2014-06-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-code-a-change
 ---
 

@@ -2,7 +2,7 @@
 title: 'Une culture de l''attention'
 date: '2017-03-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: une-culture-de-l-attention
 ---
 

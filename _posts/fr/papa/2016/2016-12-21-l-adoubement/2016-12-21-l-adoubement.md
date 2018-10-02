@@ -2,7 +2,7 @@
 title: 'L''adoubement'
 date: '2016-12-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: l-adoubement
 ---
 

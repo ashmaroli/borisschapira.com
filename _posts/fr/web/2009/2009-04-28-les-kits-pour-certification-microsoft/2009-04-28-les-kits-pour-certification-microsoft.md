@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-04-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-kits-pour-certification-microsoft
 ---
 

@@ -5,7 +5,7 @@ tags:
     - Microblogging
 date: '2009-06-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: twitter-commencez-maintenant
 ---
 

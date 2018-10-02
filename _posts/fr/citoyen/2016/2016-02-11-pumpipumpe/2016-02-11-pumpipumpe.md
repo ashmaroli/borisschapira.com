@@ -4,7 +4,7 @@ tags:
     - Collaboration
 date: '2016-02-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: pumpipumpe
 ---
 

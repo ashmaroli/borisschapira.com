@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2010-09-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: vs2010-productivity-power-tools
 ---
 

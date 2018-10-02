@@ -2,7 +2,7 @@
 title: 'Mille sous'
 date: '2018-02-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: mille-sous
 ---
 

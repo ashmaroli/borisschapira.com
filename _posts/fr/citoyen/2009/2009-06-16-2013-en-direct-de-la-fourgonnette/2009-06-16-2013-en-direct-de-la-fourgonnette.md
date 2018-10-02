@@ -4,7 +4,7 @@ tags:
     - Hadopi
 date: '2009-06-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: 2013-en-direct-de-la-fourgonnette
 ---
 

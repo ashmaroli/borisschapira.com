@@ -9,7 +9,7 @@ tags:
     - UX
     - Images
 publishDate: '2017-10-29'
-locale: en_US
+locale: en
 cloudinary_logo: clever-logo
 slug: where-is-the-western-wechat
 ---

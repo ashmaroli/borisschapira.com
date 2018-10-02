@@ -2,7 +2,7 @@
 title: 'Les crocodiles'
 date: '2017-11-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-crocodiles
 ---
 

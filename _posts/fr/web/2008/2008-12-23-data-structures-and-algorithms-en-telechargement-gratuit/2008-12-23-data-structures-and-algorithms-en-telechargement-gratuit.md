@@ -2,7 +2,7 @@
 title: '«&#160;Data Structures and Algorithms&#160;» en téléchargement gratuit'
 date: '2008-12-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: data-structures-and-algorithms-en-telechargement-gratuit
 ---
 

@@ -6,7 +6,7 @@ tags:
     - MSDays
 date: '2009-10-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: retour-des-microsoft-days-2009
 ---
 

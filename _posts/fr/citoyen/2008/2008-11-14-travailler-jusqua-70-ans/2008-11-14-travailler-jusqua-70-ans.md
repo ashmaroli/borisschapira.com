@@ -6,7 +6,7 @@ tags:
     - Société
 date: '2008-11-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: travailler-jusqua-70-ans
 ---
 

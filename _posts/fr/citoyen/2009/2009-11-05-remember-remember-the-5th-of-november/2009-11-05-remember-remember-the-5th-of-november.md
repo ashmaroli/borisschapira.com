@@ -2,7 +2,7 @@
 title: '«&#160;Remember², the 5th of November…&#160;»'
 date: '2009-11-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: remember-remember-the-5th-of-november
 ---
 

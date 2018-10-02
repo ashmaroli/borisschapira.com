@@ -4,7 +4,7 @@ tags:
     - .NET
 date: '2009-02-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: quelles-nouveautes-pour-c-40
 ---
 

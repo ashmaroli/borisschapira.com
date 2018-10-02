@@ -2,7 +2,7 @@
 title: 'La salopette'
 date: '2013-06-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-salopette
 ---
 

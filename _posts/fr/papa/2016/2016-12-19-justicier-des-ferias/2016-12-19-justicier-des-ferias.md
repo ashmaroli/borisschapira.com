@@ -2,7 +2,7 @@
 title: 'Le justicier des férias'
 date: '2016-12-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: justicier-des-ferias
 ---
 

@@ -7,7 +7,7 @@ series:
     - 'Windows Phone'
 date: '2013-09-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: rester-sous-windows-phone
 ---
 

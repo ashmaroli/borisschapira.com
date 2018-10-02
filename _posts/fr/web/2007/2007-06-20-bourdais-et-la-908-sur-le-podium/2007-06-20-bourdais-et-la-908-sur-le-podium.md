@@ -7,7 +7,7 @@ tags:
     - XBox360
 date: '2007-06-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: bourdais-et-la-908-sur-le-podium
 ---
 

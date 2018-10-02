@@ -1,12 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# I18n configuration
-locale: fr_FR
 defaults:
   -
     scope:
@@ -19,19 +10,19 @@ defaults:
       type: pages
     values:
       base-url: "/"
-      locale: fr_FR
+      locale: fr
   -
     scope:
       path: "pages/en"
       type: pages
     values:
       base-url: "/en/"
-      locale: en_US
+      locale: en
   -
     scope:
       path: ""
     values:
-      locale: fr_FR
+      locale: fr
       base-url: "/"
   -
     scope:
@@ -65,11 +56,11 @@ defaults:
     scope:
       path: "en"
     values:
-      locale: "en_US"
+      locale: "en"
       base-url: "/en/"
   -
     scope:
-      locale: "en_US"
+      locale: "en"
       path: "_posts/en"
     values:
       base-url: "/en/"
@@ -244,9 +235,8 @@ compress_html:
       - 'development'
 
 localization:
-  mode       : manual
-  locale     : "fr_FR"
-  data_dir   : locales    # Sets the base location for *translation data*, within your *site's `data_dir`*.
-  content_dir: _locales   # Sets the base location for placing files to be re-rendered. Ignored in "auto mode".
-  locales_set: ["fr_FR","en_US"]         # A list of locales the site will re-render files into
-  exclude_set: []         # A list of file paths the site will not re-render in "auto" mode.
+  mode : manual
+  locale : "fr"
+  data_dir : locales # Sets the base location for *translation data*, within your *site's `data_dir`*.
+  content_dir: _locales # Sets the base location for placing files to be re-rendered. Ignored in "auto mode".
+  locales_set: ["fr","en"] # A list of locales the site will re-render files into

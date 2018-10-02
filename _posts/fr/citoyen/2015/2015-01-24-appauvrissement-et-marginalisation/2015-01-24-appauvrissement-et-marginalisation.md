@@ -3,7 +3,7 @@ title: 'Appauvrissent et marginalisation'
 tags: null
 date: '2015-01-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: appauvrissement-et-marginalisation
 ---
 

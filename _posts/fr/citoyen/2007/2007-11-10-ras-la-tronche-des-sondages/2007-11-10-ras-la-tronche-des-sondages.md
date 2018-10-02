@@ -5,7 +5,7 @@ tags:
     - France
 date: '2007-11-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: ras-la-tronche-des-sondages
 ---
 

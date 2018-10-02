@@ -2,7 +2,7 @@
 title: 'Dernier jour @ Microsoft France'
 date: '2007-08-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: dernier-jour-microsoft-france
 ---
 

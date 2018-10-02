@@ -2,7 +2,7 @@
 title: 'Les nouveaux pères'
 date: '2014-06-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-nouveaux-peres
 ---
 

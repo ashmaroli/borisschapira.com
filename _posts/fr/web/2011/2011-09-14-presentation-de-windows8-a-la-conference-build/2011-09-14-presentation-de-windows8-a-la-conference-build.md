@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2011-09-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: presentation-de-windows8-a-la-conference-build
 ---
 

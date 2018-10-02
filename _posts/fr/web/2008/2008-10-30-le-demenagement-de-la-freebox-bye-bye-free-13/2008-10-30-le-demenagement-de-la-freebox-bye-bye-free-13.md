@@ -7,7 +7,7 @@ tags:
     - 'Me, myself and I'
 date: '2008-10-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-demenagement-de-la-freebox-bye-bye-free-13
 ---
 

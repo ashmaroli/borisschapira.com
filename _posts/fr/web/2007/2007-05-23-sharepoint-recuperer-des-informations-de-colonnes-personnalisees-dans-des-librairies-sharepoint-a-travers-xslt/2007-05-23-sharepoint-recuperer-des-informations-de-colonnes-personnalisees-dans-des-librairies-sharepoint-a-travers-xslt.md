@@ -4,7 +4,7 @@ tags:
     - Sharepoint
 date: '2007-05-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: sharepoint-recuperer-des-informations-de-colonnes-personnalisees-dans-des-librairies-sharepoint-a-travers-xslt
 ---
 

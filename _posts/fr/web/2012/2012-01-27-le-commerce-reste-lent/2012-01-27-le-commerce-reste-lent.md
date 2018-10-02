@@ -6,7 +6,7 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/'
 date: '2012-01-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-commerce-reste-lent
 ---
 

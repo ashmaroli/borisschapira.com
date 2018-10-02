@@ -7,7 +7,7 @@ series:
 canonical: 'https://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/'
 date: '2013-05-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: il-faut-repenser-windows
 ---
 

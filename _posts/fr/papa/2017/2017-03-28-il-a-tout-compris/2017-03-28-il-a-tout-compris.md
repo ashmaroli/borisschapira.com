@@ -2,7 +2,7 @@
 title: 'Il a "tout compris"'
 date: '2017-03-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: il-a-tout-compris
 ---
 

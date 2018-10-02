@@ -2,7 +2,7 @@
 title: 'Sentir bon'
 date: '2018-03-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: sentir-bon
 ---
 

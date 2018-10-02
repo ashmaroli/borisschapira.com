@@ -2,7 +2,7 @@
 title: 'Chauffage calorique'
 date: '2015-11-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: chauffage-calorique
 ---
 

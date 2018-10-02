@@ -2,7 +2,7 @@
 title: Grabouillage
 date: '2016-01-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: grabouillage
 ---
 

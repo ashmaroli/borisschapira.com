@@ -5,7 +5,7 @@ tags:
     - 'Amis et famille'
 date: '2007-08-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: week-end-prolonge-sur-bordeaux
 ---
 

@@ -2,7 +2,7 @@
 title: 'Jamais seule'
 date: '2017-03-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: jamais-seule
 ---
 

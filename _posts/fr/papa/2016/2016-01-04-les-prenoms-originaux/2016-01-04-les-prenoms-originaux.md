@@ -2,7 +2,7 @@
 title: 'Les prénoms originaux'
 date: '2016-01-04'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-prenoms-originaux
 ---
 

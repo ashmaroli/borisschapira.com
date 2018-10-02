@@ -7,7 +7,7 @@ tags:
     - Nexeo
 date: '2008-02-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: sorties-de-la-semaine-dernire
 ---
 

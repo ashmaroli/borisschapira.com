@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2008-11-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: read-write-web-les-informations-du-rapport-hadopi-sont-biaisees
 ---
 

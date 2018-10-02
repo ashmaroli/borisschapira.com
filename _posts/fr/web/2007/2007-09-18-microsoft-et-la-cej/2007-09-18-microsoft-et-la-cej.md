@@ -6,7 +6,7 @@ tags:
     - Microsoft
 date: '2007-09-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: microsoft-et-la-cej
 ---
 

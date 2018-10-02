@@ -2,7 +2,7 @@
 title: 'Rose - La liste'
 date: '2007-03-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: coup-de-coeur-musical-2
 ---
 

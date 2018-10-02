@@ -5,7 +5,7 @@ tags:
     - HeForShe
 date: '2016-03-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-roi-de-la-knacki
 ---
 

@@ -2,7 +2,7 @@
 title: 'Et ce qui devait arriver arriva…'
 date: '2009-01-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: et-ce-qui-devait-arriver-arriva
 ---
 

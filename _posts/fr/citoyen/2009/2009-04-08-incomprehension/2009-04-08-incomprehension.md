@@ -2,7 +2,7 @@
 title: Incompréhension
 date: '2009-04-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: incomprehension
 ---
 

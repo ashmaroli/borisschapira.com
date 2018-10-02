@@ -2,7 +2,7 @@
 title: 'Et l''ancien chat ?'
 date: '2017-09-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: et-l-ancien-chat
 ---
 

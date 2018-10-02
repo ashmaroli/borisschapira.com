@@ -2,7 +2,7 @@
 title: 'Les topains'
 date: '2016-08-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-topains
 ---
 

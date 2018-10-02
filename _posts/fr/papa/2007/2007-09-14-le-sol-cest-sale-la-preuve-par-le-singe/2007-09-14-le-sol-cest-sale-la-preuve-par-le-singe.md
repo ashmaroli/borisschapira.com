@@ -2,7 +2,7 @@
 title: 'Le sol c''est sale, la preuve par le singe'
 date: '2007-09-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-sol-cest-sale-la-preuve-par-le-singe
 ---
 

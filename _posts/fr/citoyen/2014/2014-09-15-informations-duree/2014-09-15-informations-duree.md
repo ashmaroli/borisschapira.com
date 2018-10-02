@@ -4,7 +4,7 @@ tags:
     - Histoire
 date: '2014-09-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: informations-duree
 ---
 

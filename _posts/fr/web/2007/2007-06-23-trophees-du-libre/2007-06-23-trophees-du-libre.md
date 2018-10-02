@@ -7,7 +7,7 @@ tags:
     - 'Open Source'
 date: '2007-06-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: trophees-du-libre
 ---
 

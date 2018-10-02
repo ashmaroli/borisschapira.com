@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2007-03-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: trois-plugins-dinterface-pour-vista
 ---
 

@@ -2,7 +2,7 @@
 title: 'Coup de blues'
 date: '2014-06-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: coup-de-blues
 ---
 

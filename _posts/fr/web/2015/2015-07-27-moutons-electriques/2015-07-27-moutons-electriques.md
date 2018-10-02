@@ -4,7 +4,7 @@ tags:
     - 'Intelligence Artificielle'
 date: '2015-07-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: moutons-electriques
 ---
 

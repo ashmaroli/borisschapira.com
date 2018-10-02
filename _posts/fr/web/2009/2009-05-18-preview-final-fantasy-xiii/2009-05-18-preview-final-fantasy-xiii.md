@@ -6,7 +6,7 @@ tags:
     - Playstation
 date: '2009-05-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: preview-final-fantasy-xiii
 ---
 

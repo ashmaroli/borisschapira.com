@@ -5,7 +5,7 @@ tags:
     - 'Billet d''humeur'
 date: '2008-11-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: idees-recues-1
 ---
 

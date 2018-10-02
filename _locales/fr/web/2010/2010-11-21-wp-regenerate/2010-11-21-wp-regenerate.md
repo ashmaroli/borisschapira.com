@@ -6,7 +6,7 @@ tags:
     - Projets
 date: '2010-11-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: bienvenue-a-regenerate-thumbnails-2-1-0
 ---
 

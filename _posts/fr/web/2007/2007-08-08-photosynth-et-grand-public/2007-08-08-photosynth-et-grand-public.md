@@ -6,7 +6,7 @@ tags:
     - 'Windows Live'
 date: '2007-08-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: photosynth-et-grand-public
 ---
 

@@ -4,7 +4,7 @@ tags:
     - Techdays
 date: '2007-06-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: techdays-2008-bloquez-votre-planning
 ---
 

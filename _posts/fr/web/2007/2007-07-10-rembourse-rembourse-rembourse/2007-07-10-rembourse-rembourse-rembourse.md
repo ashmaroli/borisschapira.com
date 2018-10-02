@@ -5,7 +5,7 @@ tags:
     - XBox360
 date: '2007-07-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: rembourse-rembourse-rembourse
 ---
 

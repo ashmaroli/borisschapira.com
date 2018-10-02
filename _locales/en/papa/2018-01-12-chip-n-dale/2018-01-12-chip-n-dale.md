@@ -6,7 +6,7 @@ i18n-key: chip-dale
 categories:
     - papa
 publishDate: '2018-01-12'
-locale: en_US
+locale: en
 ---
 
 I just found a handful of peanuts in a sock, hidden behind a radiator. I don't have kids, I have squirrels: they're stockpiling for the cold times.

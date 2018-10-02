@@ -2,7 +2,7 @@
 title: 'Plug''n''Play'
 date: '2012-10-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: plugnplay
 ---
 

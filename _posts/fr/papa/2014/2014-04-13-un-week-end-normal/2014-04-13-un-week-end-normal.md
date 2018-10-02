@@ -2,7 +2,7 @@
 title: 'Un week-end normal'
 date: '2014-04-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-week-end-normal
 ---
 

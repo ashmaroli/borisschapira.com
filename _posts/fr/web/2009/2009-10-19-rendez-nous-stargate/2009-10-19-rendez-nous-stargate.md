@@ -7,7 +7,7 @@ tags:
     - Télévision
 date: '2009-10-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: rendez-nous-stargate
 ---
 

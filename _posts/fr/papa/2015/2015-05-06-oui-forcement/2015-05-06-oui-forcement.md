@@ -2,7 +2,7 @@
 title: 'Oui, forcément'
 date: '2015-05-06'
 type: post
-locale: fr_FR
+locale: fr
 slug: oui-forcement
 ---
 

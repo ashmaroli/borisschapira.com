@@ -4,7 +4,7 @@ tags:
     - Grève
 date: '2007-11-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: mrdream-et-la-grve
 ---
 

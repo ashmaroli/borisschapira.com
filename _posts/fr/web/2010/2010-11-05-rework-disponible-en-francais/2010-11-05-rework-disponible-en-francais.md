@@ -4,7 +4,7 @@ tags:
     - Management
 date: '2010-11-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: rework-disponible-en-francais
 ---
 

@@ -2,7 +2,7 @@
 title: 'Vive la technologie'
 date: '2014-05-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: vive-la-technologie
 ---
 

@@ -5,7 +5,7 @@ tags:
     - 'Billet d''humeur'
 date: '2009-09-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: desirs-avenirs
 ---
 

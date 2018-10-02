@@ -6,7 +6,7 @@ i18n-key: happy-meal
 categories:
     - papa
 publishDate: '2018-01-12'
-locale: en_US
+locale: en
 ---
 
 > – Dad, is there a Happy Meal for grown-ups?  

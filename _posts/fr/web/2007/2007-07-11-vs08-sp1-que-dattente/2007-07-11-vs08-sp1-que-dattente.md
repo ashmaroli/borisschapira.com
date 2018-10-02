@@ -5,7 +5,7 @@ tags:
     - Windows
 date: '2007-07-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: vs08-sp1-que-dattente
 ---
 

@@ -2,7 +2,7 @@
 title: 'Eux, Présidents'
 date: '2017-03-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: presidents
 ---
 

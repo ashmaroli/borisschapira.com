@@ -2,7 +2,7 @@
 title: Halloween
 date: '2014-10-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: halloween
 ---
 

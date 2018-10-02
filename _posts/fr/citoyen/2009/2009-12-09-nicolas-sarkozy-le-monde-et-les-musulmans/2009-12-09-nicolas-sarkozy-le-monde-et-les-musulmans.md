@@ -5,7 +5,7 @@ tags:
     - Égalité
 date: '2009-12-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: nicolas-sarkozy-le-monde-et-les-musulmans
 ---
 

@@ -2,7 +2,7 @@
 title: 'Blair à l''UMP… (sic)'
 date: '2008-01-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: blair-a-lump-sic
 ---
 

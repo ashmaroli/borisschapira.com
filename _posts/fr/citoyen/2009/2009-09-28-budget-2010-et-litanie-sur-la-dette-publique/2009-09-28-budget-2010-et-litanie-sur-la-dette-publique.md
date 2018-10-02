@@ -5,7 +5,7 @@ tags:
     - Économie
 date: '2009-09-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: budget-2010-et-litanie-sur-la-dette-publique
 ---
 

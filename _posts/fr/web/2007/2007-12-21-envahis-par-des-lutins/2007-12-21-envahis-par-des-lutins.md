@@ -6,7 +6,7 @@ tags:
     - SGCIB
 date: '2007-12-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: envahis-par-des-lutins
 ---
 

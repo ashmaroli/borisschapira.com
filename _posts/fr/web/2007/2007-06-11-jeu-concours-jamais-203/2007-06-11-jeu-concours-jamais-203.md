@@ -10,7 +10,7 @@ tags:
     - XBox360
 date: '2007-06-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: jeu-concours-jamais-203
 ---
 

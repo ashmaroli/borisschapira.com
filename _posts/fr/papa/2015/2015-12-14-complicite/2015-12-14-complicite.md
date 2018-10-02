@@ -2,7 +2,7 @@
 title: Complicité
 date: '2015-12-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: complicite
 ---
 

@@ -5,7 +5,7 @@ tags:
     - Emploi
 date: '2015-02-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: droits-et-devoirs
 ---
 

@@ -2,7 +2,7 @@
 title: Évaluations
 date: '2017-07-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: evaluations
 ---
 

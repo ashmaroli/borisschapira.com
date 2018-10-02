@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2009-03-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: hadopi-les-pirates-ont-bon-dos
 ---
 

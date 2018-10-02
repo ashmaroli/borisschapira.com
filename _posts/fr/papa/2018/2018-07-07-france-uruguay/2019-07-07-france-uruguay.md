@@ -2,7 +2,7 @@
 title: France-Uruguay
 date: '2018-07-07'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Le foot, ça fait un moment qu'ils y jouent et en entendent parler. Mais comme on n'est pas très branchés foot à la maison, ils n'avaient jamais vu un match…

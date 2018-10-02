@@ -5,7 +5,7 @@ tags:
 series: 'Dangers du Net'
 date: '2007-04-04'
 type: post
-locale: fr_FR
+locale: fr
 slug: dangers-du-net-le-phishing
 ---
 

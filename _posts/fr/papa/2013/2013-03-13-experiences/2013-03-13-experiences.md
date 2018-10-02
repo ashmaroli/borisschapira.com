@@ -2,7 +2,7 @@
 title: Expériences
 date: '2013-03-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: experiences
 ---
 

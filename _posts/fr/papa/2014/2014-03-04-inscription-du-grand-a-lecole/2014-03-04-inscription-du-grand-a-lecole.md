@@ -2,7 +2,7 @@
 title: 'Inscription du grand à l''école'
 date: '2014-03-04'
 type: post
-locale: fr_FR
+locale: fr
 slug: inscription-du-grand-a-lecole
 ---
 

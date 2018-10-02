@@ -2,7 +2,7 @@
 title: Cache-cache
 date: '2014-09-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: cache-cache
 ---
 

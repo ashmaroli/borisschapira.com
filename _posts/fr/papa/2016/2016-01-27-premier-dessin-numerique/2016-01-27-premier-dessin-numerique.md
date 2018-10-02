@@ -3,7 +3,7 @@ title: 'Premier dessin numérique'
 main_image: /assets/images/papa/2016-01-27/1.png
 date: '2016-01-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: premier-dessin-numerique
 ---
 

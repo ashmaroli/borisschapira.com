@@ -2,7 +2,7 @@
 title: 'La réunion DP'
 date: '2017-04-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-reunion-dp
 ---
 

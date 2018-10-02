@@ -4,7 +4,7 @@ tags:
     - Littérature
 date: '2007-11-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: kiffe-kiffe-demain-de-faza-gune
 ---
 

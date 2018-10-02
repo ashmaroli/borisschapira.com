@@ -2,7 +2,7 @@
 title: 'Perdre une heure'
 date: '2017-03-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: perdre-une-heure
 ---
 

@@ -5,7 +5,7 @@ tags:
     - .NET
 date: '2007-10-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: net-ouvre-son-code
 ---
 

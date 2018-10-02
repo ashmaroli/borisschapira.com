@@ -5,7 +5,7 @@ tags:
     - Mariage
 date: '2009-09-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: envois-postaux-faire-part-remerciement-attention-aux-tarifs
 ---
 

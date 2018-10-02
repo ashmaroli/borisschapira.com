@@ -5,7 +5,7 @@ tags:
     - Terrorisme
 date: '2016-09-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-anti-burkinis-5eme-colonne-de-letat-islamique
 ---
 

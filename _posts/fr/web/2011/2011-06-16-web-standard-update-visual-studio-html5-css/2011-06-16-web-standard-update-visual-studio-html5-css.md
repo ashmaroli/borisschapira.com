@@ -4,7 +4,7 @@ tags:
     - Front-End
 date: '2011-06-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: web-standard-update-visual-studio-html5-css
 ---
 

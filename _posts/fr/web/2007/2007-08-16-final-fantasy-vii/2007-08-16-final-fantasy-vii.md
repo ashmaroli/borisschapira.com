@@ -6,7 +6,7 @@ tags:
     - Playstation
 date: '2007-08-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: final-fantasy-vii
 ---
 

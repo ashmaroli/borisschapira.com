@@ -5,7 +5,7 @@ tags:
     - Religion
 date: '2008-06-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: mariage-annule-les-politiques-prolongent-le-cauchemar-de-la-mariee
 ---
 

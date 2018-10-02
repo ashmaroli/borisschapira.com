@@ -5,7 +5,7 @@ permalink: /a-propos/moi/
 date: 2015-10-05 17:15:20
 i18n-key: about-me
 permalink: /a-propos/moi/index.html
-locale: fr_FR
+locale: fr
 ---
 
 ## ravi de vous rencontrer

@@ -4,7 +4,7 @@ tags:
     - Management
 date: '2015-09-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: expert-ou-pas
 ---
 

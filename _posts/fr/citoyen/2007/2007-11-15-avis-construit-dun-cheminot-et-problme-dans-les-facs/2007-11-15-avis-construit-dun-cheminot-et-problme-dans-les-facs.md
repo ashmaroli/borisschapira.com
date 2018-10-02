@@ -6,7 +6,7 @@ tags:
     - Grève
 date: '2007-11-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: avis-construit-dun-cheminot-et-problme-dans-les-facs
 ---
 

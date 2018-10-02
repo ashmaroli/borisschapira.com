@@ -6,7 +6,7 @@ tags:
     - 'Visual Basic'
 date: '2007-09-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: vba-extensions-openoffice-les-langages-de-script-bureautiques
 ---
 

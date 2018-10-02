@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2007-03-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: search-pour-windows-vista
 ---
 

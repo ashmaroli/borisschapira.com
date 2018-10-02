@@ -4,7 +4,7 @@ tags:
     - Présidentielle
 date: '2017-01-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-candidats-anti-systeme
 ---
 

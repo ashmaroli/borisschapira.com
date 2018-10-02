@@ -2,7 +2,7 @@
 title: Protectrice
 date: '2013-12-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: protectrice
 ---
 

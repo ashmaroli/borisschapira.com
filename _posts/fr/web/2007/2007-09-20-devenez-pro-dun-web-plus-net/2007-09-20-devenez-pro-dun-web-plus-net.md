@@ -9,7 +9,7 @@ tags:
     - Silverlight
 date: '2007-09-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: devenez-pro-dun-web-plus-net
 ---
 

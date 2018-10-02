@@ -4,7 +4,7 @@ tags:
     - Libellule
 date: '2007-12-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: demain-cest-nol
 ---
 

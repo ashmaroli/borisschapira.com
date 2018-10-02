@@ -6,7 +6,7 @@ series:
     - 'Windows Phone'
 date: '2010-06-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: windows-phone-7-nouvelle-politique-du-marketplace
 ---
 

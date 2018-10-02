@@ -2,7 +2,7 @@
 title: 'Ligne 1 : l''art de détendre ses usagers'
 date: '2008-02-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: ligne-1-lart-de-detendre-ses-usagers
 ---
 

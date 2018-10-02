@@ -4,7 +4,7 @@ tags:
     - Boulogne
 date: '2007-07-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: colocation-avec-avantages
 ---
 

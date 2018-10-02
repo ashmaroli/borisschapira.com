@@ -2,7 +2,7 @@
 title: 'Spiderman le pipi'
 date: '2016-06-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: spiderman-le-pipi
 ---
 

@@ -5,7 +5,7 @@ tags:
     - 'Billet d''humeur'
 date: '2009-07-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: derive-anti-democratique
 ---
 

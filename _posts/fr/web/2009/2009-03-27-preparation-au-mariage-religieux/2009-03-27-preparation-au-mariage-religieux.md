@@ -5,7 +5,7 @@ tags:
     - Mariage
 date: '2009-03-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: preparation-au-mariage-religieux
 ---
 

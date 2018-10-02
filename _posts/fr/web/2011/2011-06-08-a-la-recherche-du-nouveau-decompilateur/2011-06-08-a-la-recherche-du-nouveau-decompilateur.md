@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2011-06-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: a-la-recherche-du-nouveau-decompilateur
 ---
 

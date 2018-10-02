@@ -12,7 +12,7 @@ tags:
     - 'Windows Vista'
 date: '2007-07-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-dernieres-technos-ms-un-enjeu-de-civilization
 ---
 

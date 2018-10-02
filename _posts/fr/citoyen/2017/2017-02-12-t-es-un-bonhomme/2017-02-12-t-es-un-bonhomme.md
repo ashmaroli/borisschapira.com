@@ -2,7 +2,7 @@
 title: 'T''es un bonhomme'
 date: '2017-02-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: t-es-un-bonhomme
 ---
 

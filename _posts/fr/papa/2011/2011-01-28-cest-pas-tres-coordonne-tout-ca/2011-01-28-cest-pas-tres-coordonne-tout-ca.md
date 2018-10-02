@@ -2,7 +2,7 @@
 title: 'C''est pas très coordonné tout ça'
 date: '2011-01-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: cest-pas-tres-coordonne-tout-ca
 ---
 

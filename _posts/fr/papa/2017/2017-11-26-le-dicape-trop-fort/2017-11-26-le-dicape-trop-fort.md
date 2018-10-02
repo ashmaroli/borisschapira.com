@@ -2,7 +2,7 @@
 title: 'Le ''dicapé trop fort'
 date: '2017-11-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-dicape-trop-fort
 ---
 

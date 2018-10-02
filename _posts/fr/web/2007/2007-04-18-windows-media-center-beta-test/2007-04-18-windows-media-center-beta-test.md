@@ -5,7 +5,7 @@ tags:
     - GUWIV
 date: '2007-04-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: windows-media-center-beta-test
 ---
 

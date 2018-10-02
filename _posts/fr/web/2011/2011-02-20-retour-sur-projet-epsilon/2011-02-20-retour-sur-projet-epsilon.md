@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 date: '2011-02-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: retour-sur-projet-epsilon
 ---
 

@@ -5,7 +5,7 @@ tags:
     - Égalité
 date: '2013-06-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: stupefaction
 ---
 

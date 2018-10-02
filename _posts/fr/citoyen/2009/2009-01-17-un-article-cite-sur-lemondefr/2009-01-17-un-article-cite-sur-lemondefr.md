@@ -2,7 +2,7 @@
 title: 'Un article cité sur LeMonde.fr'
 date: '2009-01-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-article-cite-sur-lemondefr
 ---
 

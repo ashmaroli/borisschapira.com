@@ -2,7 +2,7 @@
 title: 'Et pourquoi pas Youtube ?'
 date: '2014-12-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: et-pourquoi-pas-youtube
 ---
 

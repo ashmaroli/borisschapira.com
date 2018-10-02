@@ -2,7 +2,7 @@
 title: 'Entretien d''embauche : évaluer les savoir-être'
 date: '2017-04-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-savoir-etre
 ---
 

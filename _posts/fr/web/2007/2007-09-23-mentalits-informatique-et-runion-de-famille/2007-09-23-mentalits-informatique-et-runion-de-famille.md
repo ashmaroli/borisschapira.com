@@ -5,7 +5,7 @@ tags:
     - Facebook
 date: '2007-09-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: mentalits-informatique-et-runion-de-famille
 ---
 

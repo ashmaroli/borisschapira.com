@@ -4,7 +4,7 @@ tags:
     - Projets
 date: '2014-01-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: konami-code-bookmarklet
 ---
 

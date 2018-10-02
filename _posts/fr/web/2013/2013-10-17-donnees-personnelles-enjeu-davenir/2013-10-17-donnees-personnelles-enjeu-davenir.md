@@ -5,7 +5,7 @@ tags:
     - 'Scripts Tiers'
 date: '2013-10-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: donnees-personnelles-enjeu-davenir
 ---
 

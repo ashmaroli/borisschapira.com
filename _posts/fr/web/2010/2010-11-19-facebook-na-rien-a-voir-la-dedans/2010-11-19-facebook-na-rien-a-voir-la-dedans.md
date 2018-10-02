@@ -4,7 +4,7 @@ tags:
     - Emploi
 date: '2010-11-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: facebook-na-rien-a-voir-la-dedans
 ---
 

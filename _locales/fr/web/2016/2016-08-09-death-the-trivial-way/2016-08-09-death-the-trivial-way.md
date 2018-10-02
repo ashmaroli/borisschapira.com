@@ -5,7 +5,7 @@ tags:
     - 'Intelligence Artificielle'
 date: '2016-08-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: une-mort-triviale
 ---
 

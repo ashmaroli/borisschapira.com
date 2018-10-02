@@ -5,7 +5,7 @@ tags:
     - 'Windows Live Hotmail'
 date: '2007-04-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: windows-live-hotmail-le-debut-dune-grande-saga
 ---
 

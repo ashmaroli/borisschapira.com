@@ -4,7 +4,7 @@ tags:
     - Science
 date: '2015-12-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: trois-lois
 ---
 

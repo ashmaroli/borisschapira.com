@@ -2,7 +2,7 @@
 title: 'L''importance des spécifications'
 date: '2007-09-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: limportance-des-specifications
 ---
 

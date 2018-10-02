@@ -2,7 +2,7 @@
 title: 'Le Bon Coin'
 date: '2013-10-04'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-bon-coin
 ---
 

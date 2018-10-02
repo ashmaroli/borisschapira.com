@@ -7,7 +7,7 @@ tags:
     - 'Visual Basic'
 date: '2007-04-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: sharepoint-et-moi-episode-1
 ---
 

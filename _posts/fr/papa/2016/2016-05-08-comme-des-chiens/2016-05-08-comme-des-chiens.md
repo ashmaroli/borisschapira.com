@@ -2,7 +2,7 @@
 title: 'Comme des chiens'
 date: '2016-05-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: comme-des-chiens
 ---
 

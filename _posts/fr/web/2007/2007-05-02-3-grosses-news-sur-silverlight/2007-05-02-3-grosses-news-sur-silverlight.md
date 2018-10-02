@@ -11,7 +11,7 @@ tags:
     - 'Windows Live'
 date: '2007-05-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: 3-grosses-news-sur-silverlight
 ---
 

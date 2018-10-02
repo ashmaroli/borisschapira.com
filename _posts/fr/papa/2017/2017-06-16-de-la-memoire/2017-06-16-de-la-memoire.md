@@ -2,7 +2,7 @@
 title: 'De la mémoire'
 date: '2017-06-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: de-la-memoire
 ---
 

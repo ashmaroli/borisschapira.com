@@ -5,7 +5,7 @@ tags:
     - Microsoft
 date: '2008-08-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: synctoy-synchronisez-un-disque-externe-en-toute-facilite
 ---
 

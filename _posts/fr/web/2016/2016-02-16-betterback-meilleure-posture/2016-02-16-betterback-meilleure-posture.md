@@ -2,7 +2,7 @@
 title: 'BetterBack : pour une meilleure posture'
 date: '2016-02-16'
 type: post
-locale: fr_FR
+locale: fr
 slug: betterback-meilleure-posture
 ---
 

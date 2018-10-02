@@ -5,7 +5,7 @@ tags:
     - Veille
 date: '2015-01-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: gestion-des-marque-pages-quel-outil
 ---
 

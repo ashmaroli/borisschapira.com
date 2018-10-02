@@ -4,7 +4,7 @@ tags:
     - 'Jeu Video'
 date: '2010-06-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: deus-ex-human-revolution-trailer
 ---
 

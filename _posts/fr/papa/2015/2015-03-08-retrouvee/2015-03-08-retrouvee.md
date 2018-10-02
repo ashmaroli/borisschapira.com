@@ -2,7 +2,7 @@
 title: Retrouvée
 date: '2015-03-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: retrouvee
 ---
 

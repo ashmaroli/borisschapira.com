@@ -5,7 +5,7 @@ tags:
     - Publicité
 date: '2008-07-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: stereotypes-de-bac5
 ---
 

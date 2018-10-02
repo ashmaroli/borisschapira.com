@@ -6,7 +6,7 @@ tags:
     - iPhone
 date: '2008-12-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: useless-iphone-of-kant
 ---
 

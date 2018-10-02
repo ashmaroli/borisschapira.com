@@ -6,7 +6,7 @@ tags:
     - Web
 date: '2007-04-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: definition-rss
 ---
 

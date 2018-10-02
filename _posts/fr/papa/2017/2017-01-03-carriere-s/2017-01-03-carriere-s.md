@@ -2,7 +2,7 @@
 title: Carrière(s)
 date: '2017-01-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: carriere-s
 ---
 

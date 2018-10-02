@@ -7,7 +7,7 @@ tags:
     - Web
 date: '2009-10-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: livre-c2-ab-what-would-google-do-c2-bb
 ---
 

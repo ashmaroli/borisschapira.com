@@ -4,7 +4,7 @@ tags:
     - 'Billet d''humeur'
 date: '2009-11-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: vecu-avant-le-decollage
 ---
 

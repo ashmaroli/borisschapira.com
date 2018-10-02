@@ -2,7 +2,7 @@
 title: 'Pop Culture'
 date: '2018-06-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: pop-culture
 ---
 

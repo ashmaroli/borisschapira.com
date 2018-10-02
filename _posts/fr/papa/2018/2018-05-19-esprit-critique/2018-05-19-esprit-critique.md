@@ -2,7 +2,7 @@
 title: 'Esprit critique'
 date: '2018-05-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: esprit-critique
 ---
 

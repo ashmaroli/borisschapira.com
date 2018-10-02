@@ -5,7 +5,7 @@ tags:
     - Heroes
 date: '2007-06-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: hiro-plus-fort-que-baudelaire
 ---
 

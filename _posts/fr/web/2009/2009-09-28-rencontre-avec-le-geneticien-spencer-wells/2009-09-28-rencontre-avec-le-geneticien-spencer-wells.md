@@ -6,7 +6,7 @@ tags:
     - Société
 date: '2009-09-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: rencontre-avec-le-geneticien-spencer-wells
 ---
 

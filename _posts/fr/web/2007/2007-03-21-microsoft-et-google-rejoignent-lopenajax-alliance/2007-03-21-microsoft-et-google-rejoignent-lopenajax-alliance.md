@@ -4,7 +4,7 @@ tags:
     - 'Open Source'
 date: '2007-03-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: microsoft-et-google-rejoignent-lopenajax-alliance
 ---
 

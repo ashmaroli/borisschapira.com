@@ -6,7 +6,7 @@ tags:
 canonical: http//blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/
 date: '2014-06-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-seul-site-vous-manque-et-tout-le-web-est-casse
 ---
 

@@ -5,7 +5,7 @@ tags:
     - 'Transformation numérique'
 date: '2015-04-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: promouvoir-une-culture-numerique
 ---
 

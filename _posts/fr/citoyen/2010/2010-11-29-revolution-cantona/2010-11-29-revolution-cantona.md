@@ -4,7 +4,7 @@ tags:
     - Finance
 date: '2010-11-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: revolution-cantona
 ---
 

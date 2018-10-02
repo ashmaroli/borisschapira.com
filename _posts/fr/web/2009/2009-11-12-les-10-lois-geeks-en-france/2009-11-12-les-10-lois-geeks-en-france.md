@@ -5,7 +5,7 @@ tags:
     - Geek
 date: '2009-11-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-10-lois-geeks-en-france
 ---
 

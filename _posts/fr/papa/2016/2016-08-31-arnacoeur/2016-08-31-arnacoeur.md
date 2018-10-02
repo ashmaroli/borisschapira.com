@@ -2,7 +2,7 @@
 title: Arnacœur
 date: '2016-08-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: arnacoeur
 ---
 

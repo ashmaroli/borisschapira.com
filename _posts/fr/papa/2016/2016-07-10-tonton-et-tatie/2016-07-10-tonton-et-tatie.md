@@ -2,7 +2,7 @@
 title: 'Tonton et Tatie'
 date: '2016-07-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: tonton-et-tatie
 ---
 

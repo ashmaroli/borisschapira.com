@@ -5,7 +5,7 @@ tags:
     - Insolite
 date: '2008-04-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: phrases-insolites-9
 ---
 

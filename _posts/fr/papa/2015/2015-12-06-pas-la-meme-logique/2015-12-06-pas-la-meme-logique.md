@@ -2,7 +2,7 @@
 title: 'Pas la même logique'
 date: '2015-12-06'
 type: post
-locale: fr_FR
+locale: fr
 slug: pas-la-meme-logique
 ---
 

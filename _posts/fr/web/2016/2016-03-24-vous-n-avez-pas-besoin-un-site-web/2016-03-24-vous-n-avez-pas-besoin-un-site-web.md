@@ -4,7 +4,7 @@ tags:
     - 'Transformation numérique'
 date: '2016-03-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: vous-n-avez-pas-besoin-un-site-web
 ---
 

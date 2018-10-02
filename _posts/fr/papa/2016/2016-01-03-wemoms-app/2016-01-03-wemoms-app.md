@@ -2,7 +2,7 @@
 title: WeMoms
 date: '2016-01-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: wemoms-app
 ---
 

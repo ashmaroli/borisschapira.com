@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2009-07-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: septembre-sera-chaud
 ---
 

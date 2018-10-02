@@ -2,7 +2,7 @@
 title: 'L''échec de tous'
 date: '2009-01-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: lechec-de-tous
 ---
 

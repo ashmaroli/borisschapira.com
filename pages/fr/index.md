@@ -9,5 +9,5 @@ i18n-key: home
 category: ''
 pagination: 
   enabled: true
-  locale: fr_FR
+  locale: fr
 ---

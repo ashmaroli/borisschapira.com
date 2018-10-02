@@ -5,7 +5,7 @@ tags:
     - MSDays
 date: '2009-09-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: retrouvez-moi-le-6-octobre-aux-ms-days
 ---
 

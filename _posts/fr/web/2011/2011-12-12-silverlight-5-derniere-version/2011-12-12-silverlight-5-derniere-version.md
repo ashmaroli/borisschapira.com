@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2011-12-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: silverlight-5-derniere-version
 ---
 

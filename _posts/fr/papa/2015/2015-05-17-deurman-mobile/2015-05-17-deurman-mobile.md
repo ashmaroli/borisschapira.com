@@ -2,7 +2,7 @@
 title: 'Deurman mobile'
 date: '2015-05-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: deurman-mobile
 ---
 

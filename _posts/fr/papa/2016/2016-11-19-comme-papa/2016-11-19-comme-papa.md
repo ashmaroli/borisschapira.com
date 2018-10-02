@@ -2,7 +2,7 @@
 title: 'Comme Papa'
 date: '2016-11-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: comme-papa
 ---
 

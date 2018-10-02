@@ -5,7 +5,7 @@ tags:
     - Typographie
 date: '2005-01-01'
 type: post
-locale: fr_FR
+locale: fr
 sitemap: false
 robots:
     noindex: true

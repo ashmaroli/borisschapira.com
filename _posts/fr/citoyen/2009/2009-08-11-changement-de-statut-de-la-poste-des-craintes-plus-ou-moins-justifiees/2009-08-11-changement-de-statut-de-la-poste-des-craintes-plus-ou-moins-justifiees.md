@@ -4,7 +4,7 @@ tags:
     - France
 date: '2009-08-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees
 ---
 

@@ -4,7 +4,7 @@ tags:
     - 'État d''urgence'
 date: '2015-12-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: analyse-du-projet-de-revision-constitutionnelle-etat-urgence
 ---
 

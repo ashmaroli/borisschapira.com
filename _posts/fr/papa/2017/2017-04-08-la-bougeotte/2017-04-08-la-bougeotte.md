@@ -2,7 +2,7 @@
 title: 'La bougeotte'
 date: '2017-04-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-bougeotte
 ---
 

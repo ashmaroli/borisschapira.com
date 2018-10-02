@@ -2,7 +2,7 @@
 title: 'Grosse colère'
 date: '2017-06-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: grosse-colere
 ---
 

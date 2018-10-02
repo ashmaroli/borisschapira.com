@@ -5,7 +5,7 @@ tags:
     - Windows
 date: '2014-06-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: vagrant-windows-et-nfs
 ---
 

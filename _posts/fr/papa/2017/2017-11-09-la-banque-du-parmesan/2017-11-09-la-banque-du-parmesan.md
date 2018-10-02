@@ -2,7 +2,7 @@
 title: 'La banque du parmesan'
 date: '2017-11-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-banque-du-parmesan
 ---
 

@@ -2,7 +2,7 @@
 title: 'Mon métier'
 date: '2017-11-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: mon-metier
 ---
 

@@ -2,7 +2,7 @@
 title: 'Les anbibiotiques'
 date: '2018-01-06'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-anbibiotiques
 ---
 

@@ -2,7 +2,7 @@
 title: '5 choses que vous ne savez (peut-être) pas sur Vincent-San'
 date: '2007-09-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: 5-choses-que-vous-ne-savez-peut-etre-pas-sur-vincent-san
 ---
 

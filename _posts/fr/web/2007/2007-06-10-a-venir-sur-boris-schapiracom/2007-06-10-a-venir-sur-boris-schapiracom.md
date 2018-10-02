@@ -2,7 +2,7 @@
 title: 'A venir sur Boris-Schapira.com'
 date: '2007-06-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: a-venir-sur-boris-schapiracom
 ---
 

@@ -2,7 +2,7 @@
 title: 'Sortir Mamie'
 date: '2016-04-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: sortir-mamie
 ---
 

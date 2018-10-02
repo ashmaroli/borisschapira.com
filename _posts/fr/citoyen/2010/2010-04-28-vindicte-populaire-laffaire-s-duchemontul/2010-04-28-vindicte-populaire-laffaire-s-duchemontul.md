@@ -4,7 +4,7 @@ tags:
     - Égalité
 date: '2010-04-28'
 type: post
-locale: fr_FR
+locale: fr
 slug: vindicte-populaire-laffaire-s-duchemontul
 ---
 

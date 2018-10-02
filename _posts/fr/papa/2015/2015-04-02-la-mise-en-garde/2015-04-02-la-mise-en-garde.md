@@ -2,7 +2,7 @@
 title: 'La mise en garde'
 date: '2015-04-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-mise-en-garde
 ---
 

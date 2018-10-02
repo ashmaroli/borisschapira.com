@@ -6,7 +6,7 @@ i18n-key: mobile-carrier
 categories:
     - papa
 publishDate: '2018-03-21'
-locale: en_US
+locale: en
 ---
 
 The eldest discovered the theatre a few weeks ago. He's spending his time acting and playing us.

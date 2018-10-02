@@ -2,7 +2,7 @@
 title: 'Tencule dans le poop'
 date: '2016-03-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: tentacule-dans-le-poop
 ---
 

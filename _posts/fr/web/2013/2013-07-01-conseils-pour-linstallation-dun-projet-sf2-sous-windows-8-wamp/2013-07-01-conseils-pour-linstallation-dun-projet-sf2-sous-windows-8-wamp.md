@@ -4,7 +4,7 @@ tags:
     - Back-End
 date: '2013-07-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: conseils-pour-linstallation-dun-projet-sf2-sous-windows-8-wamp
 ---
 

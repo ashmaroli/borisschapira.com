@@ -7,7 +7,7 @@ tags:
     - Web
 date: '2007-06-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-microsoft-student-partners-se-demarquent-a-limagine-cup
 ---
 

@@ -4,7 +4,7 @@ tags:
     - 'Imagine Cup'
 date: '2007-06-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: soiree-imagine-cup-premiere-video
 ---
 

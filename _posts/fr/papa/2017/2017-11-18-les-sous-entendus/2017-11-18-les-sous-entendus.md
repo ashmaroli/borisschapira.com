@@ -2,7 +2,7 @@
 title: 'Les sous-entendus'
 date: '2017-11-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-sous-entendus
 ---
 

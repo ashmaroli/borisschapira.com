@@ -6,7 +6,7 @@ tags:
     - .NET
 date: '2007-01-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: powershell-disponible
 ---
 

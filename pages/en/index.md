@@ -6,10 +6,10 @@ description: "My blog, containing personal opinions on the Web but also on my li
 displayCustomHead: true
 displayCustomTitle: false
 i18n-key: home
-locale: "en_US"
+locale: "en"
 base-url: "/en/"
 category: ''
 pagination: 
   enabled: true
-  locale: en_US
+  locale: en
 ---

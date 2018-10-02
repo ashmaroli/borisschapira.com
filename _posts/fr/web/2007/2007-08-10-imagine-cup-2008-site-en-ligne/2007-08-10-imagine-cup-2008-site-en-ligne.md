@@ -5,7 +5,7 @@ tags:
     - 'Imagine Cup'
 date: '2007-08-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: imagine-cup-2008-site-en-ligne
 ---
 

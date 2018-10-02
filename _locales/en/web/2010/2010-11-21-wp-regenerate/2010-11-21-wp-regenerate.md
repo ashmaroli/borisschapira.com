@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to Regenerate Thumbnails 2.1.0'
 i18n-key: wp-regenerate
-locale: en_US
+locale: en
 tags:
     - 'Me, myself and I'
     - Projets

@@ -4,7 +4,7 @@ date: '2017-03-28'
 type: post
 tags:
     - police
-locale: fr_FR
+locale: fr
 slug: police-et-cohesion-sociale
 ---
 

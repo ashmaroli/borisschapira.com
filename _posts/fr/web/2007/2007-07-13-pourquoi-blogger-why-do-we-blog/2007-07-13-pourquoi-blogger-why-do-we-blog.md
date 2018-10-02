@@ -2,7 +2,7 @@
 title: 'Pourquoi blogger ? &#124; Why do we blog ?'
 date: '2007-07-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: pourquoi-blogger-why-do-we-blog
 ---
 

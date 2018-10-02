@@ -5,7 +5,7 @@ tags:
     - 'Billet d''humeur'
 date: '2008-05-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: supermarches-une-grande-supercherie
 ---
 

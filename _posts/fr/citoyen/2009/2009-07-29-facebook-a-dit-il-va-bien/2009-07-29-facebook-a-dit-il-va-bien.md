@@ -7,7 +7,7 @@ tags:
     - France
 date: '2009-07-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: facebook-a-dit-il-va-bien
 ---
 

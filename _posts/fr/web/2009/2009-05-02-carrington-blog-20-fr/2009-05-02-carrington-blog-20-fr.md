@@ -5,7 +5,7 @@ tags:
     - Wordpress
 date: '2009-05-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: carrington-blog-20-fr
 ---
 

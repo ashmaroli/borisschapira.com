@@ -4,7 +4,7 @@ tags:
     - Finance
 date: '2009-04-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: g20-et-regulation
 ---
 

@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-09-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-virus-du-developpeur
 ---
 

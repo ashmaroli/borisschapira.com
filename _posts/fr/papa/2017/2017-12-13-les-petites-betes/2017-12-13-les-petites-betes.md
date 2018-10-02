@@ -2,7 +2,7 @@
 title: 'Les petites bêtes'
 date: '2017-12-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-petites-betes
 ---
 

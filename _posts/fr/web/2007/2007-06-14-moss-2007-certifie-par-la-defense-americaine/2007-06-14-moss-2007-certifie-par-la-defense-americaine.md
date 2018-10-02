@@ -4,7 +4,7 @@ tags:
     - Sharepoint
 date: '2007-06-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: moss-2007-certifie-par-la-defense-americaine
 ---
 

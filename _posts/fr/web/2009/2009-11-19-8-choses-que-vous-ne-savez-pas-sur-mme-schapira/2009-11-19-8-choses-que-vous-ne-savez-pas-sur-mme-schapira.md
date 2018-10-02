@@ -5,7 +5,7 @@ tags:
     - 'Me, myself and I'
 date: '2009-11-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: 8-choses-que-vous-ne-savez-pas-sur-mme-schapira
 ---
 

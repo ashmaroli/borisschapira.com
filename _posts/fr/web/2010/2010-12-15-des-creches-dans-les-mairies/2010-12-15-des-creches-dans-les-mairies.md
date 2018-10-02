@@ -4,7 +4,7 @@ tags:
     - Laïcité
 date: '2010-12-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: des-creches-dans-les-mairies
 ---
 

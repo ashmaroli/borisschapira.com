@@ -2,7 +2,7 @@
 title: 'Manuel France'
 date: '2017-11-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: manuel-france
 ---
 

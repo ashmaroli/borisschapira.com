@@ -2,7 +2,7 @@
 title: 'Dispute à la salle de bain'
 date: '2017-06-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: dispute-a-la-salle-de-bain
 ---
 

@@ -4,7 +4,7 @@ tags:
     - ESIEE
 date: '2007-06-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: prix-decernes-a-lissue-du-jour-des-projets-esiee
 ---
 

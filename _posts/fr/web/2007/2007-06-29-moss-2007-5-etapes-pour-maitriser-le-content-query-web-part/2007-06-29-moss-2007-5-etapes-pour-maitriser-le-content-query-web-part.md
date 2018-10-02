@@ -6,7 +6,7 @@ tags:
     - 'MOSS 2007'
 date: '2007-06-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: moss-2007-5-etapes-pour-maitriser-le-content-query-web-part
 ---
 

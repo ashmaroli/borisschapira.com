@@ -2,7 +2,7 @@
 title: 'Plan de vie'
 date: '2017-10-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: plan-de-vie
 ---
 

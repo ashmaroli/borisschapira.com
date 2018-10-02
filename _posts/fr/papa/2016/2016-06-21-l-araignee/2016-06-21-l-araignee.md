@@ -2,7 +2,7 @@
 title: 'L''araignée'
 date: '2016-06-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: l-araignee
 ---
 

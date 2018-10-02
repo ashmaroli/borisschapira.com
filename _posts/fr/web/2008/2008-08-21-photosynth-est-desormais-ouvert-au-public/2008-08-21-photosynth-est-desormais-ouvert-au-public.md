@@ -5,7 +5,7 @@ tags:
     - PhotoSynth
 date: '2008-08-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: photosynth-est-desormais-ouvert-au-public
 ---
 

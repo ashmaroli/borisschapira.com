@@ -5,7 +5,7 @@ tags:
     - 'Logiciel Libre'
 date: '2007-08-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-mythe-de-la-giga-communaute-open-source
 ---
 

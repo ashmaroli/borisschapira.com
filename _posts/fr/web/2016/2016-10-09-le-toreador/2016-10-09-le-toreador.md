@@ -2,7 +2,7 @@
 title: 'Le toréador'
 date: '2016-10-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-toreador
 ---
 

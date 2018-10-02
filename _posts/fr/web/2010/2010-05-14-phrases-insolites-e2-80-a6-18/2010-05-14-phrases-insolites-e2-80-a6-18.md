@@ -4,7 +4,7 @@ series:
     - 'Phrases insolites'
 date: '2010-05-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: phrases-insolites-e2-80-a6-18
 ---
 

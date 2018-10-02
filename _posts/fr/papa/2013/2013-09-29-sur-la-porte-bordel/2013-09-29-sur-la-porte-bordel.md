@@ -2,7 +2,7 @@
 title: 'Sur la porte, bordel'
 date: '2013-09-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: sur-la-porte-bordel
 ---
 

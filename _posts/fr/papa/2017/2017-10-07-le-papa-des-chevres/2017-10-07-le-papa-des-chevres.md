@@ -2,7 +2,7 @@
 title: 'Le papa des chèvres'
 date: '2017-10-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-papa-des-chevres
 ---
 

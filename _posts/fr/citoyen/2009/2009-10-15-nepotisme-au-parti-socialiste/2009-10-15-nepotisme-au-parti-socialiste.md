@@ -5,7 +5,7 @@ tags:
     - 'Jean Sarkozy'
 date: '2009-10-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: nepotisme-au-parti-socialiste
 ---
 

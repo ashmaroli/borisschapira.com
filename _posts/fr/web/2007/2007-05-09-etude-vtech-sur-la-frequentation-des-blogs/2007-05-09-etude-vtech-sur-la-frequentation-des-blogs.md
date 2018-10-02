@@ -4,7 +4,7 @@ tags:
     - RSS
 date: '2007-05-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: etude-vtech-sur-la-frequentation-des-blogs
 ---
 

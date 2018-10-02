@@ -2,7 +2,7 @@
 title: 'Les smartphones ont tué les pointeuses'
 date: '2017-02-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-smartphones-ont-tue-les-pointeuses
 ---
 

@@ -2,7 +2,7 @@
 title: 'Scrumbuts et Cargo Cult'
 date: '2017-04-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: scrumbut-cargo-cult
 ---
 

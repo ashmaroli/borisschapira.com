@@ -2,7 +2,7 @@
 title: 'Ce que disent les grands'
 date: '2016-09-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: ce-que-disent-les-grands
 ---
 

@@ -2,7 +2,7 @@
 title: 'La règle du fruit'
 date: '2016-04-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-regle-du-fruit
 ---
 

@@ -5,7 +5,7 @@ tags:
     - Numérique
 date: '2007-04-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: drm-lautorite-independante-est-mise-en-place
 ---
 

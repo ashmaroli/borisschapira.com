@@ -2,7 +2,7 @@
 title: 'Quand l''inspiration vient'
 date: '2017-10-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: quand-l-inspiration-vient
 ---
 

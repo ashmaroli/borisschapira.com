@@ -2,7 +2,7 @@
 title: 'La lumière de la musique'
 date: '2016-02-10'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-lumiere-de-la-musique
 ---
 

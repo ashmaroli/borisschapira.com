@@ -2,7 +2,7 @@
 title: 'Quand j''étais petit, la Chine était une dictature'
 date: '2007-11-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: quand-jtais-petit-la-chine-tait-une-dictature
 ---
 

@@ -5,7 +5,7 @@ tags:
     - Économie
 date: '2009-05-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: lepidemie-continue
 ---
 

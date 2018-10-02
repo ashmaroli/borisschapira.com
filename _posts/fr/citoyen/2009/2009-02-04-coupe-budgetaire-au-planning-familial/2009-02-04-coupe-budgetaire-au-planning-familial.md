@@ -2,7 +2,7 @@
 title: 'Coupe budgétaire au Planning Familial'
 date: '2009-02-04'
 type: post
-locale: fr_FR
+locale: fr
 slug: coupe-budgetaire-au-planning-familial
 ---
 

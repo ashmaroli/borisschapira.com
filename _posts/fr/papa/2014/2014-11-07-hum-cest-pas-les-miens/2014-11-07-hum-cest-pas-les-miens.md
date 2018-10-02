@@ -2,7 +2,7 @@
 title: '"Hum... c''est pas les miens ?"'
 date: '2014-11-07'
 type: post
-locale: fr_FR
+locale: fr
 slug: hum-cest-pas-les-miens
 ---
 

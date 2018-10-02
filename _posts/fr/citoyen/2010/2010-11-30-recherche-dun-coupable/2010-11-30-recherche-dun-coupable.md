@@ -6,7 +6,7 @@ tags:
     - Sécurité
 date: '2010-11-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: recherche-dun-coupable
 ---
 

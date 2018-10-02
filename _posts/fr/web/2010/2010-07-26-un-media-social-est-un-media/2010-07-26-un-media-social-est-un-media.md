@@ -4,7 +4,7 @@ tags:
     - 'Transformation numérique'
 date: '2010-07-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-media-social-est-un-media
 ---
 

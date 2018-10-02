@@ -2,7 +2,7 @@
 title: 'Réduire le suivi'
 date: '2016-11-21'
 type: post
-locale: fr_FR
+locale: fr
 slug: reduire-le-suivi
 ---
 

@@ -2,7 +2,7 @@
 title: 'Le serpent qui se mord le pneu'
 date: '2009-01-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-serpent-qui-se-mord-le-pneu
 ---
 

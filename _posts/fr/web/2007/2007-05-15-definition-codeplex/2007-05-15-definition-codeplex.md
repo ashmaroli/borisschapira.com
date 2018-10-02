@@ -8,7 +8,7 @@ tags:
     - 'Open Source'
 date: '2007-05-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: definition-codeplex
 ---
 

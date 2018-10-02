@@ -2,7 +2,7 @@
 title: 'Personnages de dessins animés'
 date: '2015-03-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: personnages-de-dessins-animes
 ---
 

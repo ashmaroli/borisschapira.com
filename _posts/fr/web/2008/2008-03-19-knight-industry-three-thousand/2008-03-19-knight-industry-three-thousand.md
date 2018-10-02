@@ -5,7 +5,7 @@ tags:
     - Souvenir
 date: '2008-03-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: knight-industry-three-thousand
 ---
 

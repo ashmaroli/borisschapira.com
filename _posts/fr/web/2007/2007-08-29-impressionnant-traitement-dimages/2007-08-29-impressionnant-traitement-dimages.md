@@ -5,7 +5,7 @@ tags:
     - Web
 date: '2007-08-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: impressionnant-traitement-dimages
 ---
 

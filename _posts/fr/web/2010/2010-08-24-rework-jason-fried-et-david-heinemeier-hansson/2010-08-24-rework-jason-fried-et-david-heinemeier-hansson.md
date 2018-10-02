@@ -4,7 +4,7 @@ tags:
     - Management
 date: '2010-08-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: rework-jason-fried-et-david-heinemeier-hansson
 ---
 

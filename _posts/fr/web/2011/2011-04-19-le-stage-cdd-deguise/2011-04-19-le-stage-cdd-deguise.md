@@ -4,7 +4,7 @@ tags:
     - Emploi
 date: '2011-04-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-stage-cdd-deguise
 ---
 

@@ -2,7 +2,7 @@
 title: 'Jeux de boules'
 date: '2018-03-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: jeux-de-boules
 ---
 

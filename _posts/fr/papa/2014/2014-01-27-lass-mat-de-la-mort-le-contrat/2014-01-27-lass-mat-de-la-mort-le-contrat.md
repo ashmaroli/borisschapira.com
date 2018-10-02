@@ -2,7 +2,7 @@
 title: 'L''Ass. Mat de la mort : le contrat'
 date: '2014-01-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: lass-mat-de-la-mort-le-contrat
 ---
 

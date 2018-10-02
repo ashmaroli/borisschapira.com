@@ -5,7 +5,7 @@ tags:
     - .NET
 date: '2007-09-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-coin-du-developpeur
 ---
 

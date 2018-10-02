@@ -5,7 +5,7 @@ tags:
     - 'Me, myself and I'
 date: '2007-03-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: monster-chasseurs-en-folie
 ---
 

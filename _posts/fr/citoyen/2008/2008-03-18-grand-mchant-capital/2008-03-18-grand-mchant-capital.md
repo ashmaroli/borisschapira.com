@@ -6,7 +6,7 @@ tags:
     - 'Billet d''humeur'
 date: '2008-03-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: grand-mchant-capital
 ---
 

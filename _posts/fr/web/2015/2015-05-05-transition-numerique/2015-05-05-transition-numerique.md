@@ -5,7 +5,7 @@ tags:
     - Presse
 date: '2015-05-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: transition-numerique
 ---
 

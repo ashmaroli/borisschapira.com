@@ -2,7 +2,7 @@
 title: 'Adopte un sol'
 date: '2014-11-08'
 type: post
-locale: fr_FR
+locale: fr
 slug: wagners-world0
 ---
 

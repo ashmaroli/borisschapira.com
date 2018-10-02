@@ -8,7 +8,7 @@ series:
 canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
 date: '2015-06-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: gerer-ses-dependances-avec-bower
 ---
 

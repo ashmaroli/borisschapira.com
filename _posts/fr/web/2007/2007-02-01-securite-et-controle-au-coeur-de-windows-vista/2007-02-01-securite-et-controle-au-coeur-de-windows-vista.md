@@ -6,7 +6,7 @@ tags:
     - 'Me, myself and I'
 date: '2007-02-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: securite-et-controle-au-coeur-de-windows-vista
 ---
 

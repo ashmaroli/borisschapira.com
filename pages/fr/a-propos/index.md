@@ -4,7 +4,7 @@ title: À propos…
 permalink: /a-propos/
 date: 2015-10-05 17:15:20
 i18n-key: about
-locale: fr_FR
+locale: fr
 ---
 
 * [… de moi ?](/a-propos/moi/)

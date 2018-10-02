@@ -2,7 +2,7 @@
 title: 'L''âme légère'
 date: '2009-01-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: lame-legere
 ---
 

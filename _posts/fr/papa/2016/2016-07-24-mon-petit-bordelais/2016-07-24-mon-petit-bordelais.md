@@ -2,7 +2,7 @@
 title: 'Mon petit bordelais'
 date: '2016-07-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: mon-petit-bordelais
 ---
 

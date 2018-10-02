@@ -2,7 +2,7 @@
 title: 'Collectivités et contrôle des investissements'
 date: '2009-11-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: collectivite-qui-controle-les-investissements
 ---
 

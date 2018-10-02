@@ -2,7 +2,7 @@
 title: 'Jeu de cartes'
 date: '2017-06-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: jeu-de-cartes
 ---
 

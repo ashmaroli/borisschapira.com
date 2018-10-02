@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2009-03-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-parlement-europeen-narretera-pas-hadopi
 ---
 

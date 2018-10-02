@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 date: '2008-05-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: quels-couteurs-choisir-a-votre-avis
 ---
 

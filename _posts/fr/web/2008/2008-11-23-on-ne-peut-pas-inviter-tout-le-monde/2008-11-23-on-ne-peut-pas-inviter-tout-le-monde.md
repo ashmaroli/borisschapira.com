@@ -2,7 +2,7 @@
 title: 'On ne peut pas inviter tout le monde…'
 date: '2008-11-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: on-ne-peut-pas-inviter-tout-le-monde
 ---
 

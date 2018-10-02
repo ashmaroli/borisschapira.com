@@ -4,7 +4,7 @@ tags:
     - Front-End
 date: '2011-10-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: html-5-silverlight-et-microsoft
 ---
 

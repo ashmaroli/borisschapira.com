@@ -7,7 +7,7 @@ tags:
     - Typograph
 date: '2005-01-01'
 type: post
-locale: en_US
+locale: en
 sitemap: false
 robots:
     noindex: true

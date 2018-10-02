@@ -2,7 +2,7 @@
 title: 'La réflexion'
 date: '2017-06-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-reflexion
 ---
 

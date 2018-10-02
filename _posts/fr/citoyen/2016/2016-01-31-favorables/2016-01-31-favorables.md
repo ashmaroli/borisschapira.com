@@ -5,7 +5,7 @@ tags:
 main_image: /assets/images/2016-01-31/1.png
 date: '2016-01-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: favorables
 ---
 

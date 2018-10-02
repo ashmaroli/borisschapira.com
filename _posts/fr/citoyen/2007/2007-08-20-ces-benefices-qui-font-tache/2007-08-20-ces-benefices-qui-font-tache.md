@@ -6,7 +6,7 @@ tags:
     - Tabac
 date: '2007-08-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: ces-benefices-qui-font-tache
 ---
 

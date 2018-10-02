@@ -4,7 +4,7 @@ date: '2017-07-11'
 type: post
 tags:
     - anecdotes
-locale: fr_FR
+locale: fr
 slug: enfermes-dans-un-sous-sol
 ---
 

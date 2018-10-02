@@ -2,7 +2,7 @@
 title: 'De l''art d''être précis'
 date: '2016-06-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: specifique
 ---
 

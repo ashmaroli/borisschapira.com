@@ -2,7 +2,7 @@
 title: 'Ressemblance #2'
 date: '2015-06-18'
 type: post
-locale: fr_FR
+locale: fr
 slug: ressemblance-2
 ---
 

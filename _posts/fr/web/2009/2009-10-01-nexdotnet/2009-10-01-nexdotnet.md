@@ -5,7 +5,7 @@ tags:
     - Nexeo
 date: '2009-10-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: nexdotnet
 ---
 

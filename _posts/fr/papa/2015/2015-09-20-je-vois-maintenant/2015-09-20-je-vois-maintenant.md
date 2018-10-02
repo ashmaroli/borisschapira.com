@@ -2,7 +2,7 @@
 title: 'Je vois maintenant'
 date: '2015-09-20'
 type: post
-locale: fr_FR
+locale: fr
 slug: je-vois-maintenant
 ---
 

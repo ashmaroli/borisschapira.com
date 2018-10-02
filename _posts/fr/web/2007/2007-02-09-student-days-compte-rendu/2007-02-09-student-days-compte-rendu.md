@@ -4,7 +4,7 @@ tags:
     - Conférences
 date: '2007-02-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: student-days-compte-rendu
 ---
 

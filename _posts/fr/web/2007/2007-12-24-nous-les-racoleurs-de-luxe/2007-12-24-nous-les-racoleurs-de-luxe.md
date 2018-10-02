@@ -6,7 +6,7 @@ tags:
     - Web
 date: '2007-12-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: nous-les-racoleurs-de-luxe
 ---
 

@@ -5,7 +5,7 @@ tags:
     - XNA
 date: '2007-08-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: urgent-recherche-dun-developpeur-xna
 ---
 

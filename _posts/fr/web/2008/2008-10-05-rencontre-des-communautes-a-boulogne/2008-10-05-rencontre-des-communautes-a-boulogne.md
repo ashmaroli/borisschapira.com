@@ -6,7 +6,7 @@ tags:
     - Microsoft
 date: '2008-10-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: rencontre-des-communautes-a-boulogne
 ---
 

@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 date: '2007-02-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: photosynth
 ---
 

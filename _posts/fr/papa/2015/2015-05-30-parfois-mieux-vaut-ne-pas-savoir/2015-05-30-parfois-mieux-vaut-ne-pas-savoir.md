@@ -2,7 +2,7 @@
 title: 'Parfois, mieux vaut ne pas savoir'
 date: '2015-05-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: parfois-mieux-vaut-ne-pas-savoir
 ---
 

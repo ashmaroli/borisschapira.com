@@ -6,7 +6,7 @@ series:
     - 'Windows Phone'
 date: '2010-04-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-paradoxe-du-smartphone
 ---
 

@@ -4,7 +4,7 @@ tags:
     - Front-End
 date: '2011-05-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: developpeurs-web-10-conseils-ultimes
 ---
 

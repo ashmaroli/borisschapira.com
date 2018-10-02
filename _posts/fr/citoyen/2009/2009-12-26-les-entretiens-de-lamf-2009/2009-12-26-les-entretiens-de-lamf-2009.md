@@ -4,7 +4,7 @@ tags:
     - Finance
 date: '2009-12-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-entretiens-de-lamf-2009
 ---
 

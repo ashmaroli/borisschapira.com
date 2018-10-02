@@ -4,7 +4,7 @@ tags:
     - .NET
 date: '2007-07-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: retour-vers-le-futur
 ---
 

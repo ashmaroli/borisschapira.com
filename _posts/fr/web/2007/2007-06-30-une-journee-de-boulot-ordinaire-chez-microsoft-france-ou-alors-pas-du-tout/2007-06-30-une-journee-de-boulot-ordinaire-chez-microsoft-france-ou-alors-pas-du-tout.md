@@ -6,7 +6,7 @@ tags:
     - Stage
 date: '2007-06-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: une-journee-de-boulot-ordinaire-chez-microsoft-france-ou-alors-pas-du-tout
 ---
 

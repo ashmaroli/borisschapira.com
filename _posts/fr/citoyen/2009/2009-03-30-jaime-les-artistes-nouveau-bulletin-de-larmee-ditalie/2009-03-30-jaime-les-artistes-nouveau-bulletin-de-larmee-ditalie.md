@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2009-03-30'
 type: post
-locale: fr_FR
+locale: fr
 slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 ---
 

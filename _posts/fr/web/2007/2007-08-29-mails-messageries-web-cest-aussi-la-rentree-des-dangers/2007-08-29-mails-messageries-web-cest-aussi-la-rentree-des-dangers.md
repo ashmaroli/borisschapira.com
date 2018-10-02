@@ -5,7 +5,7 @@ tags:
 series: 'Dangers du Net'
 date: '2007-08-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: mails-messageries-web-cest-aussi-la-rentree-des-dangers
 ---
 

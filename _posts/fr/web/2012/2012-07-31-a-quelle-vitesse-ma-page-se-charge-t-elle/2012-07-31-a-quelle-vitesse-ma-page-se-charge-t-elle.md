@@ -5,7 +5,7 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/'
 date: '2012-07-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: a-quelle-vitesse-ma-page-se-charge-t-elle
 ---
 

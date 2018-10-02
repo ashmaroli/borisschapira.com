@@ -2,7 +2,7 @@
 title: 'Le cadeau de noël'
 date: '2016-11-25'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-cadeau-de-noel
 ---
 

@@ -2,7 +2,7 @@
 title: 'C''était le bon temps'
 date: '2014-03-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: cetait-le-bon-temps
 ---
 

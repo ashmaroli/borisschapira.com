@@ -4,7 +4,7 @@ tags:
     - Enseignement
 date: '2016-06-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: conseils-pour-les-etudiants
 ---
 

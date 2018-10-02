@@ -2,7 +2,7 @@
 title: 'Les guerres'
 date: '2017-10-29'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-guerres
 ---
 

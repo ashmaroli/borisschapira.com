@@ -2,7 +2,7 @@
 title: Cauchemar
 date: '2018-01-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: cauchemar
 ---
 

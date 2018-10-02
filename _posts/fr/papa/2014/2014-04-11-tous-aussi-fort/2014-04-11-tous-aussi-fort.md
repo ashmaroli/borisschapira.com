@@ -2,7 +2,7 @@
 title: 'Tous aussi fort'
 date: '2014-04-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: tous-aussi-fort
 ---
 

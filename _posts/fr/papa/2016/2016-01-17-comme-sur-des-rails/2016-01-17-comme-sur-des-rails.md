@@ -2,7 +2,7 @@
 title: 'Comme sur des rails'
 date: '2016-01-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: comme-sur-des-rails
 ---
 

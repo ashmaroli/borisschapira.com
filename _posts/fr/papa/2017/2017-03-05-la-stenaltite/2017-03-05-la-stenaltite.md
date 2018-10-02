@@ -2,7 +2,7 @@
 title: 'La stènaltite'
 date: '2017-03-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-stenaltite
 ---
 

@@ -2,7 +2,7 @@
 title: 'Opera Dragonfly Search Form is great'
 date: '2012-05-30'
 type: post
-locale: en_US
+locale: en
 slug: sudweb2012-opera-dragonfly-search-form-is-great
 ---
 

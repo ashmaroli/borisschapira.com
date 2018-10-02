@@ -5,7 +5,7 @@ tags:
     - Windows
 date: '2007-06-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: lhistoire-de-windows-partie-1
 ---
 

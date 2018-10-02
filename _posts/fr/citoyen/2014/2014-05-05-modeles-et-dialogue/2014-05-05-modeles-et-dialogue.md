@@ -4,7 +4,7 @@ tags:
     - Société
 date: '2014-05-05'
 type: post
-locale: fr_FR
+locale: fr
 slug: modeles-et-dialogue
 ---
 

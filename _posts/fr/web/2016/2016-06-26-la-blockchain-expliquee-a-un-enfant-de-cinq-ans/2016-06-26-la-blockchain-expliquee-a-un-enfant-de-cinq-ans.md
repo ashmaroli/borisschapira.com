@@ -5,7 +5,7 @@ categories:
     - papa
 date: '2016-06-26'
 type: post
-locale: fr_FR
+locale: fr
 slug: la-blockchain-expliquee-a-un-enfant-de-cinq-ans
 ---
 

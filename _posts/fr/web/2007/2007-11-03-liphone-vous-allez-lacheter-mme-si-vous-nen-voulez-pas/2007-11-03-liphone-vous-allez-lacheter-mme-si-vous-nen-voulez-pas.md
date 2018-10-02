@@ -7,7 +7,7 @@ tags:
     - Publicité
 date: '2007-11-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: liphone-vous-allez-lacheter-mme-si-vous-nen-voulez-pas
 ---
 

@@ -2,7 +2,7 @@
 title: 'James Bond'
 date: '2016-05-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: james-bond
 ---
 

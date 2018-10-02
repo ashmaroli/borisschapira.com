@@ -5,7 +5,7 @@ tags:
     - Subprime
 date: '2007-08-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: leconomie-cest-pas-si-complique
 ---
 

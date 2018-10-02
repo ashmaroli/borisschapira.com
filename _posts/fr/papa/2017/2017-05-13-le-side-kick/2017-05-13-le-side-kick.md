@@ -2,7 +2,7 @@
 title: 'Le Side-Kick'
 date: '2017-05-13'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-side-kick
 ---
 

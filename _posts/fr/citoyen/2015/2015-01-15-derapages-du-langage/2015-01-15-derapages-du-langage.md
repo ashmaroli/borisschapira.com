@@ -6,7 +6,7 @@ series:
     - 'Charlie Hebdo'
 date: '2015-01-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: derapages-du-langage
 ---
 

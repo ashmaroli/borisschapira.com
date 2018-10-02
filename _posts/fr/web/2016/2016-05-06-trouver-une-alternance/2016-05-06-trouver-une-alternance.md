@@ -5,7 +5,7 @@ tags:
     - 'Trouver un stage ou une alternance'
 date: '2016-05-06'
 type: post
-locale: fr_FR
+locale: fr
 slug: trouver-une-alternance
 ---
 

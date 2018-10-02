@@ -5,7 +5,7 @@ tags:
     - 'Me, myself and I'
 date: '2010-01-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: rencontre-bordeaux-33co
 ---
 

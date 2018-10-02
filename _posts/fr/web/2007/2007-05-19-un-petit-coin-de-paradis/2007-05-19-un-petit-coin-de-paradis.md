@@ -2,7 +2,7 @@
 title: 'Un petit coin de paradis'
 date: '2007-05-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-petit-coin-de-paradis
 ---
 

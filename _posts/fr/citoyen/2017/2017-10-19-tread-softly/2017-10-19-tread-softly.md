@@ -2,7 +2,7 @@
 title: 'Tread softly because you tread on my dreams'
 date: '2017-10-19'
 type: post
-locale: fr_FR
+locale: fr
 slug: tread-softly
 ---
 

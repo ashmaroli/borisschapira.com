@@ -2,7 +2,7 @@
 title: Ressemblance
 date: '2014-11-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: ressemblance
 ---
 

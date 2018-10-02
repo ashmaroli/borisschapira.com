@@ -5,7 +5,7 @@ tags:
     - 'Windows Vista'
 date: '2007-04-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: votre-reseau-pour-vista
 ---
 

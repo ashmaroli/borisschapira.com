@@ -6,7 +6,7 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2012/03/09/adobe-shadow-le-graal-du-developpement-front-end-mobile/'
 date: '2012-03-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: adobe-shadow-le-graal-du-developpement-front-end-mobile
 ---
 

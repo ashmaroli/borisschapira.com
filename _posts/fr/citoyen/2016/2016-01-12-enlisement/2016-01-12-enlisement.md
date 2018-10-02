@@ -3,7 +3,7 @@ title: Enlisement
 tags: null
 date: '2016-01-12'
 type: post
-locale: fr_FR
+locale: fr
 slug: enlisement
 ---
 

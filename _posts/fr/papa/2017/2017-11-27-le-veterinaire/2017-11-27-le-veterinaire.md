@@ -2,7 +2,7 @@
 title: 'Le vétérinaire'
 date: '2017-11-27'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-veterinaire
 ---
 

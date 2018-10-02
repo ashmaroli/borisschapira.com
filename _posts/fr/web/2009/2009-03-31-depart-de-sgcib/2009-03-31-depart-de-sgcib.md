@@ -8,7 +8,7 @@ tags:
     - SGCIB
 date: '2009-03-31'
 type: post
-locale: fr_FR
+locale: fr
 slug: depart-de-sgcib
 ---
 

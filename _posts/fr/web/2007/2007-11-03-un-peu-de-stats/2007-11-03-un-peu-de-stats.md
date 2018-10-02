@@ -5,7 +5,7 @@ tags:
     - Wikio
 date: '2007-11-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-peu-de-stats
 ---
 

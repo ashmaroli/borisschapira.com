@@ -2,7 +2,7 @@
 title: 'Premiers mots du deuxième'
 date: '2014-12-11'
 type: post
-locale: fr_FR
+locale: fr
 slug: premiers-mots-du-deuxieme
 ---
 

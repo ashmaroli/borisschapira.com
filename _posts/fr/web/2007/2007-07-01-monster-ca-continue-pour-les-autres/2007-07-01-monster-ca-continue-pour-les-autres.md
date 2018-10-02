@@ -7,7 +7,7 @@ tags:
     - Monster
 date: '2007-07-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: monster-ca-continue-pour-les-autres
 ---
 

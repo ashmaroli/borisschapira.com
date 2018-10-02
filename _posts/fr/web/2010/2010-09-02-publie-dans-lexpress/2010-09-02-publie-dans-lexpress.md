@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 date: '2010-09-02'
 type: post
-locale: fr_FR
+locale: fr
 slug: publie-dans-lexpress
 ---
 

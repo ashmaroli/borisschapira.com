@@ -5,7 +5,7 @@ type: post
 tags:
     - election
     - legislatives
-locale: fr_FR
+locale: fr
 slug: legislatives
 ---
 

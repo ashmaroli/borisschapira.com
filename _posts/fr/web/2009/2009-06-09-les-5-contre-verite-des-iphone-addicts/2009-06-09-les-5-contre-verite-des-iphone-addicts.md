@@ -6,7 +6,7 @@ tags:
     - iPhone
 date: '2009-06-09'
 type: post
-locale: fr_FR
+locale: fr
 slug: les-5-contre-verite-des-iphone-addicts
 ---
 

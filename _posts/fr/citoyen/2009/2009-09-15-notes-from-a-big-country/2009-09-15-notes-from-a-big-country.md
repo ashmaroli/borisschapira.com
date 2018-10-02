@@ -5,7 +5,7 @@ tags:
     - Littérature
 date: '2009-09-15'
 type: post
-locale: fr_FR
+locale: fr
 slug: notes-from-a-big-country
 ---
 

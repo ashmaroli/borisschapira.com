@@ -3,7 +3,7 @@ title: 'À l''aventure'
 date: '2017-05-31'
 main_image: /assets/images/2017-05-31/forest.jpg
 type: post
-locale: fr_FR
+locale: fr
 slug: a-l-aventure
 ---
 

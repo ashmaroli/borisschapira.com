@@ -2,7 +2,7 @@
 title: 'Journée Nationale du Sommeil'
 date: '2015-03-14'
 type: post
-locale: fr_FR
+locale: fr
 slug: journee-nationale-du-sommeil
 ---
 

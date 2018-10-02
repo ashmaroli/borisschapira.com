@@ -6,7 +6,7 @@ tags:
     - Web
 date: '2007-05-03'
 type: post
-locale: fr_FR
+locale: fr
 slug: astoria-un-live-sql
 ---
 

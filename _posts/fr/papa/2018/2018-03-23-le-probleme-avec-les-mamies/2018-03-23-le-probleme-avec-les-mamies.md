@@ -2,7 +2,7 @@
 title: 'Le problème avec les mamies'
 date: '2018-03-23'
 type: post
-locale: fr_FR
+locale: fr
 slug: le-probleme-avec-les-mamies
 ---
 

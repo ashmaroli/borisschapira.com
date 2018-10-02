@@ -4,7 +4,7 @@ tags:
     - Photos
 date: '2008-08-24'
 type: post
-locale: fr_FR
+locale: fr
 slug: un-ete-bien-charge-photos-from-flickr
 ---
 

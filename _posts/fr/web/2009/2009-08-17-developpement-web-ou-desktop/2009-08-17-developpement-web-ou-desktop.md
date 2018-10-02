@@ -5,7 +5,7 @@ tags:
     - Web
 date: '2009-08-17'
 type: post
-locale: fr_FR
+locale: fr
 slug: developpement-web-ou-desktop
 ---
 

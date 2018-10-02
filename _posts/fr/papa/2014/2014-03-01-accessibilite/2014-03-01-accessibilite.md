@@ -2,7 +2,7 @@
 title: Accessibilité
 date: '2014-03-01'
 type: post
-locale: fr_FR
+locale: fr
 slug: accessibilite
 ---
 
