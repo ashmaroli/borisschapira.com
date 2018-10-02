@@ -14,6 +14,7 @@ end
 
 group :jekyll_plugins do
   gem 'classifier-reborn'
+  gem "jekyll-locale", "~> 0.3.0"
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
   gem 'jekyll-cloudinary'

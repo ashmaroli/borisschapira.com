@@ -25,7 +25,7 @@ module Jekyll
 
     def load_translations
       return false unless I18n.backend.send(:translations).empty?
-      filename = File.join(File.dirname(__FILE__), '../_data/_locales/*.yml')
+      filename = File.join(File.dirname(__FILE__), '../_data/locales/*.yml')
       I18n.backend.load_translations Dir[filename]
     end
   end

@@ -242,3 +242,11 @@ compress_html:
   ignore:
     envs:
       - 'development'
+
+localization:
+  mode       : manual
+  locale     : "fr_FR"
+  data_dir   : locales    # Sets the base location for *translation data*, within your *site's `data_dir`*.
+  content_dir: _locales   # Sets the base location for placing files to be re-rendered. Ignored in "auto mode".
+  locales_set: ["fr_FR","en_US"]         # A list of locales the site will re-render files into
+  exclude_set: []         # A list of file paths the site will not re-render in "auto" mode.
