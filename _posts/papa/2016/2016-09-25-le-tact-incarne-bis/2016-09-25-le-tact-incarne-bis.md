@@ -2,7 +2,6 @@
 title: 'Le tact incarné (bis)'
 date: '2016-09-25'
 type: post
-locale: fr
 slug: le-tact-incarne-bis
 ---
 

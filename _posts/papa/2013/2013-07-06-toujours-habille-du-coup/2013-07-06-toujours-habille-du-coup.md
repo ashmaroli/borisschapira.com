@@ -2,7 +2,6 @@
 title: 'Toujours habillé, du coup'
 date: '2013-07-06'
 type: post
-locale: fr
 slug: toujours-habille-du-coup
 ---
 

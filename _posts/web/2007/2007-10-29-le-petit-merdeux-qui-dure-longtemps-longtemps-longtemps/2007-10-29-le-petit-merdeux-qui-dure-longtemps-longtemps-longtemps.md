@@ -2,7 +2,6 @@
 title: 'Le petit merdeux qui dure longtemps, longtemps, longtemps…'
 date: '2007-10-29'
 type: post
-locale: fr
 slug: le-petit-merdeux-qui-dure-longtemps-longtemps-longtemps
 ---
 

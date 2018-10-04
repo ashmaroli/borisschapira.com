@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/'
 date: '2015-09-04'
 type: post
-locale: fr
 slug: http-archive-comprendre-le-present-en-observant-le-passe
 ---
 

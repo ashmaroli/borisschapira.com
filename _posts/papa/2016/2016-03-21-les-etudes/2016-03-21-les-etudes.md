@@ -2,7 +2,6 @@
 title: 'Les études'
 date: '2016-03-21'
 type: post
-locale: fr
 slug: les-etudes
 ---
 

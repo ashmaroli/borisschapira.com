@@ -2,7 +2,6 @@
 title: 'Journées enfant malade'
 date: '2017-12-18'
 type: post
-locale: fr
 slug: journees-enfant-malade
 ---
 

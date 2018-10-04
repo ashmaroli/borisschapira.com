@@ -2,7 +2,6 @@
 title: 'Pourquoi les conférences (Paris Web 2015)'
 date: '2015-10-02'
 type: post
-locale: fr
 slug: pourquoi-les-conferences-paris-web-2015
 ---
 

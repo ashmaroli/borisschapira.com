@@ -4,7 +4,6 @@ tags:
     - 'Me, myself and I'
 date: '2010-02-24'
 type: post
-locale: fr
 slug: une-lecon-dhistoire
 ---
 

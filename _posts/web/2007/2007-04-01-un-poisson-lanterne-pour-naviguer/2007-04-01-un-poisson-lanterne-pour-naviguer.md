@@ -4,7 +4,6 @@ tags:
     - Outils
 date: '2007-04-01'
 type: post
-locale: fr
 slug: un-poisson-lanterne-pour-naviguer
 ---
 

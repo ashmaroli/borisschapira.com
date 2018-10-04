@@ -2,7 +2,6 @@
 title: 'La planque'
 date: '2015-01-17'
 type: post
-locale: fr
 slug: la-planque
 ---
 

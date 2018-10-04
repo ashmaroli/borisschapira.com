@@ -2,7 +2,6 @@
 title: 'Cuisine de grands'
 date: '2015-02-04'
 type: post
-locale: fr
 slug: cuisine-de-grands
 ---
 

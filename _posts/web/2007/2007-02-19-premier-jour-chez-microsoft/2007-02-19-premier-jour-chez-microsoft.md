@@ -4,7 +4,6 @@ tags:
     - 'Me, myself and I'
 date: '2007-02-19'
 type: post
-locale: fr
 slug: premier-jour-chez-microsoft
 ---
 

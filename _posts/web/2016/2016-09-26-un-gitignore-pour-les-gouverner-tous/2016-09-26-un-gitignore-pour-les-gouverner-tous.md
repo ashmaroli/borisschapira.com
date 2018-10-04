@@ -2,7 +2,6 @@
 title: 'Un gitignore pour les gouverner tous'
 date: '2016-09-26'
 type: post
-locale: fr
 slug: un-gitignore-pour-les-gouverner-tous
 ---
 

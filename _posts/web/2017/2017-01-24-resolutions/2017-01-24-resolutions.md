@@ -4,7 +4,6 @@ tags:
     - 'Me, myself & I'
 date: '2017-01-24'
 type: post
-locale: fr
 slug: resolutions
 ---
 

@@ -4,7 +4,6 @@ tags:
     - Emploi
 date: '2016-02-25'
 type: post
-locale: fr
 slug: revenu-de-base
 ---
 

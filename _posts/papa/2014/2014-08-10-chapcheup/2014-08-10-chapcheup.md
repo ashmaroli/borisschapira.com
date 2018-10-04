@@ -2,7 +2,6 @@
 title: Chapcheup
 date: '2014-08-10'
 type: post
-locale: fr
 slug: chapcheup
 ---
 

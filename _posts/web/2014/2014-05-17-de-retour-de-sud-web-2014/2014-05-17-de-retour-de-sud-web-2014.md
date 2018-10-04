@@ -6,7 +6,6 @@ series:
     - 'Sud Web 2014'
 date: '2014-05-17'
 type: post
-locale: fr
 slug: de-retour-de-sud-web-2014
 ---
 

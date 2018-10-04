@@ -4,7 +4,6 @@ tags:
     - MSP
 date: '2007-01-14'
 type: post
-locale: fr
 slug: lancement-presse-de-limagine-cup-2007
 ---
 

@@ -2,7 +2,6 @@
 title: 'Fils de pâtissière'
 date: '2017-06-06'
 type: post
-locale: fr
 slug: fils-de-patissiere
 ---
 

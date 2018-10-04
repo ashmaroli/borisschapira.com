@@ -2,7 +2,6 @@
 title: 'Souvenirs d''une taupe'
 date: '2007-09-13'
 type: post
-locale: fr
 slug: souvenirs-dune-taupe
 ---
 

@@ -2,7 +2,6 @@
 title: 'Du vin de pirates'
 date: '2018-01-19'
 type: post
-locale: fr
 slug: du-vin-de-pirates
 ---
 

@@ -2,7 +2,6 @@
 title: 'Futur scénariste'
 date: '2018-05-20'
 type: post
-locale: fr
 slug: futur-scenariste
 ---
 

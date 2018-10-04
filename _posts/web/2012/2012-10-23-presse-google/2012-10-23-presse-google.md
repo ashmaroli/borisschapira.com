@@ -5,7 +5,6 @@ tags:
     - Presse
 date: '2012-10-23'
 type: post
-locale: fr
 slug: presse-google
 ---
 

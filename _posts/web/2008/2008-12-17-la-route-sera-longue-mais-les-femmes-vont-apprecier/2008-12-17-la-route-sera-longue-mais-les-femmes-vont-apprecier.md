@@ -5,7 +5,6 @@ tags:
     - Économie
 date: '2008-12-17'
 type: post
-locale: fr
 slug: la-route-sera-longue-mais-les-femmes-vont-apprecier
 ---
 

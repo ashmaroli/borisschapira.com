@@ -2,7 +2,6 @@
 title: 'C''est ta vie'
 date: '2014-10-05'
 type: post
-locale: fr
 slug: cest-ta-vie
 ---
 

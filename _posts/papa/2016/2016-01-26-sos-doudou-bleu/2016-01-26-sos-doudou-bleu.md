@@ -2,7 +2,6 @@
 title: 'Introuvable !'
 date: '2016-01-26'
 type: post
-locale: fr
 slug: sos-doudou-bleu
 ---
 

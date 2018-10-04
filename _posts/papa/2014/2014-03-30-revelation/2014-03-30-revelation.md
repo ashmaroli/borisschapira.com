@@ -2,7 +2,6 @@
 title: Révélation
 date: '2014-03-30'
 type: post
-locale: fr
 slug: revelation
 ---
 

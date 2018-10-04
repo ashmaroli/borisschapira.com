@@ -6,7 +6,6 @@ series:
     - 'Loi Renseignement'
 date: '2015-04-05'
 type: post
-locale: fr
 slug: projet-de-loi-relatif-au-renseignement
 ---
 

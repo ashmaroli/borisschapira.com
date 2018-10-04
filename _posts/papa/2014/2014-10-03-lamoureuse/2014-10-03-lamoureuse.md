@@ -2,7 +2,6 @@
 title: 'L''amoureuse'
 date: '2014-10-03'
 type: post
-locale: fr
 slug: lamoureuse
 ---
 

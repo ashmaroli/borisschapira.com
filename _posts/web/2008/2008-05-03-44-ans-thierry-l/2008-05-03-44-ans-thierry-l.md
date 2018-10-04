@@ -2,7 +2,6 @@
 title: '44 ans (Thierry L.)'
 date: '2008-05-03'
 type: post
-locale: fr
 slug: 44-ans-thierry-l
 ---
 

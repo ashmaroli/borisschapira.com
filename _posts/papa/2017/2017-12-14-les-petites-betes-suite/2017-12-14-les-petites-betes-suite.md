@@ -2,7 +2,6 @@
 title: 'Les petites bêtes (suite)'
 date: '2017-12-14'
 type: post
-locale: fr
 slug: les-petites-betes-suite
 ---
 

@@ -2,7 +2,6 @@
 title: Productivité
 date: '2013-07-03'
 type: post
-locale: fr
 slug: productivite
 ---
 

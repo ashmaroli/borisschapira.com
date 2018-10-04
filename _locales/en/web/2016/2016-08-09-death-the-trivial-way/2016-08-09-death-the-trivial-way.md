@@ -5,7 +5,6 @@ tags:
     - 'Intelligence Artificielle'
 date: '2016-08-09'
 type: post
-locale: en
 slug: death-the-trivial-way
 ---
 

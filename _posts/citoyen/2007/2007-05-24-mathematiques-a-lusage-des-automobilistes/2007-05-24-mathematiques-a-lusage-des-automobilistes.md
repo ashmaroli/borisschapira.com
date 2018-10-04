@@ -5,7 +5,6 @@ tags:
     - 'Sécurité routière'
 date: '2007-05-24'
 type: post
-locale: fr
 slug: mathematiques-a-lusage-des-automobilistes
 ---
 

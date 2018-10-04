@@ -2,7 +2,6 @@
 title: 'Quand ça veut pas'
 date: '2017-03-08'
 type: post
-locale: fr
 slug: quand-ca-veut-pas
 ---
 

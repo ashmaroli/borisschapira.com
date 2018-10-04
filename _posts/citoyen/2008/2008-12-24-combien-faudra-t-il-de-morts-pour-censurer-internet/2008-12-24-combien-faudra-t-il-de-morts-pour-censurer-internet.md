@@ -6,7 +6,6 @@ tags:
     - Web
 date: '2008-12-24'
 type: post
-locale: fr
 slug: combien-faudra-t-il-de-morts-pour-censurer-internet
 ---
 

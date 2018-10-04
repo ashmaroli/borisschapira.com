@@ -2,7 +2,6 @@
 title: 'Après la plage'
 date: '2016-08-27'
 type: post
-locale: fr
 slug: apres-la-plage
 ---
 

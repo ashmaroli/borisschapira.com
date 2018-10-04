@@ -4,7 +4,6 @@ tags:
     - Conférences
 date: '2014-02-14'
 type: post
-locale: fr
 slug: rappels-javascript-js-ftw
 ---
 

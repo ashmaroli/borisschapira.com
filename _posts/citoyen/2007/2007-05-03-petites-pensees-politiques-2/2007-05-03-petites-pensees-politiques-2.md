@@ -6,7 +6,6 @@ tags:
     - Présidentielles
 date: '2007-05-03'
 type: post
-locale: fr
 slug: petites-pensees-politiques-2
 ---
 

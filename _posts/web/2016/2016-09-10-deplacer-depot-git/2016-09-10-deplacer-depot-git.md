@@ -2,7 +2,6 @@
 title: 'Déplacer un dépôt git'
 date: '2016-09-10'
 type: post
-locale: fr
 slug: deplacer-depot-git
 ---
 

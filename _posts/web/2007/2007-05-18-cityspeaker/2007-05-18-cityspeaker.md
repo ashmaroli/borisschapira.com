@@ -5,7 +5,6 @@ tags:
     - Publicité
 date: '2007-05-18'
 type: post
-locale: fr
 slug: cityspeaker
 ---
 

@@ -9,7 +9,6 @@ series:
     - 'Sud Web 2014'
 date: '2014-05-20'
 type: post
-locale: fr
 loadTwitterWjs: true
 slug: un-outil-pour-enseigner-le-web-front-end
 ---

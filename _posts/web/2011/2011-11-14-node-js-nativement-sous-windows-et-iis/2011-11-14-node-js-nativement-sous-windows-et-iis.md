@@ -4,7 +4,6 @@ tags:
     - Outils
 date: '2011-11-14'
 type: post
-locale: fr
 slug: node-js-nativement-sous-windows-et-iis
 ---
 

@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-10-06'
 type: post
-locale: fr
 slug: thread-threadpool
 ---
 

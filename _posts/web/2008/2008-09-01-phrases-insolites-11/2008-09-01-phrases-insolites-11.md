@@ -5,7 +5,6 @@ tags:
     - Insolite
 date: '2008-09-01'
 type: post
-locale: fr
 slug: phrases-insolites-11
 ---
 

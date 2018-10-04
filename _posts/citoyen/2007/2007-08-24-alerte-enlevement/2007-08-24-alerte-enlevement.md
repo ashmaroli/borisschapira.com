@@ -2,7 +2,6 @@
 title: 'Alerte enlèvement : relayer, mais pas trop'
 date: '2007-08-24'
 type: post
-locale: fr
 slug: alerte-enlevement
 ---
 

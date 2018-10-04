@@ -2,7 +2,6 @@
 title: 'Amp Bookmarklet'
 date: '2016-02-25'
 type: post
-locale: fr
 slug: amp-bookmarklet
 ---
 

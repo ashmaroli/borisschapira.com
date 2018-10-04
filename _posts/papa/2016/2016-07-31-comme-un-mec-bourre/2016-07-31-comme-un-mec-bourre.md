@@ -2,7 +2,6 @@
 title: 'Comme un mec bourré'
 date: '2016-07-31'
 type: post
-locale: fr
 slug: comme-un-mec-bourre
 ---
 

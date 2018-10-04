@@ -6,7 +6,6 @@ series:
     - 'Sud Web 2014'
 date: '2014-05-16'
 type: post
-locale: fr
 slug: sudweb-2014-lidee-au-projet-genese-dune-lightning-talk
 ---
 

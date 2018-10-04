@@ -5,7 +5,6 @@ tags:
     - Religion
 date: '2009-12-11'
 type: post
-locale: fr
 slug: marietta-karamanli-identite-nationale
 ---
 

@@ -2,7 +2,6 @@
 title: 'La rentrée'
 date: '2016-09-03'
 type: post
-locale: fr
 slug: la-rentree
 ---
 

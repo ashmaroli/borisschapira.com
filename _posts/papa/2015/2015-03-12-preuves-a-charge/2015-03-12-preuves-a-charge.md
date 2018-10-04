@@ -2,7 +2,6 @@
 title: 'Preuves à charge'
 date: '2015-03-12'
 type: post
-locale: fr
 slug: preuves-a-charge
 ---
 

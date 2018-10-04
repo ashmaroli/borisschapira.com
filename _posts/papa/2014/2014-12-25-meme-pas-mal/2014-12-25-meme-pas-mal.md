@@ -2,7 +2,6 @@
 title: 'Même pas mal'
 date: '2014-12-25'
 type: post
-locale: fr
 slug: meme-pas-mal
 ---
 

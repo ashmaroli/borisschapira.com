@@ -2,7 +2,6 @@
 title: 'Le même à la maison'
 date: '2015-08-18'
 type: post
-locale: fr
 slug: le-meme-a-la-maison
 ---
 

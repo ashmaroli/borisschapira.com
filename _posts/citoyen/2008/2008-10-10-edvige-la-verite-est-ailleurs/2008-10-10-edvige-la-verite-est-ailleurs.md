@@ -4,7 +4,6 @@ tags:
     - Sécurité
 date: '2008-10-10'
 type: post
-locale: fr
 slug: edvige-la-verite-est-ailleurs
 ---
 

@@ -4,7 +4,6 @@ tags:
     - Grève
 date: '2007-11-07'
 type: post
-locale: fr
 slug: phrases-spciales-grvistes
 ---
 

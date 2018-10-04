@@ -4,7 +4,6 @@ tags:
     - USA
 date: '2008-09-29'
 type: post
-locale: fr
 slug: politique-usa-911-trade-mark
 ---
 

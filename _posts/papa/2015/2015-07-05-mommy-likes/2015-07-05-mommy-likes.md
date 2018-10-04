@@ -2,7 +2,6 @@
 title: 'Mommy likes...'
 date: '2015-07-05'
 type: post
-locale: fr
 slug: mommy-likes
 ---
 

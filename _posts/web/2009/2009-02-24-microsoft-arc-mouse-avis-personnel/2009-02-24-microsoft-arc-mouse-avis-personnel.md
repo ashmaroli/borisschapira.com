@@ -6,7 +6,6 @@ tags:
     - Test
 date: '2009-02-24'
 type: post
-locale: fr
 slug: microsoft-arc-mouse-avis-personnel
 ---
 

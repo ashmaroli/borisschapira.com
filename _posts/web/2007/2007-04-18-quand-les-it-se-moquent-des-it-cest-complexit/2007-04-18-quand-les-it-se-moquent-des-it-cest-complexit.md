@@ -5,7 +5,6 @@ tags:
     - TechNet
 date: '2007-04-18'
 type: post
-locale: fr
 slug: quand-les-it-se-moquent-des-it-cest-complexit
 ---
 

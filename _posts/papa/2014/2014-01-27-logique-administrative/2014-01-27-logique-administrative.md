@@ -2,7 +2,6 @@
 title: 'Logique administrative'
 date: '2014-01-27'
 type: post
-locale: fr
 slug: logique-administrative
 ---
 

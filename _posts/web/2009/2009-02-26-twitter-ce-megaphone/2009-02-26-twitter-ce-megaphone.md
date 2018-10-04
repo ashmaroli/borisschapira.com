@@ -6,7 +6,6 @@ tags:
     - Microblogging
 date: '2009-02-26'
 type: post
-locale: fr
 slug: twitter-ce-megaphone
 ---
 

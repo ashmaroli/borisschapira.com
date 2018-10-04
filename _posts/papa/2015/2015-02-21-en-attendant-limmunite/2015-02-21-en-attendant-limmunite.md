@@ -2,7 +2,6 @@
 title: 'En attendant l''immunité'
 date: '2015-02-21'
 type: post
-locale: fr
 slug: en-attendant-limmunite
 ---
 

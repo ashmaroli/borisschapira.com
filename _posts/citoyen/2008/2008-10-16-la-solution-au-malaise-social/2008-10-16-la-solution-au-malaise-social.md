@@ -2,7 +2,6 @@
 title: 'La solution au malaise social ?'
 date: '2008-10-16'
 type: post
-locale: fr
 slug: la-solution-au-malaise-social
 ---
 

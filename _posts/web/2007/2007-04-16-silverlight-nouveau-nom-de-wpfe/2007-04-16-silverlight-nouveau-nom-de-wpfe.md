@@ -5,7 +5,6 @@ tags:
     - Silverlight
 date: '2007-04-16'
 type: post
-locale: fr
 slug: silverlight-nouveau-nom-de-wpfe
 ---
 

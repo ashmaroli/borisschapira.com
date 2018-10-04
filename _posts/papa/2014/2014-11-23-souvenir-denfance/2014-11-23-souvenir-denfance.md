@@ -2,7 +2,6 @@
 title: 'Souvenir d''enfance'
 date: '2014-11-23'
 type: post
-locale: fr
 slug: souvenir-denfance
 ---
 

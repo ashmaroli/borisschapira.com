@@ -2,7 +2,6 @@
 title: 'Éducations sexuelles'
 date: '2017-03-08'
 type: post
-locale: fr
 slug: educations-sexuelles
 ---
 

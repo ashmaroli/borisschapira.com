@@ -6,7 +6,6 @@ tags:
     - Web
 date: '2007-12-21'
 type: post
-locale: fr
 slug: internet-explorer-renoue-avec-les-standards
 ---
 

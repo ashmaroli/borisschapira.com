@@ -5,7 +5,6 @@ tags:
     - Silverlight
 date: '2008-10-14'
 type: post
-locale: fr
 slug: net-ria-silverlight-20
 ---
 

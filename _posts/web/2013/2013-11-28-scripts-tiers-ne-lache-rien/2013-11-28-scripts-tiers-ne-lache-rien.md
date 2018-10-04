@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
 date: '2013-11-28'
 type: post
-locale: fr
 slug: scripts-tiers-ne-lache-rien
 ---
 

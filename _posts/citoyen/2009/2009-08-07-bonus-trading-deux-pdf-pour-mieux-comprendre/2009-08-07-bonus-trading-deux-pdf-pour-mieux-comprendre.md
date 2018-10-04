@@ -2,7 +2,6 @@
 title: 'Bonus, Trading : deux PDF pour mieux comprendre'
 date: '2009-08-07'
 type: post
-locale: fr
 slug: bonus-trading-deux-pdf-pour-mieux-comprendre
 ---
 

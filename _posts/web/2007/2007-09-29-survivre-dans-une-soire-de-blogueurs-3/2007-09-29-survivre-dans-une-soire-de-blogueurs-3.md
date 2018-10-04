@@ -2,7 +2,6 @@
 title: 'Survivre dans une soirée de blogueurs #3'
 date: '2007-09-29'
 type: post
-locale: fr
 slug: survivre-dans-une-soire-de-blogueurs-3
 ---
 

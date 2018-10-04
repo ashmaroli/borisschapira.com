@@ -3,7 +3,6 @@ title: 'La preuve'
 main_image: /assets/images/papa/2016-01-25/1.gif
 date: '2016-01-25'
 type: post
-locale: fr
 slug: preuve-fees-existent
 ---
 

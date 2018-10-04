@@ -4,7 +4,6 @@ tags:
     - Éducation
 date: '2010-05-08'
 type: post
-locale: fr
 slug: boursiers-et-grandes-ecoles
 ---
 

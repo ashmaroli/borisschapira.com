@@ -4,7 +4,6 @@ tags:
     - Emploi
 date: '2007-05-16'
 type: post
-locale: fr
 slug: 8-facons-de-me-faire-fuir
 ---
 

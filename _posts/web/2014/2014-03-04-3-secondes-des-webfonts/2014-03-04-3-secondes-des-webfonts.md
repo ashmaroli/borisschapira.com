@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2014/03/04/3-secondes-des-webfonts/'
 date: '2014-03-04'
 type: post
-locale: fr
 slug: 3-secondes-des-webfonts
 ---
 

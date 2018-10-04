@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-12-14'
 type: post
-locale: fr
 slug: mono-is-feature-complete
 ---
 

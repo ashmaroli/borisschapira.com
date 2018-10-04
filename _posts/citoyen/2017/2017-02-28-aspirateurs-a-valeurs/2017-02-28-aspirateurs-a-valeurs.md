@@ -2,7 +2,6 @@
 title: 'Aspirateurs à valeur'
 date: '2017-02-28'
 type: post
-locale: fr
 slug: aspirateurs-a-valeurs
 ---
 

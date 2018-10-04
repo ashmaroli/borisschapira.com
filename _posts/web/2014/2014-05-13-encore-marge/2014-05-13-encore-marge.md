@@ -5,7 +5,6 @@ tags:
     - Mobilité
 date: '2014-05-13'
 type: post
-locale: fr
 slug: encore-marge
 ---
 

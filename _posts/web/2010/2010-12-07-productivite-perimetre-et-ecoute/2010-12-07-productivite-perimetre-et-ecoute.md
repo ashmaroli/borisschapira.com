@@ -4,7 +4,6 @@ tags:
     - Management
 date: '2010-12-07'
 type: post
-locale: fr
 slug: productivite-perimetre-et-ecoute
 ---
 

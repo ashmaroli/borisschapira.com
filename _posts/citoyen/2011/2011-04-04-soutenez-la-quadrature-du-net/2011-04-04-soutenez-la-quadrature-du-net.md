@@ -5,7 +5,6 @@ tags:
     - 'Transformation numérique'
 date: '2011-04-04'
 type: post
-locale: fr
 slug: soutenez-la-quadrature-du-net
 ---
 

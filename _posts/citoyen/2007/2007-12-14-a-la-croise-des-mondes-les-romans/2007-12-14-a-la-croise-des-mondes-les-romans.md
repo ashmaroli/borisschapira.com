@@ -4,7 +4,6 @@ date: '2007-12-14'
 type: post
 tags:
     - Littérature
-locale: fr
 slug: a-la-croise-des-mondes-les-romans
 ---
 

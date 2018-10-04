@@ -2,7 +2,6 @@
 title: 'Mort et jeux vidéo'
 date: '2018-05-23'
 type: post
-locale: fr
 slug: mort-et-jeux-video
 ---
 

@@ -2,7 +2,6 @@
 title: 'La ceinture'
 date: '2017-03-26'
 type: post
-locale: fr
 slug: la-ceinture
 ---
 

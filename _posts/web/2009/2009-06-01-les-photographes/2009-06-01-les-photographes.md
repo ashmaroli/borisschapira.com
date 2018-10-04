@@ -5,7 +5,6 @@ tags:
     - Mariage
 date: '2009-06-01'
 type: post
-locale: fr
 slug: les-photographes
 ---
 

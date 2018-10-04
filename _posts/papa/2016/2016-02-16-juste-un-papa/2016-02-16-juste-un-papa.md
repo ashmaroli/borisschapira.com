@@ -2,7 +2,6 @@
 title: 'Juste un papa'
 date: '2016-02-16'
 type: post
-locale: fr
 slug: juste-un-papa
 ---
 

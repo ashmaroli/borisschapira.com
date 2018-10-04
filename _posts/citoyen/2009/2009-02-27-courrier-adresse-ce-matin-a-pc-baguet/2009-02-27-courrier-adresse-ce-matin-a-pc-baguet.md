@@ -5,7 +5,6 @@ tags:
 series: Hadopi
 date: '2009-02-27'
 type: post
-locale: fr
 slug: courrier-adresse-ce-matin-a-pc-baguet
 ---
 

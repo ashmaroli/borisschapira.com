@@ -7,7 +7,6 @@ canonical: 'https://blog.dareboost.com/fr/2017/09/hsts-fiabiliser-connexions-sec
 type: post
 tags:
     - 'Performance Web'
-locale: fr
 slug: hsts-fiabiliser-connexions-securisees
 ---
 

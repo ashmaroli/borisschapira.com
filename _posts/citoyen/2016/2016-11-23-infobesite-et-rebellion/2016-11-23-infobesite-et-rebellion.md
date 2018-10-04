@@ -4,7 +4,6 @@ tags:
     - Éducation
 date: '2016-11-23'
 type: post
-locale: fr
 slug: infobesite-et-rebellion
 ---
 

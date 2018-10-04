@@ -2,7 +2,6 @@
 title: 'Les vêtements !'
 date: '2018-06-16'
 type: post
-locale: fr
 slug: les-vetements
 ---
 

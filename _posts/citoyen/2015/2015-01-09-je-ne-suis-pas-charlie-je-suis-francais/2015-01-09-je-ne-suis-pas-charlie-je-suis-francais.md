@@ -6,7 +6,6 @@ series:
     - 'Charlie Hebdo'
 date: '2015-01-09'
 type: post
-locale: fr
 loadTwitterWjs: true
 slug: je-ne-suis-pas-charlie-je-suis-francais
 ---

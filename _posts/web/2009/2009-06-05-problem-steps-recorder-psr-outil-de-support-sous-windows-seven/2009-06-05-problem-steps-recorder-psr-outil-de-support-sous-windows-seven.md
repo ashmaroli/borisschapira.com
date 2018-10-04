@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-06-05'
 type: post
-locale: fr
 slug: problem-steps-recorder-psr-outil-de-support-sous-windows-seven
 ---
 

@@ -6,7 +6,6 @@ tags:
     - Facebook
 date: '2007-11-18'
 type: post
-locale: fr
 slug: france-2-et-facebook
 ---
 

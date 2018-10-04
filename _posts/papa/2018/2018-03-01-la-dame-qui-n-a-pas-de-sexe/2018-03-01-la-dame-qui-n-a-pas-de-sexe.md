@@ -2,7 +2,6 @@
 title: 'La dame qui n''a pas de sexe'
 date: '2018-03-01'
 type: post
-locale: fr
 slug: la-dame-qui-n-a-pas-de-sexe
 ---
 

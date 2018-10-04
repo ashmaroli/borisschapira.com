@@ -5,7 +5,6 @@ tags:
 series: Hadopi
 date: '2009-06-04'
 type: post
-locale: fr
 slug: et-les-livres-pirates
 ---
 

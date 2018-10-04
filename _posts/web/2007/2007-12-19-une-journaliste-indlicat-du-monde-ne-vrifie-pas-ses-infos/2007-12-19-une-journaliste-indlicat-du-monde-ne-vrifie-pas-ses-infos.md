@@ -8,7 +8,6 @@ tags:
     - MSP
 date: '2007-12-19'
 type: post
-locale: fr
 slug: une-journaliste-indlicat-du-monde-ne-vrifie-pas-ses-infos
 ---
 

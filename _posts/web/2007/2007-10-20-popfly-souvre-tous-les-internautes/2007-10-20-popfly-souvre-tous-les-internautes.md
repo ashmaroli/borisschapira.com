@@ -6,7 +6,6 @@ tags:
     - Silverlight
 date: '2007-10-20'
 type: post
-locale: fr
 slug: popfly-souvre-tous-les-internautes
 ---
 

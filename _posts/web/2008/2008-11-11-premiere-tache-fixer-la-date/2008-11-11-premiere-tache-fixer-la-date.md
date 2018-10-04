@@ -5,7 +5,6 @@ tags:
     - Mariage
 date: '2008-11-11'
 type: post
-locale: fr
 slug: premiere-tache-fixer-la-date
 ---
 

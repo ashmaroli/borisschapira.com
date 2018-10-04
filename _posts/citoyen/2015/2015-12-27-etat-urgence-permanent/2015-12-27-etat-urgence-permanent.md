@@ -4,7 +4,6 @@ tags:
     - 'État d''urgence'
 date: '2015-12-27'
 type: post
-locale: fr
 loadTwitterWjs: true
 slug: etat-urgence-permanent
 ---

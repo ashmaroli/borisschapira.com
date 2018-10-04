@@ -7,7 +7,6 @@ tags:
     - SmartPhone
 date: '2009-09-21'
 type: post
-locale: fr
 slug: workholics
 ---
 

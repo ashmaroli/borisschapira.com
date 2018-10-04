@@ -6,7 +6,6 @@ tags:
     - Sarkozy
 date: '2009-07-01'
 type: post
-locale: fr
 slug: travail-dominical-sur-ordre-du-president
 ---
 

@@ -6,7 +6,6 @@ tags:
     - Consulting
 date: '2009-07-22'
 type: post
-locale: fr
 slug: conseil-itfinance-que-voulez-vous-savoir
 ---
 

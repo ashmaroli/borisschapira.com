@@ -2,7 +2,6 @@
 title: 'Tout ça pour ça'
 date: '2013-05-13'
 type: post
-locale: fr
 slug: tout-ca-pour-ca
 ---
 

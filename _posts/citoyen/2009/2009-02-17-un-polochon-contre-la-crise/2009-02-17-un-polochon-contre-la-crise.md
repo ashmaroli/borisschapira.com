@@ -5,7 +5,6 @@ tags:
     - Crise
 date: '2009-02-17'
 type: post
-locale: fr
 slug: un-polochon-contre-la-crise
 ---
 

@@ -5,7 +5,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2012/09/06/github-communique-sur-son-monitoring-de-la-performance/'
 date: '2012-09-06'
 type: post
-locale: fr
 slug: github-communique-sur-son-monitoring-de-la-performance
 ---
 

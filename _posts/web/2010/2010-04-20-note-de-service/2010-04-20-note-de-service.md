@@ -4,7 +4,6 @@ tags:
     - 'Me, myself and I'
 date: '2010-04-20'
 type: post
-locale: fr
 slug: note-de-service
 ---
 

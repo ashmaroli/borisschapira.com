@@ -2,7 +2,6 @@
 title: 'Elections présidentielles 2007 #4'
 date: '2007-05-18'
 type: post
-locale: fr
 slug: petites-pensees-politiques-4
 ---
 

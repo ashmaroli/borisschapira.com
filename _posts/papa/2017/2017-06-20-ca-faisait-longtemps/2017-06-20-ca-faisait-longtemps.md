@@ -2,7 +2,6 @@
 title: 'Ça faisait longtemps'
 date: '2017-06-20'
 type: post
-locale: fr
 slug: ca-faisait-longtemps
 ---
 

@@ -5,7 +5,6 @@ tags:
     - Insolite
 date: '2009-02-24'
 type: post
-locale: fr
 slug: phrases-insolites-e2-80-a6-13
 ---
 

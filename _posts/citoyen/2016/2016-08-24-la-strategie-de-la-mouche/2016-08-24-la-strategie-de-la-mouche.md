@@ -5,7 +5,6 @@ tags:
     - Terrorisme
 date: '2016-08-24'
 type: post
-locale: fr
 slug: la-strategie-de-la-mouche
 ---
 

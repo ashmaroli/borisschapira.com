@@ -2,7 +2,6 @@
 title: 'Captain Obvious'
 date: '2016-02-01'
 type: post
-locale: fr
 slug: captain-obvious
 ---
 

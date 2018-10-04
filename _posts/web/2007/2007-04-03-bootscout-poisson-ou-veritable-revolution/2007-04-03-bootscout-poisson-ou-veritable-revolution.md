@@ -4,7 +4,6 @@ tags:
     - Outils
 date: '2007-04-03'
 type: post
-locale: fr
 slug: bootscout-poisson-ou-veritable-revolution
 ---
 

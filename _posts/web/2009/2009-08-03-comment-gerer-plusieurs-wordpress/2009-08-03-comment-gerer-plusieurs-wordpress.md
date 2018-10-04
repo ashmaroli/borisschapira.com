@@ -5,7 +5,6 @@ tags:
     - Wordpress
 date: '2009-08-03'
 type: post
-locale: fr
 slug: comment-gerer-plusieurs-wordpress
 ---
 

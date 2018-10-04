@@ -2,7 +2,6 @@
 title: 'Comparaison numérique'
 date: '2017-02-03'
 type: post
-locale: fr
 slug: comparaison-numerique
 ---
 

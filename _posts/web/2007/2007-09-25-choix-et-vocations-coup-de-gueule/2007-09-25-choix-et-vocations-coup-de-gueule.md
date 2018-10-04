@@ -5,7 +5,6 @@ tags:
     - Éducation
 date: '2007-09-25'
 type: post
-locale: fr
 slug: choix-et-vocations-coup-de-gueule
 ---
 

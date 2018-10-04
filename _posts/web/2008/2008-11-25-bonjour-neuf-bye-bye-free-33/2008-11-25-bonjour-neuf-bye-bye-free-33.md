@@ -7,7 +7,6 @@ tags:
     - 'Me, myself and I'
 date: '2008-11-25'
 type: post
-locale: fr
 slug: bonjour-neuf-bye-bye-free-33
 ---
 

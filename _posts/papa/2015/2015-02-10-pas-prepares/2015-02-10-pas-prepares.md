@@ -2,7 +2,6 @@
 title: 'Pas préparés'
 date: '2015-02-10'
 type: post
-locale: fr
 slug: pas-prepares
 ---
 

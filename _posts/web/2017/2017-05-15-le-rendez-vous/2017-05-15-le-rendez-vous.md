@@ -4,7 +4,6 @@ date: '2017-05-15'
 type: post
 tags:
     - anecdotes
-locale: fr
 slug: le-rendez-vous
 ---
 

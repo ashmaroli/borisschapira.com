@@ -4,7 +4,6 @@ tags:
     - Conseil
 date: '2016-09-07'
 type: post
-locale: fr
 slug: le-marteau
 ---
 

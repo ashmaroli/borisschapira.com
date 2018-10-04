@@ -3,7 +3,6 @@ title: 'Dénoncer sous l''occupation'
 tags: null
 date: '2015-11-17'
 type: post
-locale: fr
 slug: denoncer-sous-occupation
 ---
 

@@ -5,7 +5,6 @@ tags:
     - MSP
 date: '2007-06-09'
 type: post
-locale: fr
 slug: retour-sur-la-session-msp-partie-1
 ---
 

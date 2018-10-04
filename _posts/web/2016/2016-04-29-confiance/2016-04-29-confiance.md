@@ -2,7 +2,6 @@
 title: Confiance
 date: '2016-04-29'
 type: post
-locale: fr
 slug: confiance
 ---
 

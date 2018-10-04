@@ -2,7 +2,6 @@
 title: 'Marvelogy à l''indienne'
 date: '2018-05-12'
 type: post
-locale: fr
 slug: marvelogy-a-l-indienne
 ---
 

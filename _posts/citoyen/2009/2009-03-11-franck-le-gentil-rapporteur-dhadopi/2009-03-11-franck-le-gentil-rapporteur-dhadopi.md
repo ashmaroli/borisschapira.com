@@ -5,7 +5,6 @@ tags:
 series: Hadopi
 date: '2009-03-11'
 type: post
-locale: fr
 slug: franck-le-gentil-rapporteur-dhadopi
 ---
 

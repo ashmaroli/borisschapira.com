@@ -7,7 +7,6 @@ tags:
     - Égalité
 date: '2015-03-09'
 type: post
-locale: fr
 slug: heforshe-dans-le-secondaire-aussi
 ---
 

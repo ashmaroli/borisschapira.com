@@ -6,7 +6,6 @@ tags:
     - Note2Be
 date: '2008-03-07'
 type: post
-locale: fr
 slug: reflexions-autour-de-note2be
 ---
 

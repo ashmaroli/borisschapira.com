@@ -2,7 +2,6 @@
 title: 'Rapport CES 2009 d''Olivier Ezratty'
 date: '2009-01-22'
 type: post
-locale: fr
 slug: comme-chaque-annee-le-rapport-ces-dolivier-ezratty
 ---
 

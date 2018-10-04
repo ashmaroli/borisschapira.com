@@ -2,7 +2,6 @@
 title: 'Quitte à regarder des dessins animés...'
 date: '2013-09-08'
 type: post
-locale: fr
 slug: quitte-a-regarder-des-dessins-animes
 ---
 

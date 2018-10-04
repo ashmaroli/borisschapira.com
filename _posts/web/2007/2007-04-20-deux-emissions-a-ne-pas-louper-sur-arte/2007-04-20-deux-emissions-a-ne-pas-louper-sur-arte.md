@@ -8,7 +8,6 @@ tags:
     - Microsoft
 date: '2007-04-20'
 type: post
-locale: fr
 slug: deux-emissions-a-ne-pas-louper-sur-arte
 ---
 

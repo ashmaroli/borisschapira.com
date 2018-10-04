@@ -6,7 +6,6 @@ tags:
     - 'Me, myself and I'
 date: '2009-01-26'
 type: post
-locale: fr
 slug: appartement-c-e2-80-99est-plus-possible-2
 ---
 

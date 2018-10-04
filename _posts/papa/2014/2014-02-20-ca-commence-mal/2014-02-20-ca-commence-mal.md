@@ -2,7 +2,6 @@
 title: 'Ça commence mal'
 date: '2014-02-20'
 type: post
-locale: fr
 slug: ca-commence-mal
 ---
 

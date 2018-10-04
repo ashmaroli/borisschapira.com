@@ -5,7 +5,6 @@ tags:
     - 'Microsoft Surface'
 date: '2007-06-04'
 type: post
-locale: fr
 slug: microsoft-surface-vs-mitsubishi-diamontouch
 ---
 

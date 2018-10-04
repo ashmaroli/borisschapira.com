@@ -7,7 +7,6 @@ tags:
     - 'Tour Eiffel'
 date: '2007-06-01'
 type: post
-locale: fr
 slug: limagine-cup-cest-quoi-au-juste
 ---
 

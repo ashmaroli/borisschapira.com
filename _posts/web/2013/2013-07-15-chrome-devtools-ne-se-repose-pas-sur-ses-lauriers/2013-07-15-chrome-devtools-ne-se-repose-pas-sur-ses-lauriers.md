@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/'
 date: '2013-07-15'
 type: post
-locale: fr
 slug: chrome-devtools-ne-se-repose-pas-sur-ses-lauriers
 ---
 

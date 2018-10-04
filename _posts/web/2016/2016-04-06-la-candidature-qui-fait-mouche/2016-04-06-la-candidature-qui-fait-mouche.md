@@ -5,7 +5,6 @@ tags:
     - 'Trouver un stage ou une alternance'
 date: '2016-04-06'
 type: post
-locale: fr
 slug: la-candidature-qui-fait-mouche
 ---
 

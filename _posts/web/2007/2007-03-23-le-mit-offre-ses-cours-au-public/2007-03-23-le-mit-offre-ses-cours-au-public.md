@@ -4,7 +4,6 @@ tags:
     - Education
 date: '2007-03-23'
 type: post
-locale: fr
 slug: le-mit-offre-ses-cours-au-public
 ---
 

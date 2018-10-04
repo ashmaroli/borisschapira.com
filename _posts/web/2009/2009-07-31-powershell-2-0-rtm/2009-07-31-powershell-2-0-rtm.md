@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-07-31'
 type: post
-locale: fr
 slug: powershell-2-0-rtm
 ---
 

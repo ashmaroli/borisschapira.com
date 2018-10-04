@@ -2,7 +2,6 @@
 title: 'Récupérer une Pull Request (GitHub) ou une Merge Request (Gitlab) en local'
 date: '2016-06-17'
 type: post
-locale: fr
 slug: recuperer-pr-mr-en-local
 ---
 

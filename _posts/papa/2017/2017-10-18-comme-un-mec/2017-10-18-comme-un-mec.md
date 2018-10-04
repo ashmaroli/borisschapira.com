@@ -2,7 +2,6 @@
 title: 'Comme un mec'
 date: '2017-10-18'
 type: post
-locale: fr
 slug: comme-un-mec
 ---
 

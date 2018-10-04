@@ -2,7 +2,6 @@
 title: 'Si tu peux bloguer, tu peux courir'
 date: '2007-08-27'
 type: post
-locale: fr
 slug: si-tu-peux-blogguer-tu-peux-courir
 ---
 

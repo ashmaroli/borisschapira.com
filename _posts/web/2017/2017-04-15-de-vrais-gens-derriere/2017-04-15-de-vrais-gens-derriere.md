@@ -4,7 +4,6 @@ date: '2017-04-15'
 type: post
 tags:
     - anecdotes
-locale: fr
 slug: de-vrais-gens-derriere
 ---
 

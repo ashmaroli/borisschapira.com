@@ -6,7 +6,6 @@ tags:
     - 'Me, myself and I'
 date: '2009-01-23'
 type: post
-locale: fr
 slug: appartement-cest-plus-possible
 ---
 

@@ -6,7 +6,6 @@ series:
     - 'Loi Renseignement'
 date: '2015-04-13'
 type: post
-locale: fr
 slug: pjl-securite-routiere
 ---
 

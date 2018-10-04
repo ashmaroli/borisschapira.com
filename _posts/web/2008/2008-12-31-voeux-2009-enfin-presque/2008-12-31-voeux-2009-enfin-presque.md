@@ -4,7 +4,6 @@ tags:
     - 'Nouvel an'
 date: '2008-12-31'
 type: post
-locale: fr
 slug: voeux-2009-enfin-presque
 ---
 

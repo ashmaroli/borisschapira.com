@@ -6,7 +6,6 @@ tags:
     - Économie
 date: '2009-12-28'
 type: post
-locale: fr
 slug: xbrl-pour-lechange-de-donnees-financieres
 ---
 

@@ -2,7 +2,6 @@
 title: 'Le camping-car'
 date: '2016-09-02'
 type: post
-locale: fr
 slug: le-camping-car
 ---
 

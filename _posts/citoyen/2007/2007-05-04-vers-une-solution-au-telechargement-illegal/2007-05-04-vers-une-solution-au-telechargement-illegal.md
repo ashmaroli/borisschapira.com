@@ -4,7 +4,6 @@ tags:
     - Numérique
 date: '2007-05-04'
 type: post
-locale: fr
 slug: vers-une-solution-au-telechargement-illegal
 ---
 

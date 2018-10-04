@@ -4,7 +4,6 @@ tags:
     - Management
 date: '2015-03-25'
 type: post
-locale: fr
 slug: maitrise-et-expertise
 ---
 

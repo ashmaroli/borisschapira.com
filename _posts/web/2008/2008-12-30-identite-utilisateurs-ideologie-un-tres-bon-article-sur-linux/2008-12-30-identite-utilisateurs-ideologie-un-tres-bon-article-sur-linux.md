@@ -5,7 +5,6 @@ tags:
     - Liens
 date: '2008-12-30'
 type: post
-locale: fr
 slug: identite-utilisateurs-ideologie-un-tres-bon-article-sur-linux
 ---
 

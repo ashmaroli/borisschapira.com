@@ -6,7 +6,6 @@ tags:
     - Note2Be
 date: '2009-03-05'
 type: post
-locale: fr
 slug: darwin-chez-les-ados
 ---
 

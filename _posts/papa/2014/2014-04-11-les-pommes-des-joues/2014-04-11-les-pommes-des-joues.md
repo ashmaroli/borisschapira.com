@@ -2,7 +2,6 @@
 title: 'Les pommes des joues'
 date: '2014-04-11'
 type: post
-locale: fr
 slug: les-pommes-des-joues
 ---
 

@@ -2,7 +2,6 @@
 title: 'Cupidon du cracra'
 date: '2011-08-25'
 type: post
-locale: fr
 slug: cupidon-du-cracra
 ---
 

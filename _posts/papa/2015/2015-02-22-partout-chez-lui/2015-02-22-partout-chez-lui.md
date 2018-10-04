@@ -2,7 +2,6 @@
 title: 'Partout chez lui'
 date: '2015-02-22'
 type: post
-locale: fr
 slug: partout-chez-lui
 ---
 

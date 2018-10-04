@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/'
 date: '2013-08-06'
 type: post
-locale: fr
 slug: le-commerce-toujours-plus-lent
 ---
 

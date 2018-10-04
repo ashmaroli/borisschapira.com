@@ -2,7 +2,6 @@
 title: 'Dessin du jour'
 date: '2018-03-15'
 type: post
-locale: fr
 slug: dessin-du-jour
 ---
 

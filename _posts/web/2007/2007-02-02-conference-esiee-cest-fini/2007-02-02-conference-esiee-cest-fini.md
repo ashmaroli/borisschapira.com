@@ -9,7 +9,6 @@ tags:
     - 'Windows Vista'
 date: '2007-02-02'
 type: post
-locale: fr
 slug: conference-esiee-cest-fini
 ---
 

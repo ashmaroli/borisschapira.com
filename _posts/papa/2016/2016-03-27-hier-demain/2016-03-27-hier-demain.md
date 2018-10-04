@@ -2,7 +2,6 @@
 title: 'Hier Demain'
 date: '2016-03-27'
 type: post
-locale: fr
 slug: hier-demain
 ---
 

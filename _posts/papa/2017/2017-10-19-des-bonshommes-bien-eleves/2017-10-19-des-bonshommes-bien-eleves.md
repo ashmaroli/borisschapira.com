@@ -2,7 +2,6 @@
 title: 'Les bonshommes bien élevés'
 date: '2017-10-19'
 type: post
-locale: fr
 slug: des-bonshommes-bien-eleves
 ---
 

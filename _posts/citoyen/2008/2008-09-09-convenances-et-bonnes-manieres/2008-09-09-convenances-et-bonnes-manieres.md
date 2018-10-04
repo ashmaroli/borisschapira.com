@@ -8,7 +8,6 @@ tags:
     - Société
 date: '2008-09-09'
 type: post
-locale: fr
 slug: convenances-et-bonnes-manieres
 ---
 

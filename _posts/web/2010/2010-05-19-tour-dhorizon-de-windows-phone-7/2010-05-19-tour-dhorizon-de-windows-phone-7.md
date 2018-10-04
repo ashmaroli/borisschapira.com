@@ -6,7 +6,6 @@ series: 'Windows Phone'
 canonical: 'https://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/'
 date: '2010-05-19'
 type: post
-locale: fr
 slug: tour-dhorizon-de-windows-phone-7
 ---
 

@@ -2,7 +2,6 @@
 title: Esperanto
 date: '2016-07-01'
 type: post
-locale: fr
 slug: esperanto
 ---
 

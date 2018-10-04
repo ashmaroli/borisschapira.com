@@ -5,7 +5,6 @@ tags:
 series: Hadopi
 date: '2009-05-11'
 type: post
-locale: fr
 slug: hadopi-vote-demain-a-lassemblee
 ---
 

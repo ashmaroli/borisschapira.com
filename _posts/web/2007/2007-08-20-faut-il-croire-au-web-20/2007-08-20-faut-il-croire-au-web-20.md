@@ -5,7 +5,6 @@ tags:
     - Web
 date: '2007-08-20'
 type: post
-locale: fr
 slug: faut-il-croire-au-web-20
 ---
 

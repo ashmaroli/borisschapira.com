@@ -7,7 +7,6 @@ tags:
     - XBox360
 date: '2007-06-05'
 type: post
-locale: fr
 slug: rencontre-avec-sbastien-bourdais
 ---
 

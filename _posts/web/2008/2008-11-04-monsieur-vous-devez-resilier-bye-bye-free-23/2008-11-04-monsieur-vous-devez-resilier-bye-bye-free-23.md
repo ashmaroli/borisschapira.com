@@ -7,7 +7,6 @@ tags:
     - 'Me, myself and I'
 date: '2008-11-04'
 type: post
-locale: fr
 slug: monsieur-vous-devez-resilier-bye-bye-free-23
 ---
 

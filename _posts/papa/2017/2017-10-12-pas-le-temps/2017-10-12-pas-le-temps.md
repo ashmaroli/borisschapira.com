@@ -2,7 +2,6 @@
 title: 'Pas le temps'
 date: '2017-10-12'
 type: post
-locale: fr
 slug: pas-le-temps
 ---
 

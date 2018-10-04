@@ -6,7 +6,6 @@ tags:
     - Microblogging
 date: '2007-11-17'
 type: post
-locale: fr
 slug: twitter-or-not-twitter-that-is-the-blogger-question
 ---
 

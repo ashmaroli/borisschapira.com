@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
 date: '2013-07-02'
 type: post
-locale: fr
 slug: f12-de-ie11-du-nouveau-pour-les-developpeurs
 ---
 

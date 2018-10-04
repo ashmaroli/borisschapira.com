@@ -6,7 +6,6 @@ tags:
     - Chaine
 date: '2008-08-22'
 type: post
-locale: fr
 slug: a-la-rentree
 ---
 

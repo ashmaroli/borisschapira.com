@@ -2,7 +2,6 @@
 title: 'Devant le (premier ?) débat du (premier ?) tour'
 date: '2017-03-20'
 type: post
-locale: fr
 slug: debats-premier-tour
 ---
 

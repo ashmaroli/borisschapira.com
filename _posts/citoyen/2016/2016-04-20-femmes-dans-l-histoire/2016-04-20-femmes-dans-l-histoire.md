@@ -6,7 +6,6 @@ tags:
     - Égalité
 date: '2016-04-20'
 type: post
-locale: fr
 slug: femmes-dans-l-histoire
 ---
 

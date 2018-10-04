@@ -2,7 +2,6 @@
 title: 'Petit dragueur'
 date: '2016-04-30'
 type: post
-locale: fr
 slug: petit-dragueur
 ---
 

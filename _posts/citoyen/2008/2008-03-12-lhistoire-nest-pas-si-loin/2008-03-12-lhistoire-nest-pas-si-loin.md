@@ -4,7 +4,6 @@ tags:
     - Insolite
 date: '2008-03-12'
 type: post
-locale: fr
 slug: lhistoire-nest-pas-si-loin
 ---
 

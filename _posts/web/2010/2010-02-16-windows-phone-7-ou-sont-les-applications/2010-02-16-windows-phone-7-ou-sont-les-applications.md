@@ -6,7 +6,6 @@ series:
     - 'Windows Phone'
 date: '2010-02-16'
 type: post
-locale: fr
 slug: windows-phone-7-ou-sont-les-applications
 ---
 

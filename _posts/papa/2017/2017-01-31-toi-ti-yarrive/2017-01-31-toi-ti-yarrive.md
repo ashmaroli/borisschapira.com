@@ -2,7 +2,6 @@
 title: 'Toi ti yarrive'
 date: '2017-01-31'
 type: post
-locale: fr
 slug: toi-ti-yarrive
 ---
 

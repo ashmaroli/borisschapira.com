@@ -2,7 +2,6 @@
 title: 'Moi tarzan, toi Microsoftee'
 date: '2007-07-10'
 type: post
-locale: fr
 slug: moi-tarzan-toi-microsoftee
 ---
 

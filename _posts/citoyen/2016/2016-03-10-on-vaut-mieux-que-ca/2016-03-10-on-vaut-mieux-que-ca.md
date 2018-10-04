@@ -4,7 +4,6 @@ tags:
     - Emploi
 date: '2016-03-10'
 type: post
-locale: fr
 slug: on-vaut-mieux-que-ca
 ---
 

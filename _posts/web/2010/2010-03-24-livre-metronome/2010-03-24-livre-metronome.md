@@ -4,7 +4,6 @@ tags:
     - Histoire
 date: '2010-03-24'
 type: post
-locale: fr
 slug: livre-metronome
 ---
 

@@ -4,7 +4,6 @@ tags:
     - 'État d''urgence'
 date: '2016-02-08'
 type: post
-locale: fr
 slug: l-espace-entre-les-barreaux
 ---
 

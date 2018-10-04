@@ -2,7 +2,6 @@
 title: 'Indépendance, le best-of'
 date: '2017-02-05'
 type: post
-locale: fr
 slug: independance-best-of
 ---
 

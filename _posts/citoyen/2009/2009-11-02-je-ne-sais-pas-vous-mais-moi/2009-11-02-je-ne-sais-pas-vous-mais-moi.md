@@ -7,7 +7,6 @@ tags:
     - Télévision
 date: '2009-11-02'
 type: post
-locale: fr
 slug: je-ne-sais-pas-vous-mais-moi
 ---
 

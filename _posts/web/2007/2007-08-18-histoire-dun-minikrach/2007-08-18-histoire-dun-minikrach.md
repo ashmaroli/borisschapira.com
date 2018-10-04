@@ -6,7 +6,6 @@ tags:
     - Subprime
 date: '2007-08-18'
 type: post
-locale: fr
 slug: histoire-dun-minikrach
 ---
 

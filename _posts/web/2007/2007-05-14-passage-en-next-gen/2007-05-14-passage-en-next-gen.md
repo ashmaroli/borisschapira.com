@@ -5,7 +5,6 @@ tags:
     - XBox360
 date: '2007-05-14'
 type: post
-locale: fr
 slug: passage-en-next-gen
 ---
 

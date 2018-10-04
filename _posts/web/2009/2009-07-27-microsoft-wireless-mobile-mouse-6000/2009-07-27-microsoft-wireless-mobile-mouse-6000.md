@@ -5,7 +5,6 @@ tags:
     - Test
 date: '2009-07-27'
 type: post
-locale: fr
 slug: microsoft-wireless-mobile-mouse-6000
 ---
 

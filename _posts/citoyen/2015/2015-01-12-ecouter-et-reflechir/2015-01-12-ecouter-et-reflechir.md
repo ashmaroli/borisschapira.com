@@ -6,7 +6,6 @@ series:
     - 'Charlie Hebdo'
 date: '2015-01-12'
 type: post
-locale: fr
 loadTwitterWjs: true
 slug: ecouter-et-reflechir
 ---

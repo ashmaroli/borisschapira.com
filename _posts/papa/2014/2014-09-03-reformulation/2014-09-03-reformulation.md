@@ -2,7 +2,6 @@
 title: Reformulation
 date: '2014-09-03'
 type: post
-locale: fr
 slug: reformulation
 ---
 

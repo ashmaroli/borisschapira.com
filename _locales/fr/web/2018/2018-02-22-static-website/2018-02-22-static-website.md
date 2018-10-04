@@ -7,7 +7,6 @@ type: post
 tags:
     - 'Performance Web'
     - JAMStack
-locale: fr
 loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 slug: site-statique-performance-web

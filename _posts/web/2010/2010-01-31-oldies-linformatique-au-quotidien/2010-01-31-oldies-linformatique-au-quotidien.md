@@ -4,7 +4,6 @@ tags:
     - Histoire
 date: '2010-01-31'
 type: post
-locale: fr
 slug: oldies-linformatique-au-quotidien
 ---
 

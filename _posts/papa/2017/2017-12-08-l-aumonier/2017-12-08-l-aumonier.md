@@ -2,7 +2,6 @@
 title: 'L''aumonier'
 date: '2017-12-08'
 type: post
-locale: fr
 slug: l-aumonier
 ---
 

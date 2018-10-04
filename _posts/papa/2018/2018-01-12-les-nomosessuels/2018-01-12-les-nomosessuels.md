@@ -2,7 +2,6 @@
 title: 'Les nomosessuels'
 date: '2018-01-12'
 type: post
-locale: fr
 slug: les-nomosessuels
 ---
 

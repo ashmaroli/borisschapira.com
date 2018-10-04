@@ -5,7 +5,6 @@ tags:
     - 'Silent Fall (ex Winterland)'
 date: '2007-06-18'
 type: post
-locale: fr
 slug: winterland-a-la-cigale-dimanche-dernier
 ---
 

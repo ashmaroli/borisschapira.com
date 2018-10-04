@@ -4,7 +4,6 @@ tags:
     - Sexy
 date: '2007-11-02'
 type: post
-locale: fr
 slug: the-worlds-best-bottom-sloggi
 ---
 

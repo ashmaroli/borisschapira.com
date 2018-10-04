@@ -4,7 +4,6 @@ tags:
     - Outils
 date: '2006-08-30'
 type: post
-locale: fr
 slug: petits-utilitaires-du-quotidien-sous-xp
 ---
 

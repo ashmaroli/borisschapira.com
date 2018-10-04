@@ -4,7 +4,6 @@ tags:
     - 'open source'
 date: '2016-03-22'
 type: post
-locale: fr
 slug: comme-un-seul-homme
 ---
 

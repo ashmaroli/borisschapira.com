@@ -5,7 +5,6 @@ tags:
     - 'Billet d''humeur'
 date: '2008-05-31'
 type: post
-locale: fr
 slug: le-vilain-mechant-investisseur-et-le-trader-fou
 ---
 

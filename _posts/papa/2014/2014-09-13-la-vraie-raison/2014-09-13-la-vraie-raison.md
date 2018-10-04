@@ -2,7 +2,6 @@
 title: 'La VRAIE raison'
 date: '2014-09-13'
 type: post
-locale: fr
 slug: la-vraie-raison
 ---
 

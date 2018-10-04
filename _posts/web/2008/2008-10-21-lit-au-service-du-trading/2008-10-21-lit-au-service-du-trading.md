@@ -7,7 +7,6 @@ tags:
     - Nexeo
 date: '2008-10-21'
 type: post
-locale: fr
 slug: lit-au-service-du-trading
 ---
 

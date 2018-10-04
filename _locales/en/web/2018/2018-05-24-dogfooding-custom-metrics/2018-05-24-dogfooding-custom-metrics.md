@@ -7,7 +7,6 @@ type: post
 tags:
     - 'Performance Web'
     - Metrics
-locale: en
 cloudinary_logo: dareboost-logo
 slug: dogfooding-dareboost-custom-timings
 ---

@@ -6,7 +6,6 @@ tags:
     - Religion
 date: '2009-11-23'
 type: post
-locale: fr
 slug: communautar-r-us
 ---
 

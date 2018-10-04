@@ -6,7 +6,6 @@ tags:
     - Économie
 date: '2009-01-05'
 type: post
-locale: fr
 slug: dette-publique
 ---
 

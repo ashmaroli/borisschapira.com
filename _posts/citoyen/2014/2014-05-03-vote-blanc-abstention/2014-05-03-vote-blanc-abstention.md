@@ -2,7 +2,6 @@
 title: 'Vote blanc, abstention'
 date: '2014-05-03'
 type: post
-locale: fr
 slug: vote-blanc-abstention
 ---
 

@@ -6,7 +6,6 @@ tags:
     - Nexeo
 date: '2008-05-26'
 type: post
-locale: fr
 slug: une-grosse-journee-de-commando
 ---
 

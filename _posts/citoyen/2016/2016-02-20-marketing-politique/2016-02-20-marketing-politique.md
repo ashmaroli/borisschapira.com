@@ -7,7 +7,6 @@ loadTwitterWjs: true
 loadTwitter: true
 date: '2016-02-20'
 type: post
-locale: fr
 slug: marketing-politique
 ---
 

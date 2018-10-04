@@ -2,7 +2,6 @@
 title: 'Faisons marcher les réseaux'
 date: '2013-10-01'
 type: post
-locale: fr
 slug: faisons-marcher-les-reseaux
 ---
 

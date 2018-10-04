@@ -2,7 +2,6 @@
 title: 'L''orage et la mort'
 date: '2015-09-16'
 type: post
-locale: fr
 slug: l-orage-et-la-mort
 ---
 

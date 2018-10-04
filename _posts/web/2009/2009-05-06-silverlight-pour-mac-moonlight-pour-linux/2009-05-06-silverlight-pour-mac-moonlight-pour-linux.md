@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-05-06'
 type: post
-locale: fr
 slug: silverlight-pour-mac-moonlight-pour-linux
 ---
 

@@ -6,7 +6,6 @@ tags:
 series: Diviser
 date: '2016-02-15'
 type: post
-locale: fr
 slug: division-sur-catalogue
 ---
 

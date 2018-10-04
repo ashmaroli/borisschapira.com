@@ -4,7 +4,6 @@ tags:
     - Conférences
 date: '2009-02-11'
 type: post
-locale: fr
 slug: techdays-les-nouveautes-de-la-pleniere-2
 ---
 

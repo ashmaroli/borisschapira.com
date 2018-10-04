@@ -6,7 +6,6 @@ tags:
     - Microsoft
 date: '2007-09-21'
 type: post
-locale: fr
 slug: rentre-du-hardware-chez-microsoft
 ---
 

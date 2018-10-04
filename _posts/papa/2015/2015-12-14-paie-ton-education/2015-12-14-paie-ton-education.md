@@ -2,7 +2,6 @@
 title: 'Paie ton éducation'
 date: '2015-12-14'
 type: post
-locale: fr
 slug: paie-ton-education
 ---
 

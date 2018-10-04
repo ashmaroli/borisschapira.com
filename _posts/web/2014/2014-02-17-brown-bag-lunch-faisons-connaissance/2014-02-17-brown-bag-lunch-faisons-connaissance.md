@@ -5,7 +5,6 @@ tags:
     - Conférences
 date: '2014-02-17'
 type: post
-locale: fr
 slug: brown-bag-lunch-faisons-connaissance
 ---
 

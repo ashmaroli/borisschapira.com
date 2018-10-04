@@ -3,7 +3,6 @@ title: 'Madame Irma'
 main_image: /assets/images/papa/2016-02-19/irma.jpg
 date: '2016-02-19'
 type: post
-locale: fr
 slug: madame-irma-time
 ---
 

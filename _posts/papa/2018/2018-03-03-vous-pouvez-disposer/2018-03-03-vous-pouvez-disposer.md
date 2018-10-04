@@ -2,7 +2,6 @@
 title: 'Vous pouvez disposer'
 date: '2018-03-03'
 type: post
-locale: fr
 slug: vous-pouvez-disposer
 ---
 

@@ -2,7 +2,6 @@
 title: Résolutions
 date: '2016-11-14'
 type: post
-locale: fr
 slug: resolutions
 ---
 

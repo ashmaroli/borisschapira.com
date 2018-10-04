@@ -6,7 +6,6 @@ tags:
     - Économie
 date: '2008-10-23'
 type: post
-locale: fr
 slug: coup-de-gueule-et-petite-explication-economique
 ---
 

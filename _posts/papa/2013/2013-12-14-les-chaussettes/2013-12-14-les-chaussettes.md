@@ -2,7 +2,6 @@
 title: 'Les chaussettes'
 date: '2013-12-14'
 type: post
-locale: fr
 slug: les-chaussettes
 ---
 

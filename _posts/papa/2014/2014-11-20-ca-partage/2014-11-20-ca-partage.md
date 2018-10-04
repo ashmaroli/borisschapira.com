@@ -2,7 +2,6 @@
 title: 'Ça, "partage".'
 date: '2014-11-20'
 type: post
-locale: fr
 slug: ca-partage
 ---
 

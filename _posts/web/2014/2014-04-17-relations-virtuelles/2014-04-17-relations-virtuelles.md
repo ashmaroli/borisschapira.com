@@ -4,7 +4,6 @@ tags:
     - 'Me, myself and I'
 date: '2014-04-17'
 type: post
-locale: fr
 slug: relations-virtuelles
 ---
 

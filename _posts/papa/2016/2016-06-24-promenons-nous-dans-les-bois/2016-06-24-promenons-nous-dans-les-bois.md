@@ -2,7 +2,6 @@
 title: 'Promenons-nous dans les bois'
 date: '2016-06-24'
 type: post
-locale: fr
 slug: promenons-nous-dans-les-bois
 ---
 

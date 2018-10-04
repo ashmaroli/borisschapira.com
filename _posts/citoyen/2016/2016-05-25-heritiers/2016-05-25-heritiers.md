@@ -4,7 +4,6 @@ tags:
     - Égalité
 date: '2016-05-25'
 type: post
-locale: fr
 slug: heritiers
 ---
 

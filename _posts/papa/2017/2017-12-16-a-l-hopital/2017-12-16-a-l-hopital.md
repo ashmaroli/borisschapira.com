@@ -2,7 +2,6 @@
 title: 'À l''hôpital'
 date: '2017-12-16'
 type: post
-locale: fr
 slug: a-l-hopital
 ---
 

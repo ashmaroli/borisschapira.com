@@ -5,7 +5,6 @@ tags:
     - Crise
 date: '2009-01-27'
 type: post
-locale: fr
 slug: la-mort-de-lactionnaire
 ---
 

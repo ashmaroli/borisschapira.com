@@ -2,7 +2,6 @@
 title: 'En lasagne'
 date: '2017-09-25'
 type: post
-locale: fr
 slug: en-lasagne
 ---
 

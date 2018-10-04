@@ -4,7 +4,6 @@ tags:
     - Éducation
 date: '2016-11-25'
 type: post
-locale: fr
 loadTwitterWjs: true
 slug: eduquons-nos-garcons
 ---

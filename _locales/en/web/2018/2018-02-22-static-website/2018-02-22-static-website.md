@@ -7,7 +7,6 @@ type: post
 tags:
     - 'Performance Web'
     - JAMStack
-locale: en
 cloudinary_logo: dareboost-logo
 slug: static-website-web-performance
 ---

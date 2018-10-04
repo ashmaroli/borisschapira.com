@@ -2,7 +2,6 @@
 title: 'Burka or not burka'
 date: '2009-06-19'
 type: post
-locale: fr
 slug: burka-or-not-burka
 ---
 

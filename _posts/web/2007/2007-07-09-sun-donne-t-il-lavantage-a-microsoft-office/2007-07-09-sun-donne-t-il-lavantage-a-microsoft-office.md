@@ -5,7 +5,6 @@ tags:
     - 'Microsoft Office'
 date: '2007-07-09'
 type: post
-locale: fr
 slug: sun-donne-t-il-lavantage-a-microsoft-office
 ---
 

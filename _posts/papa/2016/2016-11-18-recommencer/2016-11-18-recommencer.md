@@ -2,7 +2,6 @@
 title: Recommencer
 date: '2016-11-18'
 type: post
-locale: fr
 slug: recommencer
 ---
 

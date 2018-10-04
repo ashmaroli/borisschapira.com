@@ -6,7 +6,6 @@ tags:
     - 'Parlement Européen'
 date: '2008-12-05'
 type: post
-locale: fr
 slug: les-europeens-sont-nuls-en-finance
 ---
 

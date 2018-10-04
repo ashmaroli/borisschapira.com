@@ -5,7 +5,6 @@ categories:
     - web
 date: '2009-01-16'
 type: post
-locale: fr
 slug: la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle
 ---
 

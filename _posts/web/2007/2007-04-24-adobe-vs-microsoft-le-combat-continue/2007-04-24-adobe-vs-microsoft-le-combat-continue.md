@@ -5,7 +5,6 @@ tags:
     - Interopérabilité
 date: '2007-04-24'
 type: post
-locale: fr
 slug: adobe-vs-microsoft-le-combat-continue
 ---
 

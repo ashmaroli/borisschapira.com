@@ -4,7 +4,6 @@ tags:
     - En3Mots
 date: '2007-06-12'
 type: post
-locale: fr
 slug: en3mots-fait-peau-neuve
 ---
 

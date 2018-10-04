@@ -4,7 +4,6 @@ date: '2016-12-22'
 type: post
 tags:
     - nowwwel
-locale: fr
 slug: le-web-au-futur
 ---
 

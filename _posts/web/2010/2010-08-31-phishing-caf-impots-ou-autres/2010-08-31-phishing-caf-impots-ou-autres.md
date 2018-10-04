@@ -2,7 +2,6 @@
 title: 'Phishing CAF, Impôts ou autres…'
 date: '2010-08-31'
 type: post
-locale: fr
 loadTwitterWjs: true
 slug: phishing-caf-impots-ou-autres
 ---

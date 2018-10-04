@@ -5,7 +5,6 @@ tags:
     - 'Me, myself and I'
 date: '2008-07-10'
 type: post
-locale: fr
 slug: confession
 ---
 

@@ -5,7 +5,6 @@ tags:
     - Projets
 date: '2010-05-03'
 type: post
-locale: fr
 slug: html5-barre-laterale
 ---
 

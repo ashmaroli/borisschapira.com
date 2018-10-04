@@ -7,7 +7,6 @@ canonical: 'https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidenta
 type: post
 tags:
     - ux
-locale: fr
 slug: ou-est-le-wechat-occidental
 ---
 

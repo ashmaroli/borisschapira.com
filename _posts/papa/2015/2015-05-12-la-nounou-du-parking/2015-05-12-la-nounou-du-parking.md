@@ -2,7 +2,6 @@
 title: 'La Nounou du parking'
 date: '2015-05-12'
 type: post
-locale: fr
 slug: la-nounou-du-parking
 ---
 

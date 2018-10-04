@@ -2,7 +2,6 @@
 title: 'Discussion normale...'
 date: '2015-04-03'
 type: post
-locale: fr
 slug: discussion-normale
 ---
 

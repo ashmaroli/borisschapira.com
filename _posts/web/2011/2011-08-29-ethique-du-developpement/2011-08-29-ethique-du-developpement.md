@@ -4,7 +4,6 @@ tags:
     - Management
 date: '2011-08-29'
 type: post
-locale: fr
 slug: ethique-du-developpement
 ---
 

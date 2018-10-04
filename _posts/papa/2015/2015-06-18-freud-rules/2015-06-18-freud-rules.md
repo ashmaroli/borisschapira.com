@@ -2,7 +2,6 @@
 title: 'Freud rules'
 date: '2015-06-18'
 type: post
-locale: fr
 slug: freud-rules
 ---
 

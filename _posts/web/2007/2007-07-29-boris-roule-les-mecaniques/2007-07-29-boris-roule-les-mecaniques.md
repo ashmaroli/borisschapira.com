@@ -6,7 +6,6 @@ tags:
     - XBox360
 date: '2007-07-29'
 type: post
-locale: fr
 slug: boris-roule-les-mecaniques
 ---
 

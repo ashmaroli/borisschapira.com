@@ -2,7 +2,6 @@
 title: 'Antilles «&#160;françaises&#160;» ?'
 date: '2009-02-18'
 type: post
-locale: fr
 slug: antilles-francaises
 ---
 

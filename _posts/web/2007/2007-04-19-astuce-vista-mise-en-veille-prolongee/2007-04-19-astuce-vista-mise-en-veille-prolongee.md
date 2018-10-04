@@ -5,7 +5,6 @@ tags:
     - 'Windows Vista'
 date: '2007-04-19'
 type: post
-locale: fr
 slug: astuce-vista-mise-en-veille-prolongee
 ---
 

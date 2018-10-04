@@ -5,7 +5,6 @@ tags:
     - Grève
 date: '2007-11-14'
 type: post
-locale: fr
 slug: billet-militant
 ---
 

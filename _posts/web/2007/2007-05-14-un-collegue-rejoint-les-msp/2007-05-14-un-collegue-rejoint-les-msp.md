@@ -4,7 +4,6 @@ tags:
     - MSP
 date: '2007-05-14'
 type: post
-locale: fr
 slug: un-collegue-rejoint-les-msp
 ---
 

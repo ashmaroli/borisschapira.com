@@ -2,7 +2,6 @@
 title: 'Quand on dit des bêtises'
 date: '2015-01-22'
 type: post
-locale: fr
 slug: quand-on-dit-des-betises
 ---
 

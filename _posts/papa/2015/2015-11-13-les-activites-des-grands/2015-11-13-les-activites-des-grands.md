@@ -2,7 +2,6 @@
 title: 'Les activités des grands'
 date: '2015-11-13'
 type: post
-locale: fr
 slug: les-activites-des-grands
 ---
 

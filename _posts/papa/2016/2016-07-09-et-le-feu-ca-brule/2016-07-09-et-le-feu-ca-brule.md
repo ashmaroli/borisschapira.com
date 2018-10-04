@@ -2,7 +2,6 @@
 title: 'Et le feu ça brule'
 date: '2016-07-09'
 type: post
-locale: fr
 slug: et-le-feu-ca-brule
 ---
 

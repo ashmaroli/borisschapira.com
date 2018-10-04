@@ -2,7 +2,6 @@
 title: 'Agenda de ministre'
 date: '2014-06-18'
 type: post
-locale: fr
 slug: agenda-de-ministre
 ---
 

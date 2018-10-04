@@ -4,7 +4,6 @@ tags:
     - Back-End
 date: '2011-09-22'
 type: post
-locale: fr
 slug: signalr-une-nouvelle-brique-open-source-pour-le-temps-reel-en-asp-net
 ---
 

@@ -5,7 +5,6 @@ tags:
     - Google
 date: '2007-10-09'
 type: post
-locale: fr
 slug: que-vaut-vraiment-laction-google
 ---
 

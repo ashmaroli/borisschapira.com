@@ -5,7 +5,6 @@ tags:
     - Deezer
 date: '2007-08-22'
 type: post
-locale: fr
 slug: deezer-saccorde-avec-la-sacem
 ---
 

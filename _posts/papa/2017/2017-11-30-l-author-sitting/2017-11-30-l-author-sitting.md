@@ -2,7 +2,6 @@
 title: 'L''author-sitting'
 date: '2017-11-30'
 type: post
-locale: fr
 slug: l-author-sitting
 ---
 

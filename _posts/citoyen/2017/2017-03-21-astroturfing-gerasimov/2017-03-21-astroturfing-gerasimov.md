@@ -2,7 +2,6 @@
 title: 'Anesthésier les consciences'
 date: '2017-03-21'
 type: post
-locale: fr
 slug: astroturfing-gerasimov
 ---
 

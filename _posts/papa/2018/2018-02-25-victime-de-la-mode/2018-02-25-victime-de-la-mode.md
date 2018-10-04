@@ -2,7 +2,6 @@
 title: 'Victime de la mode'
 date: '2018-02-25'
 type: post
-locale: fr
 slug: victime-de-la-mode
 ---
 

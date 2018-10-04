@@ -5,7 +5,6 @@ tags:
     - Nameless
 date: '2007-09-17'
 type: post
-locale: fr
 slug: coup-de-coeur-musical-nameless
 ---
 

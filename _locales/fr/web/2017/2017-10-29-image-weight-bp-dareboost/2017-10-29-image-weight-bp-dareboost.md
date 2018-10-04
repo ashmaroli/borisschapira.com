@@ -8,7 +8,6 @@ type: post
 tags:
     - 'Performance Web'
     - Images
-locale: fr
 cloudinary_logo: dareboost-logo
 slug: optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd
 ---

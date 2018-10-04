@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2013/09/25/la-performance-web-sur-mobile-avant-tout/'
 date: '2013-09-25'
 type: post
-locale: fr
 slug: la-performance-web-sur-mobile-avant-tout
 ---
 

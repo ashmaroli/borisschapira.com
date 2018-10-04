@@ -2,7 +2,6 @@
 title: 'Je les vois pas !'
 date: '2016-09-24'
 type: post
-locale: fr
 slug: je-les-vois-pas
 ---
 

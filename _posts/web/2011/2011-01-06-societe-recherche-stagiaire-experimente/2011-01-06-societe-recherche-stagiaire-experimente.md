@@ -4,7 +4,6 @@ tags:
     - Emploi
 date: '2011-01-06'
 type: post
-locale: fr
 slug: societe-recherche-stagiaire-experimente
 ---
 

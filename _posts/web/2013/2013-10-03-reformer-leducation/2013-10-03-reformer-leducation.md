@@ -4,7 +4,6 @@ tags:
     - Education
 date: '2013-10-03'
 type: post
-locale: fr
 slug: reformer-leducation
 ---
 

@@ -5,7 +5,6 @@ tags:
     - 'Windows Vista'
 date: '2007-11-04'
 type: post
-locale: fr
 slug: cassons-le-cou-aux-rumeurs-vista-ne-mange-pas-la-mmoire
 ---
 

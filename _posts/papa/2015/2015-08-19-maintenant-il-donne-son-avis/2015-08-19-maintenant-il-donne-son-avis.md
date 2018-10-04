@@ -2,7 +2,6 @@
 title: 'Maintenant, il donne son avis...'
 date: '2015-08-19'
 type: post
-locale: fr
 slug: maintenant-il-donne-son-avis
 ---
 

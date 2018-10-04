@@ -2,7 +2,6 @@
 title: '«&#160;I am Legend&#160;» : c''est vous qui voyez'
 date: '2007-12-23'
 type: post
-locale: fr
 slug: i-am-a-legend-cest-vous-qui-voyez
 ---
 

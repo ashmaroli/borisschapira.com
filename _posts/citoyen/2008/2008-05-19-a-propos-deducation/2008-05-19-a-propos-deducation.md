@@ -7,7 +7,6 @@ tags:
     - Grève
 date: '2008-05-19'
 type: post
-locale: fr
 slug: a-propos-deducation
 ---
 

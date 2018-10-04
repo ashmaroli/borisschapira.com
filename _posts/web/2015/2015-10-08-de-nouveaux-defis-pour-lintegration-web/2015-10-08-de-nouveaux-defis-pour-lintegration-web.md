@@ -5,7 +5,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
 date: '2015-10-08'
 type: post
-locale: fr
 slug: de-nouveaux-defis-pour-lintegration-web
 ---
 

@@ -5,7 +5,6 @@ tags:
     - Citations
 date: '2016-02-06'
 type: post
-locale: fr
 slug: citations
 ---
 

@@ -4,7 +4,6 @@ tags:
     - Littérature
 date: '2007-10-10'
 type: post
-locale: fr
 slug: laffaire-gidon-de-russel-andrews
 ---
 

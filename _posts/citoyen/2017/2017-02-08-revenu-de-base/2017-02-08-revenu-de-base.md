@@ -2,7 +2,6 @@
 title: 'Revenu de base'
 date: '2017-02-08'
 type: post
-locale: fr
 slug: revenu-de-base
 ---
 

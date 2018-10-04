@@ -2,7 +2,6 @@
 title: 'Mon travail'
 date: '2015-11-24'
 type: post
-locale: fr
 slug: mon-travail
 ---
 

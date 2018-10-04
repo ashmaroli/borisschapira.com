@@ -2,7 +2,6 @@
 title: 'Tellement à apprendre'
 date: '2017-03-24'
 type: post
-locale: fr
 slug: tellement-a-apprendre
 ---
 

@@ -2,7 +2,6 @@
 title: 'La tarte-melette'
 date: '2017-06-16'
 type: post
-locale: fr
 slug: la-tarte-melette
 ---
 

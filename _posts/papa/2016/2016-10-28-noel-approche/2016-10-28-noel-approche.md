@@ -2,7 +2,6 @@
 title: 'Noël approche'
 date: '2016-10-28'
 type: post
-locale: fr
 slug: noel-approche
 ---
 

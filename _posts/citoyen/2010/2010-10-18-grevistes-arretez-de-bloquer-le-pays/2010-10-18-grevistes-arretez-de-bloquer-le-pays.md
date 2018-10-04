@@ -3,7 +3,6 @@ title: 'Grévistes, arrêtez de bloquer le pays…'
 tags: null
 date: '2010-10-18'
 type: post
-locale: fr
 slug: grevistes-arretez-de-bloquer-le-pays
 ---
 

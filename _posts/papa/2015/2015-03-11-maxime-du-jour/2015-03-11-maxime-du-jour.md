@@ -2,7 +2,6 @@
 title: 'Maxime du (dernier) jour'
 date: '2015-03-11'
 type: post
-locale: fr
 slug: maxime-du-jour
 ---
 

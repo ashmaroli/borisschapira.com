@@ -5,7 +5,6 @@ tags:
     - Accessibilité
 date: '2014-11-04'
 type: post
-locale: fr
 slug: attitude-dhomme-blanc
 ---
 

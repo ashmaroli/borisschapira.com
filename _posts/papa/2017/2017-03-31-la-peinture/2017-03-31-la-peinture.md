@@ -2,7 +2,6 @@
 title: 'La peinture'
 date: '2017-03-31'
 type: post
-locale: fr
 slug: la-peinture
 ---
 

@@ -4,7 +4,6 @@ tags:
     - 'Imagine Cup'
 date: '2007-06-25'
 type: post
-locale: fr
 slug: limagine-cup-soffre-une-soiree-virtuelle
 ---
 

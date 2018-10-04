@@ -2,7 +2,6 @@
 title: 'L''année prochaine'
 date: '2016-12-25'
 type: post
-locale: fr
 slug: l-annee-prochaine
 ---
 

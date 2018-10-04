@@ -2,7 +2,6 @@
 title: 'Un plat pour Halloween'
 date: '2016-12-08'
 type: post
-locale: fr
 slug: un-plat-pour-halloween
 ---
 

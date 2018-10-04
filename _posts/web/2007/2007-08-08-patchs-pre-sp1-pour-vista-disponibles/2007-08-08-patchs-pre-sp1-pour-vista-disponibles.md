@@ -6,7 +6,6 @@ tags:
     - 'Windows Vista'
 date: '2007-08-08'
 type: post
-locale: fr
 slug: patchs-pre-sp1-pour-vista-disponibles
 ---
 

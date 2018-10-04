@@ -2,7 +2,6 @@
 title: 'On écrit sur les murs'
 date: '2018-01-18'
 type: post
-locale: fr
 slug: on-ecrit-sur-les-murs
 ---
 

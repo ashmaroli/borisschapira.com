@@ -2,7 +2,6 @@
 title: 'Les bonnes proportions'
 date: '2015-06-05'
 type: post
-locale: fr
 slug: les-bonnes-proportions
 ---
 

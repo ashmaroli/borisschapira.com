@@ -4,7 +4,6 @@ tags:
     - .NET
 date: '2007-05-07'
 type: post
-locale: fr
 slug: decouvrez-et-formez-vous-avec-le-coach-c
 ---
 

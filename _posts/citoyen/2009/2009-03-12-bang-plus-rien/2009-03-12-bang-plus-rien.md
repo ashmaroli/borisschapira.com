@@ -5,7 +5,6 @@ tags:
 series: Hadopi
 date: '2009-03-12'
 type: post
-locale: fr
 slug: bang-plus-rien
 ---
 

@@ -4,7 +4,6 @@ tags:
     - Égalité
 date: '2010-08-02'
 type: post
-locale: fr
 slug: egalite-et-liberte-mises-a-mal
 ---
 

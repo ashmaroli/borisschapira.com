@@ -2,7 +2,6 @@
 title: 'Encore un rendez-vous à la crèche'
 date: '2012-11-26'
 type: post
-locale: fr
 slug: encore-un-rendez-vous-a-la-creche
 ---
 

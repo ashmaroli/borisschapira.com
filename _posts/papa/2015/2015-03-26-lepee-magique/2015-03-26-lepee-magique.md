@@ -2,7 +2,6 @@
 title: 'L''épée magique'
 date: '2015-03-26'
 type: post
-locale: fr
 slug: lepee-magique
 ---
 

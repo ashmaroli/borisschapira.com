@@ -4,7 +4,6 @@ tags:
     - Outils
 date: '2007-03-31'
 type: post
-locale: fr
 slug: microsoft-seadragon
 ---
 

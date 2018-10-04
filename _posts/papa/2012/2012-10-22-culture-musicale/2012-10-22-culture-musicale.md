@@ -2,7 +2,6 @@
 title: 'Culture musicale'
 date: '2012-10-22'
 type: post
-locale: fr
 slug: culture-musicale
 ---
 

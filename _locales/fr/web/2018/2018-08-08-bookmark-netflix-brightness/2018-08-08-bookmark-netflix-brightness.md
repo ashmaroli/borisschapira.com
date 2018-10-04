@@ -5,7 +5,6 @@ date: '2018-08-08'
 type: post
 tags:
     - Netflix
-locale: fr
 slug: bookmark-netflix-luminosite
 ---
 

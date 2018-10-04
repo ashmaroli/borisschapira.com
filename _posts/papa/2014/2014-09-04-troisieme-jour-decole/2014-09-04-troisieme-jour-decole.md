@@ -2,7 +2,6 @@
 title: 'Troisième jour d''école'
 date: '2014-09-04'
 type: post
-locale: fr
 slug: troisieme-jour-decole
 ---
 

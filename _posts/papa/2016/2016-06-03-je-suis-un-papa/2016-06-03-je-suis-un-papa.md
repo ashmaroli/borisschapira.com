@@ -2,7 +2,6 @@
 title: 'Je suis un Papa'
 date: '2016-06-03'
 type: post
-locale: fr
 slug: je-suis-un-papa
 ---
 

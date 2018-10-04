@@ -4,7 +4,6 @@ i18n-key: no-silver-bullet
 date: '2017-02-01'
 canonical: 'https://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'
 type: post
-locale: fr
 slug: apps-vs-web-apps
 ---
 

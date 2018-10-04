@@ -2,7 +2,6 @@
 title: 'Attribut de "grand"'
 date: '2014-11-18'
 type: post
-locale: fr
 slug: attribut-de-grand
 ---
 

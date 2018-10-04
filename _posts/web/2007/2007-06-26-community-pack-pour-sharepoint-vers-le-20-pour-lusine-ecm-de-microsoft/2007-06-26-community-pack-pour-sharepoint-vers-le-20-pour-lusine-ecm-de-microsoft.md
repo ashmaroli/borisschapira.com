@@ -6,7 +6,6 @@ tags:
     - Sharepoint
 date: '2007-06-26'
 type: post
-locale: fr
 slug: community-pack-pour-sharepoint-vers-le-20-pour-lusine-ecm-de-microsoft
 ---
 

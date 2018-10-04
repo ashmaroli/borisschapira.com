@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-08-10'
 type: post
-locale: fr
 slug: une-application-net-sur-iphone
 ---
 

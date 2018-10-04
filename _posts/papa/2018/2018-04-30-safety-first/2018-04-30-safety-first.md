@@ -2,7 +2,6 @@
 title: 'Safety first'
 date: '2018-04-30'
 type: post
-locale: fr
 slug: safety-first
 ---
 

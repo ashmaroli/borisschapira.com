@@ -5,7 +5,6 @@ tags:
     - Mariage
 date: '2009-07-25'
 type: post
-locale: fr
 slug: photos-merci
 ---
 

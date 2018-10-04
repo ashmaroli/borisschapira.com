@@ -2,7 +2,6 @@
 title: 'Team Tornado'
 date: '2015-02-15'
 type: post
-locale: fr
 slug: team-tornado
 ---
 

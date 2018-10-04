@@ -2,7 +2,6 @@
 title: 'Comme nous'
 date: '2016-05-31'
 type: post
-locale: fr
 slug: comme-nous
 ---
 

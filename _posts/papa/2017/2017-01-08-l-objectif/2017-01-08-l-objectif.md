@@ -2,7 +2,6 @@
 title: 'L''objectif'
 date: '2017-01-08'
 type: post
-locale: fr
 slug: l-objectif
 ---
 

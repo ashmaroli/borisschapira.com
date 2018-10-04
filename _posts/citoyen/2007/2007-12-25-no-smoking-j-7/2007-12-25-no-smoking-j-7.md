@@ -2,7 +2,6 @@
 title: 'No smoking, J-7'
 date: '2007-12-25'
 type: post
-locale: fr
 slug: no-smoking-j-7
 ---
 

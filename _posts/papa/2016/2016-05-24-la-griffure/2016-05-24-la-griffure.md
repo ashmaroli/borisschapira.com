@@ -2,7 +2,6 @@
 title: 'La griffure'
 date: '2016-05-24'
 type: post
-locale: fr
 slug: la-griffure
 ---
 

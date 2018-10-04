@@ -2,7 +2,6 @@
 title: 'Pendant que les hommes posent'
 date: '2018-05-19'
 type: post
-locale: fr
 slug: pendant-que-les-hommes-posent
 ---
 

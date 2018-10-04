@@ -2,7 +2,6 @@
 title: 'La titrisation pour les blogueurs'
 date: '2008-12-10'
 type: post
-locale: fr
 slug: la-titrisation-pour-les-blogueurs
 ---
 

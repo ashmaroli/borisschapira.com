@@ -7,7 +7,6 @@ tags:
     - Stockage
 date: '2009-04-22'
 type: post
-locale: fr
 slug: quel-disque-choisir
 ---
 

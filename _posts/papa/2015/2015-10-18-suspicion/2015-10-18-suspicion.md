@@ -2,7 +2,6 @@
 title: Suspicion
 date: '2015-10-18'
 type: post
-locale: fr
 slug: suspicion
 ---
 

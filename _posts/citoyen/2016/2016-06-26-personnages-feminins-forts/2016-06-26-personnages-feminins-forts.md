@@ -4,7 +4,6 @@ tags:
     - Égalité
 date: '2016-06-26'
 type: post
-locale: fr
 slug: personnages-feminins-forts
 ---
 

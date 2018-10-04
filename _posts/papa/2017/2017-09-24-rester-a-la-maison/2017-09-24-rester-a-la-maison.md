@@ -2,7 +2,6 @@
 title: 'Rester à la maison'
 date: '2017-09-24'
 type: post
-locale: fr
 slug: rester-a-la-maison
 ---
 

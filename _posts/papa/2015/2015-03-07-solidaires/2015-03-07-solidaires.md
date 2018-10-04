@@ -2,7 +2,6 @@
 title: Solidaires
 date: '2015-03-07'
 type: post
-locale: fr
 slug: solidaires
 ---
 

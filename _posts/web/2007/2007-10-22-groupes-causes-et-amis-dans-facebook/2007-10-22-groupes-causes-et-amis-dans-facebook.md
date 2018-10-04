@@ -4,7 +4,6 @@ tags:
     - Facebook
 date: '2007-10-22'
 type: post
-locale: fr
 slug: groupes-causes-et-amis-dans-facebook
 ---
 

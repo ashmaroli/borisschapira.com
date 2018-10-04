@@ -8,7 +8,6 @@ type: post
 tags:
     - 'Performance Web'
     - Images
-locale: en
 cloudinary_logo: dareboost-logo
 slug: optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd
 ---

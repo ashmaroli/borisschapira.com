@@ -2,7 +2,6 @@
 title: 'Un hook de pre-commit global pour ne jamais contribuer un var_dump'
 date: '2016-11-02'
 type: post
-locale: fr
 slug: un-hook-de-pre-commit-global-pour-ne-jamais-contribuer-un-var_dump
 ---
 

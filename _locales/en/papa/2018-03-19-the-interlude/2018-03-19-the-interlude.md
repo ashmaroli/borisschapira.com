@@ -6,7 +6,6 @@ i18n-key: entracte
 categories:
     - papa
 publishDate: '2018-03-19'
-locale: en
 ---
 
 We're taking the kids to a show. There is a small interlude. We sit down with the kids to talk and have a drink.

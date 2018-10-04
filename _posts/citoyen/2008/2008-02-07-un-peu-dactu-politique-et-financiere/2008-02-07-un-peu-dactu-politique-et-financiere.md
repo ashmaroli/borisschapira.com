@@ -4,7 +4,6 @@ tags:
     - France
 date: '2008-02-07'
 type: post
-locale: fr
 slug: un-peu-dactu-politique-et-financiere
 ---
 

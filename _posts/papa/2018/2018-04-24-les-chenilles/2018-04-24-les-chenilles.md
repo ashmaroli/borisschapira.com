@@ -2,7 +2,6 @@
 title: 'Les chenilles'
 date: '2018-04-24'
 type: post
-locale: fr
 slug: les-chenilles
 ---
 

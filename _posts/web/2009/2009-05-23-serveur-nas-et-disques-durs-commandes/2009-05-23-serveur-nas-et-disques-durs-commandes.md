@@ -6,7 +6,6 @@ tags:
     - 'Ready Nas Duo'
 date: '2009-05-23'
 type: post
-locale: fr
 slug: serveur-nas-et-disques-durs-commandes
 ---
 

@@ -7,7 +7,6 @@ tags:
     - Web
 date: '2009-11-09'
 type: post
-locale: fr
 slug: chromium-lage-adulte
 ---
 

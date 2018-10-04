@@ -5,7 +5,6 @@ tags:
     - 'Windows Vista'
 date: '2007-08-29'
 type: post
-locale: fr
 slug: vista-sp1-premier-trimestre-2008
 ---
 

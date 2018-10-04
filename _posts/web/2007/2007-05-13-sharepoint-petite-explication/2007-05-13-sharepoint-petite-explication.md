@@ -6,7 +6,6 @@ tags:
     - Sharepoint
 date: '2007-05-13'
 type: post
-locale: fr
 slug: sharepoint-petite-explication
 ---
 

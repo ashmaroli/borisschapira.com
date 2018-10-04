@@ -2,7 +2,6 @@
 title: Pinocchio
 date: '2016-04-16'
 type: post
-locale: fr
 slug: pinocchio
 ---
 

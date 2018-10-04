@@ -2,7 +2,6 @@
 title: Impatience
 date: '2015-09-16'
 type: post
-locale: fr
 slug: impatience
 ---
 

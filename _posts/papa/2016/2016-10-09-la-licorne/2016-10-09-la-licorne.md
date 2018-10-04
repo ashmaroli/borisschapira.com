@@ -2,7 +2,6 @@
 title: 'La licorne'
 date: '2016-10-09'
 type: post
-locale: fr
 slug: la-licorne
 ---
 

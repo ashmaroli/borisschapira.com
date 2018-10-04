@@ -2,7 +2,6 @@
 title: Pickpocket
 date: '2017-12-11'
 type: post
-locale: fr
 slug: pickpocket
 ---
 

@@ -2,7 +2,6 @@
 title: 'Un test, c''est quoi ?'
 date: '2015-12-10'
 type: post
-locale: fr
 slug: un-test-c-est-quoi
 ---
 

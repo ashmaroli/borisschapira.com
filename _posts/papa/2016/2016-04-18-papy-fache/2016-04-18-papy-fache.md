@@ -2,7 +2,6 @@
 title: 'Papy fâché'
 date: '2016-04-18'
 type: post
-locale: fr
 slug: papy-fache
 ---
 

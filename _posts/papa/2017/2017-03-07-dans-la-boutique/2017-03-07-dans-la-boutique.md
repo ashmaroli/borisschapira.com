@@ -2,7 +2,6 @@
 title: 'Dans la boutique'
 date: '2017-03-07'
 type: post
-locale: fr
 slug: dans-la-boutique
 ---
 

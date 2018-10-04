@@ -6,7 +6,6 @@ tags:
     - Productivité
 date: '2015-08-14'
 type: post
-locale: fr
 slug: de-windows-a-mac
 ---
 

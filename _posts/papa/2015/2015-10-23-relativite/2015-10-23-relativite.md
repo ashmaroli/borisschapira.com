@@ -2,7 +2,6 @@
 title: Relativité
 date: '2015-10-23'
 type: post
-locale: fr
 slug: relativite
 ---
 

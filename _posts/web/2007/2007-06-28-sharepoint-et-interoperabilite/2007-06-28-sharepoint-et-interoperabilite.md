@@ -6,7 +6,6 @@ tags:
     - Sharepoint
 date: '2007-06-28'
 type: post
-locale: fr
 slug: sharepoint-et-interoperabilite
 ---
 

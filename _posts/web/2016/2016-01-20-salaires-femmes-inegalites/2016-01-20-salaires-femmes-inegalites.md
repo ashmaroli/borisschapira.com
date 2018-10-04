@@ -6,7 +6,6 @@ tags:
     - Égalité
 date: '2016-01-20'
 type: post
-locale: fr
 slug: salaires-femmes-inegalites
 ---
 

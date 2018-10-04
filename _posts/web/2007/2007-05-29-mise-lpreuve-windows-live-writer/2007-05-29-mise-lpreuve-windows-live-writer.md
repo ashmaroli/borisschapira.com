@@ -6,7 +6,6 @@ tags:
     - Wordpress
 date: '2007-05-29'
 type: post
-locale: fr
 slug: mise-lpreuve-windows-live-writer
 ---
 

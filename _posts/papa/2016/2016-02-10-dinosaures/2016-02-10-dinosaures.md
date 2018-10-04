@@ -2,7 +2,6 @@
 title: Dinosaures
 date: '2016-02-10'
 type: post
-locale: fr
 slug: dinosaures
 ---
 

@@ -4,7 +4,6 @@ tags:
     - Hadopi
 date: '2009-06-30'
 type: post
-locale: fr
 slug: lhistoire-dhadopi-se-repete
 ---
 

@@ -7,7 +7,6 @@ tags:
     - Nexeo
 date: '2009-11-05'
 type: post
-locale: fr
 slug: presentation-eisti-merci
 ---
 

@@ -5,7 +5,6 @@ tags:
     - Crash
 date: '2007-08-21'
 type: post
-locale: fr
 slug: champion-du-monde-de-mauvaise-foi-skype
 ---
 

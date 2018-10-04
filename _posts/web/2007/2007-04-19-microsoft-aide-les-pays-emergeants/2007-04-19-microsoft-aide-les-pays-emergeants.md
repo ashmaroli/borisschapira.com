@@ -6,7 +6,6 @@ tags:
     - 'Microsoft Office'
 date: '2007-04-19'
 type: post
-locale: fr
 slug: microsoft-aide-les-pays-emergeants
 ---
 

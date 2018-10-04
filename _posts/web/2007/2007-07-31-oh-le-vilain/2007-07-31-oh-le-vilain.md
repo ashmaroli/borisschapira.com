@@ -4,7 +4,6 @@ tags:
     - Crash
 date: '2007-07-31'
 type: post
-locale: fr
 slug: oh-le-vilain
 ---
 

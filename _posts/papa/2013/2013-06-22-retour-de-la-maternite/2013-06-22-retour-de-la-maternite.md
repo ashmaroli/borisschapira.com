@@ -2,7 +2,6 @@
 title: 'Retour de la maternité'
 date: '2013-06-22'
 type: post
-locale: fr
 slug: retour-de-la-maternite
 ---
 

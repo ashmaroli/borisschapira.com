@@ -6,7 +6,6 @@ tags:
     - police
     - armée
     - 'État d''Urgence'
-locale: fr
 slug: le-piege-de-loperation-sentinelle
 ---
 

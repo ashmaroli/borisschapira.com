@@ -5,7 +5,6 @@ tags:
     - Histoire
 date: '2014-02-06'
 type: post
-locale: fr
 slug: lavenir-long-passe
 ---
 

@@ -6,7 +6,6 @@ tags:
     - 'Windows Live Hotmail'
 date: '2007-08-27'
 type: post
-locale: fr
 slug: nouveautes-live-hotmail-de-septembre
 ---
 

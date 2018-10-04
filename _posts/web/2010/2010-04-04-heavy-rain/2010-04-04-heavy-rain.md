@@ -4,7 +4,6 @@ tags:
     - 'Jeu Video'
 date: '2010-04-04'
 type: post
-locale: fr
 slug: heavy-rain
 ---
 

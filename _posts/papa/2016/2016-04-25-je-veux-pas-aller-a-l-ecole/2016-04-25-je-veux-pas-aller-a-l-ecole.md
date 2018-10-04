@@ -2,7 +2,6 @@
 title: 'Je veux pas aller à l''école'
 date: '2016-04-25'
 type: post
-locale: fr
 slug: je-veux-pas-aller-a-l-ecole
 ---
 

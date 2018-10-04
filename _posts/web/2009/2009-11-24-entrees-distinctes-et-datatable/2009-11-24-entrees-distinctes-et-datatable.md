@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-11-24'
 type: post
-locale: fr
 slug: entrees-distinctes-et-datatable
 ---
 

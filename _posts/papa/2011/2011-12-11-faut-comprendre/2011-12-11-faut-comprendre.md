@@ -2,7 +2,6 @@
 title: 'Faut comprendre !'
 date: '2011-12-11'
 type: post
-locale: fr
 slug: faut-comprendre
 ---
 

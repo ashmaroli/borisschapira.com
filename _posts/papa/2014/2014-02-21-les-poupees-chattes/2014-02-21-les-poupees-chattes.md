@@ -2,7 +2,6 @@
 title: 'Les Poupées Chattes'
 date: '2014-02-21'
 type: post
-locale: fr
 slug: les-poupees-chattes
 ---
 

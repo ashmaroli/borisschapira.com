@@ -2,7 +2,6 @@
 title: 'En attendant le Bordeaux Geek Festival'
 date: '2016-05-15'
 type: post
-locale: fr
 slug: en-attendant-le-bgf
 ---
 

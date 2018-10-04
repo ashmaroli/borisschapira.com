@@ -5,7 +5,6 @@ tags:
 series: 'Dangers du Net'
 date: '2007-04-25'
 type: post
-locale: fr
 slug: dangers-du-net-les-logiciels-espions
 ---
 

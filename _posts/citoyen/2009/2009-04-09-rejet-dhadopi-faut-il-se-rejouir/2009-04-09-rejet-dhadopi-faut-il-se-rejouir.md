@@ -5,7 +5,6 @@ tags:
 series: Hadopi
 date: '2009-04-09'
 type: post
-locale: fr
 slug: rejet-dhadopi-faut-il-se-rejouir
 ---
 

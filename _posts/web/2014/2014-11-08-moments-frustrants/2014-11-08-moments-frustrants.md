@@ -5,7 +5,6 @@ tags:
     - Conférences
 date: '2014-11-08'
 type: post
-locale: fr
 slug: moments-frustrants
 ---
 

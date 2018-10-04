@@ -4,7 +4,6 @@ tags:
     - Égalité
 date: '2015-12-23'
 type: post
-locale: fr
 slug: quirks-mode
 ---
 

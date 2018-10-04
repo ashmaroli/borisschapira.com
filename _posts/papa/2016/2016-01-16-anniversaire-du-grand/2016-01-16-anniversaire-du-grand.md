@@ -3,7 +3,6 @@ title: 'Cinquième anniversaire du grand'
 main_image: /assets/images/papa/2016-01-16/1.gif
 date: '2016-01-16'
 type: post
-locale: fr
 slug: anniversaire-du-grand
 ---
 

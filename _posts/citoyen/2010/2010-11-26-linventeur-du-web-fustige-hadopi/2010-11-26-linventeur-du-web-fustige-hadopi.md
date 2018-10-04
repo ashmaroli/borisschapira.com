@@ -4,7 +4,6 @@ tags:
     - 'Vie privée'
 date: '2010-11-26'
 type: post
-locale: fr
 slug: linventeur-du-web-fustige-hadopi
 ---
 

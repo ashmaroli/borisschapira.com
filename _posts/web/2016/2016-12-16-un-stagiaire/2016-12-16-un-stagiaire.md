@@ -2,7 +2,6 @@
 title: 'Un stagiaire'
 date: '2016-12-16'
 type: post
-locale: fr
 slug: un-stagiaire
 ---
 

@@ -2,7 +2,6 @@
 title: Remerciements
 date: '2013-06-22'
 type: post
-locale: fr
 slug: remerciements
 ---
 

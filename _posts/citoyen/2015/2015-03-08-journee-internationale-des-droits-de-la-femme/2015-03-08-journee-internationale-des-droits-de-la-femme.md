@@ -7,7 +7,6 @@ tags:
     - Égalité
 date: '2015-03-08'
 type: post
-locale: fr
 slug: journee-internationale-des-droits-de-la-femme
 ---
 

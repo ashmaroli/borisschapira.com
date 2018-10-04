@@ -4,7 +4,6 @@ tags:
     - 'Me, myself and I'
 date: '2007-05-08'
 type: post
-locale: fr
 slug: drole-de-coincidence
 ---
 

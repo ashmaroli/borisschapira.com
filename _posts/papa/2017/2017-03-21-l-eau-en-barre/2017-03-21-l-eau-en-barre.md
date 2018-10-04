@@ -2,7 +2,6 @@
 title: 'L''eau en barre'
 date: '2017-03-21'
 type: post
-locale: fr
 slug: l-eau-en-barre
 ---
 

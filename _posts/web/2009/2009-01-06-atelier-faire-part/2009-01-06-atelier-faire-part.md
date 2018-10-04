@@ -5,7 +5,6 @@ tags:
     - Mariage
 date: '2009-01-06'
 type: post
-locale: fr
 slug: atelier-faire-part
 ---
 

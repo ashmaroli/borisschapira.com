@@ -5,7 +5,6 @@ tags:
     - Halo3
 date: '2007-08-27'
 type: post
-locale: fr
 slug: video-halo3-meteo-et-20h-pour-le-spartan
 ---
 

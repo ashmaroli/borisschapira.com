@@ -5,7 +5,6 @@ tags:
     - Front-End
 date: '2012-06-19'
 type: post
-locale: fr
 slug: 13h37-tous-dans-le-train
 ---
 

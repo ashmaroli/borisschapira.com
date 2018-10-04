@@ -5,7 +5,6 @@ tags:
     - Nexdotnet
 date: '2009-07-07'
 type: post
-locale: fr
 slug: mono-les-manchots-nont-rien-a-craindre
 ---
 

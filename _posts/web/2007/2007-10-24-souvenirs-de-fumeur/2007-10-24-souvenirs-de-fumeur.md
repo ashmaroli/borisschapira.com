@@ -5,7 +5,6 @@ tags:
     - Tabac
 date: '2007-10-24'
 type: post
-locale: fr
 slug: souvenirs-de-fumeur
 ---
 
