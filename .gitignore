@@ -1,6 +1,5 @@
 .asset-cache
 .tweet-cache
-.bundle
 /vendor/
 rsync.sh
 .jekyll-assets-cache
