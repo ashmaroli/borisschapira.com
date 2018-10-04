@@ -3,14 +3,14 @@
     <hr>
     <div style="font-style:italic">
         <p>
-            {% t Vous êtes abonné·e au flux des articles %}{% unless has_cat or has_locale %}.{% else %}&nbsp;:
+            {{ locale.you-re-subscribed }}{% unless has_cat %}.{% else %}&nbsp;:
         </p>
         <ul>
-            {% if has_cat %}<li>{% t de la catégorie&nbsp;: %} {% include category_display.html.liquid category=page.category %}{% if has_locale %}&nbsp;;{% else %}.{% endif %}</li>{% endif %}
-            {% if has_locale %}<li>{% t rédigés en %} {% include locale_display.html.liquid locale=page.locale %}.</li>{% endif %}
+            {% if has_cat %}<li>{{ locale.from-category }} {% include category_display.html.liquid category=page.category %}&nbsp;;</li>{% endif %}
+            <li>{{ locale.written-in }} {% include locale_display.html.liquid locale=page.locale %}.</li>
         </ul>
         {% if page.category != 'web' %}<p>
-            {% t Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre %} <a href="{{ "web/feed.xml" | prepend: page.base-url | prepend: site.url }}">{% t ce flux %}</a>.
+            {{ locale.only-web-related }} <a href="{{ "web/feed.xml" | prepend: page.base-url | prepend: site.url }}">{{ locale.this-feed }}</a>.
         </p>{% endif %}
     </div>{% endunless %}
     {% endunless %}

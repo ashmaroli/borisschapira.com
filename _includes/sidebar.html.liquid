@@ -13,21 +13,21 @@
 
       <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
+        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category["web"] }}</a></li>
 
-        {% if locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+        {% if page.locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ 'citoyen' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
+        <a href="{{ 'citoyen' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale..category["citizen"] }}</a>
         </li>{% endif %}
 
         <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ 'papa' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
+        <a href="{{ 'papa' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category["dad"] }}</a>
         </li>
 
         <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
         itemtype="http://schema.org/SearchResultsPage">
-        <a href="{{ 'recherche' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
+        <a href="{{ 'recherche' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ locale.search-maj }}</a>
         </li>
       </ul>
 
@@ -35,7 +35,7 @@
         <ul>
           {% if page.translation %}
             {% assign lang = page.translation.locale | slice: 0,2 %}
-            {% capture read_in %}{% t Lire en %} {% if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}{% endcapture %}
+            {% capture read_in %}{{ locale.read-in }} {% if lang == "en" %}{{ locale.english }}{% else %}{{ locale.french }}{% endif %}{% endcapture %}
             <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
           {% endif %}
         </ul>
@@ -43,8 +43,8 @@
 
       <ul class="secondary">
         <li class="sidebar-nav-item">
-          <a href="{{ page.base-url }}{% t a-propos %}/">
-            {% t À propos %}
+          <a href="{{ page.base-url }}{{ locale.about }}/">
+            {{ locale.about-maj }}
             <!-- nomicrotypo -->
             {% include img/avatar.svg %}
             <!-- endnomicrotypo -->

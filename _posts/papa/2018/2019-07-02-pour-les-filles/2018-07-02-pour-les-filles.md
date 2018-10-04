@@ -2,7 +2,6 @@
 title: Pour les filles
 date: '2018-07-02'
 type: post
-locale: fr
 ---
 
 Les phrases toutes faites, c'est bien. Mais pas toujours.

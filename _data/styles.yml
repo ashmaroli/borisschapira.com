@@ -1,8 +1,8 @@
 ---
-citoyen:
+citizen:
   css: citoyen
   color: '188C9D'
-papa:
+dad:
   css: papa
   color: '008300'
 web:

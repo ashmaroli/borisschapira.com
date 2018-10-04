@@ -1,5 +1,5 @@
 # Development configuration (comment for Production)
-limit_posts: 10
+limit_posts: 1
 host: 0.0.0.0
 port: 10443
 future: true

@@ -6,26 +6,6 @@ defaults:
       type: pages
   -
     scope:
-      path: "pages/fr"
-      type: pages
-    values:
-      base-url: "/"
-      locale: fr
-  -
-    scope:
-      path: "pages/en"
-      type: pages
-    values:
-      base-url: "/en/"
-      locale: en
-  -
-    scope:
-      path: ""
-    values:
-      locale: fr
-      base-url: "/"
-  -
-    scope:
       path: "_confs"
     values:
       layout: conf
@@ -39,46 +19,40 @@ defaults:
       hidden: false
   -
     scope:
-      path: "_posts/fr/web"
+      path: "_posts/web"
     values:
       category: web
   -
     scope:
-      path: "_posts/fr/papa"
-    values:
-      category: papa
-  -
-    scope:
-      path: "_posts/fr/citoyen"
-    values:
-      category: citoyen
-  -
-    scope:
-      path: "en"
-    values:
-      locale: "en"
-      base-url: "/en/"
-  -
-    scope:
-      locale: "en"
-      path: "_posts/en"
-    values:
-      base-url: "/en/"
-  -
-    scope:
-      path: "_posts/en/web"
+      path: "_locales/**/web"
     values:
       category: web
   -
     scope:
-      path: "_posts/en/papa"
+      path: "_posts/citoyen"
     values:
-      category: papa
+      category: citizen
+  -
+    scope:
+      path: "_locales/**/citoyen"
+    values:
+      category: citizen
+  -
+    scope:
+      path: "_posts/papa"
+    values:
+      category: dad
+  -
+    scope:
+      path: "_locales/**/papa"
+    values:
+      category: dad
   -
     scope:
       path:            "assets/**/*.pdf"
     values:
       sitemap:         false
+
 # Exclusions
 exclude:
   - ".csscomb.json"

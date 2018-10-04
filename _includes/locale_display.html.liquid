@@ -1,1 +1,1 @@
-{% if include.locale == 'en'%}{% t anglais %}{% else %}{% t français %}{% endif %}
+{% if include.locale == 'en'%}{{ locale.english }}{% else %}{{ locale.french }}{% endif %}

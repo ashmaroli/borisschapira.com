@@ -7,9 +7,9 @@
     <div id="comments">
       <h2>
         {% if site.data.comments[page.slug].size > 1 %}
-          {{ site.data.comments[page.slug] | size }} {% t commentaires %}
+          {{ site.data.comments[page.slug] | size }} {{ locale.comments }}
         {% else %}
-          {% t Commentaire %}
+          {{ locale.comments-maj }}
         {% endif %}
       </h2>
       {% if site.data.comments[page.slug].size > 0 %}
@@ -37,27 +37,27 @@
   {% unless page.comments_locked == true %}
     <!-- Start new comment form -->
     <div id="respond">
-      <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
+      <h3 class="page__section-label">{{ locale.leave-comment }} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{{ locale.cancel }}</a></small></h3>
 
       <form id="comment-form" netlify-honeypot="cb" class="page__form js-form form" method="POST" action="comment" data-netlify="true">
         <fieldset>
-          <label for="comment-form-message"><strong>{% t Commentaire %}</strong> <small></small></label>
+          <label for="comment-form-message"><strong>{{ locale.comment-maj }}</strong> <small></small></label>
           <textarea type="text" rows="6" id="comment-form-message" name="message" required spellcheck="true"></textarea>
         </fieldset>
         <fieldset>
-          <label for="comment-form-name"><strong>{% t Nom %}</strong></label>
+          <label for="comment-form-name"><strong>{{ locale.name-maj }}</strong></label>
           <input type="text" id="comment-form-name" name="name" autocomplete="name" required spellcheck="false">
         </fieldset>
         <fieldset>
-          <label for="comment-form-email"><strong>{% t Email %}</strong> <small>({% t facultatif %})</small></label>
+          <label for="comment-form-email"><strong>{{ locale.email-maj }}</strong> <small>({{ locale.optional }})</small></label>
           <input type="email" id="comment-form-email" name="email" autocomplete="email" spellcheck="false">
         </fieldset>
         <fieldset>
-          <label for="comment-form-url"><strong>{% t Site %}</strong> <small>({% t facultatif %})</small></label>
+          <label for="comment-form-url"><strong>{{ locale.site }}</strong> <small>({{ locale.optional }})</small></label>
           <input type="url" id="comment-form-url" name="url" autocomplete="url"/>
         </fieldset>
         <fieldset>
-          <label for="comment-form-cb"><strong>{% t Coordonnées de votre planête (uniquement pour les non-humains) %}</strong></label>
+          <label for="comment-form-cb"><strong>{{ locale.planet }}</strong></label>
           <input type="text" id="comment-form-cb" name="cb" autocomplete="url"/>
         </fieldset>
         <fieldset class="hidden" style="display: none;">
@@ -69,18 +69,18 @@
         </fieldset>
         <fieldset>
           <div data-netlify-recaptcha="true"></div>
-          <button type="submit" id="comment-form-submit" class="btn">{% t Poster le commentaire %}</button>
+          <button type="submit" id="comment-form-submit" class="btn">{{ locale.post-the-comment }}</button>
         </fieldset>
         <p class="info success hidden">
-          {% t Commentaire posté avec succès ! %}
+          {{ locale.comment-post-success }}
         </p>
         <p class="info fail hidden">
-          {% t Houston, on a un problème. %}
+          {{ locale.houston }}
         </p>
       </form>
     </div>
     <!-- End new comment form -->
   {% else %}
-    <p><em>{% t Les commentaires sont clos. %}</em></p>
+    <p><em>{{ locale.closed-comments }}</em></p>
   {% endunless %}
 </section>
