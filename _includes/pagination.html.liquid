@@ -6,12 +6,12 @@
     {% if paginator.previous_page == 1 %}
       {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
       <li>
-        <a href="{{ url_prefix }}" rel="prev"><span class="sr-only">{{ locale.home-maj }}</span>&lsaquo;</a>
+        <a href="{{ url_prefix }}" rel="prev"><span class="sr-only">{{ locale.home_maj }}</span>&lsaquo;</a>
       </li>
     {% else %}
       {% comment %} Sinon, c'est la page d'avant {% endcomment %}
       <li>
-        <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix }}" rel="prev"><span class="sr-only">{{ locale.previous-page }}</span>&lsaquo;</a>
+        <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix }}" rel="prev"><span class="sr-only">{{ locale.previous_page }}</span>&lsaquo;</a>
       </li>
     {% endif %}
   {% else %}
@@ -27,7 +27,7 @@
   {% else %}
     {% comment %} Sinon, afficher le lien {% endcomment %}
     <li>
-      <a href={{ url_prefix }}><span class="sr-only">{{ locale.home-maj }}</span>1</a>
+      <a href={{ url_prefix }}><span class="sr-only">{{ locale.home_maj }}</span>1</a>
     </li>
   {% endif %}
   
@@ -73,7 +73,7 @@
     </li>
   {% else %}
     <li>
-      <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == paginator.page | plus: 1 %}rel="next"{% endif %}><span class="sr-only">{{ locale.last-page }}</span>{{paginator.total_pages}}</a>
+      <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == paginator.page | plus: 1 %}rel="next"{% endif %}><span class="sr-only">{{ locale.last_page }}</span>{{paginator.total_pages}}</a>
     </li>
   {% endif %} 
   {% if paginator.next_page %} 
@@ -81,7 +81,7 @@
       <li class="disabled">&raquo;</li>
     {% else %}
     <li>
-      <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ locale.next-page }}</span>&rsaquo;</a>
+      <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ locale.next_page }}</span>&rsaquo;</a>
     </li>
     {% endif %} 
   {% else %}

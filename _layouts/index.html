@@ -8,7 +8,7 @@ layout: default
     {% assign the_url = page.url %}
 {% else %}
     {% assign the_url = site.url %}
-{% endif %}<section class="posts" aria-label="{{ locale.all-posts }}" >
+{% endif %}<section class="posts" aria-label="{{ locale.all_posts }}" >
     {% if page.displayCustomHead or page.displayCustomTitle %}
         <header class="posts-h{% unless have_cat %} hide {% endunless %}">
             {% if page.displayCustomTitle %}<h2>{{ page.title }}</h2>{% endif %}

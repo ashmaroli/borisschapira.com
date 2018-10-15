@@ -3,14 +3,14 @@
     <hr>
     <div style="font-style:italic">
         <p>
-            {{ locale.you-re-subscribed }}{% unless has_cat %}.{% else %}&nbsp;:
+            {{ locale.you_re_subscribed }}{% unless has_cat %}.{% else %}&nbsp;:
         </p>
         <ul>
-            {% if has_cat %}<li>{{ locale.from-category }} {% include category_display.html.liquid category=page.category %}&nbsp;;</li>{% endif %}
-            <li>{{ locale.written-in }} {% include locale_display.html.liquid locale=page.locale %}.</li>
+            {% if has_cat %}<li>{{ locale.from_category }} {% include category_display.html.liquid category=page.category %}&nbsp;;</li>{% endif %}
+            <li>{{ locale.written_in }} {% include locale_display.html.liquid locale=page.locale %}.</li>
         </ul>
         {% if page.category != 'web' %}<p>
-            {{ locale.only-web-related }} <a href="{{ "web/feed.xml" | prepend: page.base-url | prepend: site.url }}">{{ locale.this-feed }}</a>.
+            {{ locale.only_web_related }} <a href="{{ "web/feed.xml" | prepend: page.base-url | prepend: site.url }}">{{ locale.this_feed }}</a>.
         </p>{% endif %}
     </div>{% endunless %}
     {% endunless %}

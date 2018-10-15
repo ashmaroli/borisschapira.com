@@ -9,7 +9,7 @@
 
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting"{% if include.postPage %} id="content"{% else %} aria-labelledby="{{ post.slug }}"{% endif %}>
     <header class="p-header">
-        {% assign datetime = post.date | date_to_xmlschema %}<time class="p-date dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=post.date locale=page.locale %}{% else %}{{ post.date | localize: '%A %-d', page.locale }} <a href="{{ page.base-url }}{{ post.date | localize: '%Y/%m/', page.locale }}" title="{{ locale.posts-in }} {{ post.date | localize: '%B %Y', page.locale }}">{{ post.date | localize: '%B', page.locale }}</a> <a href="{{ page.base-url }}{{ post.date | localize: '%Y/', page.locale }}" title="{{ locale.posts-in }} {{ post.date | localize: '%Y', page.locale }}">{{ post.date | localize: '%Y', page.locale }}</a>{% endunless %}</time>{% if page.locale =='fr' %}<span class="p-category"><a href="{{ page.base-url }}{{ post.category|downcase }}" title="{{ locale.posts-in }} {{ locale.the-category }} {{ post.category }}">{{ post.category }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
+        {% assign datetime = post.date | date_to_xmlschema %}<time class="p-date dt-published" datetime="{{ datetime }}">{{ post.date | localize_date: ":long" }}</time>{% if page.locale =='fr' %}<span class="p-category"><a href="{{ page.base-url }}{{ post.category|downcase }}" title="{{ locale.posts_in }} {{ locale.the_category }} {{ post.category }}">{{ post.category }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
     </header>
 
   {% capture hn %}h2{% endcapture %}
@@ -32,13 +32,13 @@
       {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first | markdownify % }}
         <p class="read-more">
-          <a href="{{ post.url }}" title="{{post.title}}">{{ locale.read-more }} →</a>
+          <a href="{{ post.url }}" title="{{post.title}}">{{ locale.read_more }} →</a>
         </p>
       {% elsif post.content.size < 1000 %}
         {% if post.content contains "<figure>" %}
           {{ post.content | split:"<figure>" | first | markdownify % }}
           <p class="read-more">
-            <a href="{{ post.url }}" title="{{post.title}}">{{ locale.read-more }} →</a>
+            <a href="{{ post.url }}" title="{{post.title}}">{{ locale.read_more }} →</a>
           </p>
         {% else %}
           {{ post.content | markdownify }}
@@ -46,7 +46,7 @@
       {% else %}
         {{ post.excerpt | markdownify }}
         <p class="read-more">
-          <a href="{{ post.url }}" title="{{post.title}}">{{ locale.read-more }} →</a>
+          <a href="{{ post.url }}" title="{{post.title}}">{{ locale.read_more }} →</a>
         </p>
       {% endif %}
     {% endif %}

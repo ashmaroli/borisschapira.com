@@ -13,7 +13,7 @@
   {% endif %}
   </div>
   {% if include.date %}
-    {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" class="npe">{% endif %}<span class="sr-only">{{ locale.comment-link }}</span><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%d/%m/%Y' }}</time>
+    {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" class="npe">{% endif %}<span class="sr-only">{{ locale.comment_link }}</span><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%d/%m/%Y' }}</time>
     {% if include.index %}</a>{% endif %}
   {% endif %}
   <h3 class="comment__author">

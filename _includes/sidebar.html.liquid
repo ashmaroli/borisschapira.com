@@ -2,7 +2,7 @@
   <div class="container">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ page.base-url }}" itemprop="url">
+        <a href="{{ "" | absolute_url }}" itemprop="url">
           {{ site.title }}
         </a>
       </h1>
@@ -13,21 +13,21 @@
 
       <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category.web }}</a></li>
+        itemtype="http://schema.org/ListItem"><a href="{{ locale.category_web | downcase | absolute_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category_web }}</a></li>
 
         {% if page.locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ 'citoyen' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category.citizen }}</a>
+        <a href="{{ locale.category_citizen | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category_citizen }}</a>
         </li>{% endif %}
 
         <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ 'papa' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category["dad"] }}</a>
+        <a href="{{ locale.category_dad | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category_dad }}</a>
         </li>
 
         <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
         itemtype="http://schema.org/SearchResultsPage">
-        <a href="{{ 'recherche' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ locale.search-maj }}</a>
+        <a href="{{ locale.search | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ locale.search }}</a>
         </li>
       </ul>
 
@@ -35,7 +35,7 @@
         <ul>
           {% if page.translation %}
             {% assign lang = page.translation.locale | slice: 0,2 %}
-            {% capture read_in %}{{ locale.read-in }} {% if lang == "en" %}{{ locale.english }}{% else %}{{ locale.french }}{% endif %}{% endcapture %}
+            {% capture read_in %}{{ locale.read_in }} {% if lang == "en" %}{{ locale.english }}{% else %}{{ locale.french }}{% endif %}{% endcapture %}
             <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
           {% endif %}
         </ul>
@@ -44,7 +44,7 @@
       <ul class="secondary">
         <li class="sidebar-nav-item">
           <a href="{{ page.base-url }}{{ locale.about }}/">
-            {{ locale.about-maj }}
+            {{ locale.about_maj }}
             <!-- nomicrotypo -->
             {% include img/avatar.svg %}
             <!-- endnomicrotypo -->

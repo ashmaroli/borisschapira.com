@@ -8,10 +8,10 @@ layout: default
 
 {% if page.next_context or page.prev_context %}
 <div class="category-navigation post-footer">
-  <h3>{{ locale.in-same-category }}</h3>
+  <h3>{{ locale.in_same_category }}</h3>
   <ul class="page-navigation">
-    {% if page.prev_context %}<li>{{ locale.pevious-page }} <a href="{{page.prev_context.url}}">{{ page.prev_context.title }}</a></li>{% endif %}
-    {% if page.next_context %}<li>{{ locale.next-page }} <a href="{{page.next_context.url}}">{{ page.next_context.title }}</a></li>{% endif %}
+    {% if page.prev_context %}<li>{{ locale.pevious_page }} <a href="{{page.prev_context.url}}">{{ page.prev_context.title }}</a></li>{% endif %}
+    {% if page.next_context %}<li>{{ locale.next_page }} <a href="{{page.next_context.url}}">{{ page.next_context.title }}</a></li>{% endif %}
   </ul>
 </div>
 {% endif %}

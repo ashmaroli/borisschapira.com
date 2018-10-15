@@ -1,79 +1,74 @@
---- 
-fr:
-  about: "a-propos"
-  about-maj: "À propos"
-  all-posts: "Tous les articles"
-  around: "Environ"
-  back: "Retour"
-  by: "par"
-  cancel: "Annuler"
-  category:
-    dad: "Papa"
-    web: "Web"
-    citizen: "Citoyen"
-  citizen: "citoyen"
-  citizen-maj: "Citoyen"
-  closed-comments: "Les commentaires sont clos."
-  comment: "commentaire"
-  comment-link: "Lien direct vers ce commentaire"
-  comment-maj: "Commentaire"
-  comment-post-success: "Commentaire posté avec succès !"
-  comments: "commentaires"
-  comments-maj: "Commentaires"
-  discuss: "Envie de discuter de cet article"
-  email-maj: "Email"
-  english: "anglais"
-  error-github: "Si vous détectez une erreur et que vous avez un compte Github"
-  follow-me: "Suivez-moi"
-  french: "français"
-  from-category: "de la catégorie&nbsp;:"
-  goto-main: "Aller directement au contenu principal"
-  home-maj: "Accueil"
-  houston: "Houston, on a un problème."
-  in-same-category: "Dans la même catégorie&nbsp:"
-  issue: "ticket"
-  last-page: "Dernière page"
-  leave-comment: "Laisser un commentaire"
-  modifation-of: "modification des"
-  name-maj: "Nom"
-  next-page: "Page suivante"
-  next: "Suivant :"
-  on: "sur"
-  only-web-related: "Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre"
-  optional: "facultatif"
-  or: "ou"
-  or-open: "ou ouvrir un"
-  papa: "papa"
-  papa-maj: "Papa"
-  planet: "Coordonnées de votre planête (uniquement pour les non-humains)"
-  please-share: "Si cet article vous a plu, n'hésitez pas à le partager"
-  please-submit: "vous pouvez proposer une"
-  post-the-comment: "Poster le commentaire"
-  posts-in: "Articles de"
-  previous-page: "Page précédente"
-  previous: "Précédent :"
-  read-in: "Lire en"
-  read-more: "Lire la suite"
-  reading-time: "min de lecture"
-  related-posts: "Ces articles peuvent également vous intéresser"
-  reply-to: "Répondre à"
-  search: "recherche"
-  search-maj: "Recherche"
-  send-me-a: "envoyez-moi un"
-  sens-message: "Envoyer un message"
-  serie: "Série"
-  share-post: "Partager cet article"
-  site: "Site"
-  source-code: "sources"
-  subscribe-feed: "Abonnez-vous au flux"
-  the-category: "la catégorie"
-  this-feed: "ce flux"
-  web: "web"
-  web-maj: "Web"
-  write-me: "Ecrivez-moi !"
-  written-in: "rédigés en"
-  you-re-subscribed: "Vous êtes abonné·e au flux des articles"
-  date: 
+about: "a-propos"
+about_maj: "À propos"
+all_posts: "Tous les articles"
+around: "Environ"
+back: "Retour"
+by: "par"
+cancel: "Annuler"
+category_dad: "Papa"
+category_web: "Web"
+category_citizen: "Citoyen"
+closed_comments: "Les commentaires sont clos."
+comment: "commentaire"
+comment_link: "Lien direct vers ce commentaire"
+comment_maj: "Commentaire"
+comment_post_success: "Commentaire posté avec succès !"
+comments: "commentaires"
+comments_maj: "Commentaires"
+discuss: "Envie de discuter de cet article"
+email_maj: "Email"
+english: "anglais"
+error_github: "Si vous détectez une erreur et que vous avez un compte Github"
+french: "français"
+follow-me: "Suivez-moi"
+from_category: "de la catégorie&nbsp;:"
+goto_main: "Aller directement au contenu principal"
+home_maj: "Accueil"
+houston: "Houston, on a un problème."
+in_same_category: "Dans la même catégorie&nbsp:"
+issue: "ticket"
+last_page: "Dernière page"
+leave_comment: "Laisser un commentaire"
+modifation_of: "modification des"
+name_maj: "Nom"
+next_page: "Page suivante"
+next: "Suivant :"
+on: "sur"
+only_web_related: "Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre"
+optional: "facultatif"
+or: "ou"
+or_open: "ou ouvrir un"
+papa: "papa"
+papa_maj: "Papa"
+planet: "Coordonnées de votre planête (uniquement pour les non-humains)"
+please_share: "Si cet article vous a plu, n'hésitez pas à le partager"
+please_submit: "vous pouvez proposer une"
+post_the_comment: "Poster le commentaire"
+posts_in: "Articles de"
+previous_page: "Page précédente"
+previous: "Précédent :"
+read_in: "Lire en"
+read_more: "Lire la suite"
+reading_time: "min de lecture"
+related_posts: "Ces articles peuvent également vous intéresser"
+reply_to: "Répondre à"
+search: "Recherche"
+send_me_a: "envoyez-moi un"
+sens_message: "Envoyer un message"
+serie: "Série"
+share_post: "Partager cet article"
+site: "Site"
+source_code: "sources"
+subscribe_feed: "Abonnez-vous au flux"
+the_category: "la catégorie"
+this_feed: "ce flux"
+web: "web"
+web_maj: "Web"
+write_me: "Ecrivez-moi !"
+written_in: "rédigés en"
+you_re_subscribed: "Vous êtes abonné·e au flux des articles"
+locale_date:
+  date:
     abbr_day_names: 
       - dim
       - lun
@@ -83,7 +78,6 @@ fr:
       - ven
       - sam
     abbr_month_names: 
-      - ~
       - jan.
       - fév.
       - mar.
@@ -97,6 +91,7 @@ fr:
       - nov.
       - déc.
     day_names: 
+      - ~
       - dimanche
       - lundi
       - mardi
@@ -104,10 +99,6 @@ fr:
       - jeudi
       - vendredi
       - samedi
-    formats: 
-      default: "%d/%m/%Y"
-      long: "%e %B %Y"
-      short: "%e %b"
     month_names: 
       - ~
       - janvier
@@ -122,159 +113,8 @@ fr:
       - octobre
       - novembre
       - décembre
-    order: 
-      - !ruby/symbol day
-      - !ruby/symbol month
-      - !ruby/symbol year
-  datetime: 
-    distance_in_words: 
-      about_x_hours: 
-        one: "environ une heure"
-        other: "environ %{count} heures"
-      about_x_months: 
-        one: "environ un mois"
-        other: "environ %{count} mois"
-      about_x_years: 
-        one: "environ un an"
-        other: "environ %{count} ans"
-      almost_x_years: 
-        one: "presqu'un an"
-        other: "presque %{count} ans"
-      half_a_minute: "une demi-minute"
-      less_than_x_minutes: 
-        one: "moins d'une minute"
-        other: "moins de %{count} minutes"
-        zero: "moins d'une minute"
-      less_than_x_seconds: 
-        one: "moins d'une seconde"
-        other: "moins de %{count} secondes"
-        zero: "moins d'une seconde"
-      over_x_years: 
-        one: "plus d'un an"
-        other: "plus de %{count} ans"
-      x_days: 
-        one: "1 jour"
-        other: "%{count} jours"
-      x_minutes: 
-        one: "1 minute"
-        other: "%{count} minutes"
-      x_months: 
-        one: "1 mois"
-        other: "%{count} mois"
-      x_seconds: 
-        one: "1 seconde"
-        other: "%{count} secondes"
-    prompts: 
-      day: Jour
-      hour: Heure
-      minute: Minute
-      month: Mois
-      second: Seconde
-      year: Année
-  errors: 
-    format: "%{attribute} %{message}"
-    messages: 
-      accepted: "doit être accepté(e)"
-      blank: "doit être rempli(e)"
-      confirmation: "ne concorde pas avec la confirmation"
-      empty: "doit être rempli(e)"
-      equal_to: "doit être égal à %{count}"
-      even: "doit être pair"
-      exclusion: "n'est pas disponible"
-      greater_than: "doit être supérieur à %{count}"
-      greater_than_or_equal_to: "doit être supérieur ou égal à %{count}"
-      inclusion: "n'est pas inclus(e) dans la liste"
-      invalid: "n'est pas valide"
-      less_than: "doit être inférieur à %{count}"
-      less_than_or_equal_to: "doit être inférieur ou égal à %{count}"
-      not_a_number: "n'est pas un nombre"
-      not_an_integer: "doit être un nombre entier"
-      odd: "doit être impair"
-      other_than: "doit être différent de %{count}"
-      present: "doit être vide"
-      record_invalid: "La validation a échoué : %{errors}"
-      restrict_dependent_destroy: 
-        many: "Suppression impossible: d'autres enregistrements sont liés"
-        one: "Suppression impossible: un autre enregistrement est lié"
-      taken: "n'est pas disponible"
-      too_long: 
-        one: "est trop long (pas plus d'un caractère)"
-        other: "est trop long (pas plus de %{count} caractères)"
-      too_short: 
-        one: "est trop court (au moins un caractère)"
-        other: "est trop court (au moins %{count} caractères)"
-      wrong_length: 
-        one: "ne fait pas la bonne longueur (doit comporter un seul caractère)"
-        other: "ne fait pas la bonne longueur (doit comporter %{count} caractères)"
-    template: 
-      body: "Veuillez vérifier les champs suivants : "
-      header: 
-        one: "Impossible d'enregistrer ce(tte) %{model} : 1 erreur"
-        other: "Impossible d'enregistrer ce(tte) %{model} : %{count} erreurs"
-  helpers: 
-    select: 
-      prompt: "Veuillez sélectionner"
-    submit: 
-      create: "Créer un(e) %{model}"
-      submit: "Enregistrer ce(tte) %{model}"
-      update: "Modifier ce(tte) %{model}"
-  number: 
-    currency: 
-      format: 
-        delimiter: " "
-        format: "%n %u"
-        precision: 2
-        separator: ","
-        significant: false
-        strip_insignificant_zeros: false
-        unit: €
-    format: 
-      delimiter: " "
-      precision: 3
-      separator: ","
-      significant: false
-      strip_insignificant_zeros: false
-    human: 
-      decimal_units: 
-        format: "%n %u"
-        units: 
-          billion: milliard
-          million: million
-          quadrillion: "million de milliards"
-          thousand: millier
-          trillion: billion
-          unit: ""
-      format: 
-        delimiter: ""
-        precision: 2
-        significant: true
-        strip_insignificant_zeros: true
-      storage_units: 
-        format: "%n %u"
-        units: 
-          byte: 
-            one: octet
-            other: octets
-          gb: Go
-          kb: ko
-          mb: Mo
-          tb: To
-    percentage: 
-      format: 
-        delimiter: ""
-        format: "%n%"
-    precision: 
-      format: 
-        delimiter: ""
-  support: 
-    array: 
-      last_word_connector: " et "
-      two_words_connector: " et "
-      words_connector: ", "
-  time: 
-    am: am
+  time:
     formats: 
-      default: "%d %B %Y %H h %M min %S s"
-      long: "%A %d %B %Y %H h %M"
-      short: "%d %b %H h %M"
-    pm: pm
+      default: "%d/%m/%Y"
+      long: "%e %B %Y"
+      short: "%e %b"

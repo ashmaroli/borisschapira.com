@@ -52,7 +52,7 @@ Le site généré est alors testé via [html-proofer](https://github.com/gjtorik
 
 Si tout se passe bien alors Netlify déploie le site généré sur son <abbr title="Content Delivery Network">CDN</abbr>.
 
-Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
+Le dernier déploiement a été réalisé le {{ site.time | localize_date: '%A %-d %B %Y' }}.
 
 C'est également Netlify qui s'occupe de capturer les commentaires pour me les envoyer par mail via [Netlify Forms](https://www.netlify.com/docs/form-handling/).
 

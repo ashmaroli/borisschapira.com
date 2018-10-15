@@ -1,6 +1,6 @@
 {% if include.posts.size >= 1 %}
 <div class="related">
-    <h2>{{ locale.related-posts }}</h2>
+    <h2>{{ locale.related_posts }}</h2>
     <ul>
     {% for related in include.posts limit: 5 %}
         <li class="relatedPost">
