@@ -13,8 +13,8 @@ group :jekyll_tests do
 end
 
 group :jekyll_plugins do
-  gem 'classifier-reborn'
   gem "jekyll-locale", "~> 0.3.0"
+  gem 'classifier-reborn'
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
   gem 'jekyll-cloudinary'

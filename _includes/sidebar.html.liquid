@@ -13,11 +13,11 @@
 
       <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category["web"] }}</a></li>
+        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category.web }}</a></li>
 
         {% if page.locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ 'citoyen' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale..category["citizen"] }}</a>
+        <a href="{{ 'citoyen' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category.citizen }}</a>
         </li>{% endif %}
 
         <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
