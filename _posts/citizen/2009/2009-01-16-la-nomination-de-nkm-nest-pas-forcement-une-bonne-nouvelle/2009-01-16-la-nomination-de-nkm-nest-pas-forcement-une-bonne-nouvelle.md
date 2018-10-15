@@ -1,8 +1,6 @@
 ---
 title: 'La nomination de NKM n''est pas *forcément* une bonne nouvelle'
-categories:
-    - citoyen
-    - web
+category: citoyen
 date: '2009-01-16'
 type: post
 slug: la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle

@@ -3,8 +3,7 @@ title: "Mobile carrier"
 date: '2018-03-21'
 type: post
 i18n-key: mobile-carrier
-categories:
-    - papa
+category: papa
 publishDate: '2018-03-21'
 ---
 

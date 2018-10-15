@@ -1,8 +1,6 @@
 ---
 title: 'La blockchain expliquée à un enfant de cinq ans'
-categories:
-    - web
-    - papa
+category: web
 date: '2016-06-26'
 type: post
 slug: la-blockchain-expliquee-a-un-enfant-de-cinq-ans

@@ -29,22 +29,22 @@ defaults:
       category: web
   -
     scope:
-      path: "_posts/citoyen"
+      path: "_posts/citizen"
     values:
       category: citizen
   -
     scope:
-      path: "_locales/**/citoyen"
+      path: "_locales/**/citizen"
     values:
       category: citizen
   -
     scope:
-      path: "_posts/papa"
+      path: "_posts/dad"
     values:
       category: dad
   -
     scope:
-      path: "_locales/**/papa"
+      path: "_locales/**/dad"
     values:
       category: dad
   -
@@ -83,6 +83,14 @@ exclude:
   - _posts/**/*.mp4
   - _posts/**/*.webm
   - _posts/**/*.ogv
+  - _locales/**/*.jpg
+  - _locales/**/*.jpeg
+  - _locales/**/*.png
+  - _locales/**/*.gif
+  - _locales/**/*.pdf
+  - _locales/**/*.mp4
+  - _locales/**/*.webm
+  - _locales/**/*.ogv
   - borisschapira-dev.com+3.pem
   - borisschapira-dev.com+3-key.pem
 include:
@@ -91,6 +99,7 @@ include:
   - ".htpasswd"
   - "_headers"
   - "_redirects"
+  - "_locales"
 
 # Site settings
 name: 'Boris Schapira'

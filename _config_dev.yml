@@ -1,5 +1,5 @@
 # Development configuration (comment for Production)
-limit_posts: 1
+limit_posts: 20
 
 host: borisschapira-dev.com
 port: 10443

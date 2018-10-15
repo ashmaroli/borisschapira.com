@@ -16,10 +16,17 @@
   <!-- nomicrotypo -->
   <script>performance.mark('mark_declare_css_start');</script>
   <style>{% include styles/core.min.css %}</style>
+
   {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
-  
-  {% if page.category.size > 0 %}{% capture themeColor %}{{ site.data.styles[page.category].color }}{% endcapture %}{%capture css_file %}{{ site.data.styles[page.category].css }}.min.css{% endcapture %}{% else %}{%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}{% endif %}
-  <style>{% include styles/{{ css_file }} %}</style>
+  {% if page.category.size > 0 %}
+    {% capture themeColor %}{{ site.data.styles[page.category].color }}{% endcapture %}
+    {%capture css_file %}{{ site.data.styles[page.category].css }}.min.css{% endcapture %}
+  {% else %}
+    {%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}
+  {% endif %}
+  {% comment %}<style>{% include styles/{{ css_file }} %}</style>{% endcomment %}
+  TOTO{{ css_file }}TITI
+  <style>{% include styles/main.min.css %}</style>
 
   <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
   <!-- endnomicrotypo -->

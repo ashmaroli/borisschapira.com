@@ -3,8 +3,7 @@ title: "Doctor of the not dead"
 date: '2018-03-08'
 type: post
 i18n-key: doctor-of-the-not-dead
-categories:
-    - papa
+category: papa
 publishDate: '2018-03-08'
 ---
 
