@@ -2,7 +2,7 @@
 title: Pickpocket
 date: '2017-12-11'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Comme souvent, un problème de vocabulaire : le grand ne savait ce qu'était un _pickpocket_. Le petit intervient.

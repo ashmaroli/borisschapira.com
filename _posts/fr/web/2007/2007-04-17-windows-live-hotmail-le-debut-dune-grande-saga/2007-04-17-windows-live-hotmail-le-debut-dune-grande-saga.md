@@ -5,7 +5,7 @@ tags:
     - 'Windows Live Hotmail'
 date: '2007-04-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Alors que nombre d'entre nous utilise le service bêta depuis belle lurette, c'est désormais l'intégralité des internautes qui se verra d'ici peu passer à cette nouvelle version du service de messagerie en ligne.

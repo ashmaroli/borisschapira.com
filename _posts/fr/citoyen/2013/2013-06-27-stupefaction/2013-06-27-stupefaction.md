@@ -5,7 +5,7 @@ tags:
     - Égalité
 date: '2013-06-27'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Jeune papa pour la seconde fois, je décide ce soir de porter mon fils en écharpe, comme je l'avais déjà fait pour son grand frère.

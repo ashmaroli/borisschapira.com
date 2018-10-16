@@ -2,7 +2,7 @@
 title: 'Un agenda de ministre'
 date: '2016-09-08'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les enfants ont passé hier leur premier jour au centre aéré. Le petit a adoré : visiblement, on l'a laissé faire ce qu'il voulait. Ce qui n'est pas le cas partout…

@@ -5,7 +5,7 @@ tags:
     - Insolite
 date: '2009-02-24'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

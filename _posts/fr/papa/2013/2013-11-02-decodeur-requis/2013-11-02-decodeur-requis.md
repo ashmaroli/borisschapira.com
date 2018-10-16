@@ -2,7 +2,7 @@
 title: 'Décodeur requis'
 date: '2013-11-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > — Papa, papa !  

@@ -2,7 +2,7 @@
 title: 'La Reine des…'
 date: '2016-01-09'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Séquence "danse et musique". Évidemment, les garçons ont choisi "Libérée, Délivrée" d'Anais Delva que nous écoutons en boucle pour la 27e fois. J'en profite pour voir si mon aîné a bien compris l'histoire&nbsp;:

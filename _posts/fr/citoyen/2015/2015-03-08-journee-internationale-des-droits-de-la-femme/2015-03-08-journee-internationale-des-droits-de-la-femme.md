@@ -7,7 +7,7 @@ tags:
     - Égalité
 date: '2015-03-08'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement…

@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-11-24'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour alimenter une liste déroulante pour réaliser, par exemple, un filtre ?

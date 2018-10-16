@@ -5,7 +5,7 @@ tags:
     - Citations
 date: '2016-02-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Extraits de "Réflexions sur la question juive", de Sartre, publié en 1946, où j'ai remplacé "juif" par "musulman" et "antisémitisme" par "islamophobie"…

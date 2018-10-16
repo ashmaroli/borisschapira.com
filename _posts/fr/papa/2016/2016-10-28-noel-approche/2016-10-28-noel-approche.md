@@ -2,7 +2,7 @@
 title: 'Noël approche'
 date: '2016-10-28'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Halloween étant passé, les discussions vont déjà bon train à la maison concernant Noël.

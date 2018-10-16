@@ -4,7 +4,7 @@ tags:
     - Histoire
 date: '2010-01-31'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.  

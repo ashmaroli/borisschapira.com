@@ -2,7 +2,7 @@
 title: 'Enseigner et apprendre'
 date: '2016-11-26'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 En parlant de la difficulté d'aider un étudiant pendant un travail dirigé :

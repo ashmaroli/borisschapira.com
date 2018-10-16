@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2007-04-01'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ne vous inquiétez pas, je ne suis pas parti dans un pur délire maritime. Je viens juste vous parler d'une application en développement dans les <span lang="en">Labs</span> de Microsoft et qui devrait considérablement modifier vôtre façon d'appréhender Internet sur un périphérique mobile.

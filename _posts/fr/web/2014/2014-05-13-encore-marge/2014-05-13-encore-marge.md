@@ -5,7 +5,7 @@ tags:
     - Mobilité
 date: '2014-05-13'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## Pour mieux apprivoiser nos matériels

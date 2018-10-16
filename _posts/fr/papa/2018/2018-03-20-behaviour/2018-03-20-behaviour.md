@@ -3,7 +3,7 @@ title: Attitude
 date: '2018-03-20'
 type: post
 i18n-key: behaviour
-locale: fr_FR
+locale: fr
 slug: attitude
 ---
 

@@ -2,7 +2,7 @@
 title: 'La planque'
 date: '2015-01-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ce moment où tes voisins t'aperçoivent alors que tu es enfermé dans ta bagnole, uniquement éclairé par la lumière de l'écran de ton PC dans la pénombre, et te lancent des regards inquiets comme si tu allais te servir de ta cachette pour commettre un crime...

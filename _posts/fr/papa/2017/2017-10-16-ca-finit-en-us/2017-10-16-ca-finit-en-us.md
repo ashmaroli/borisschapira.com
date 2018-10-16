@@ -2,7 +2,7 @@
 title: 'Ça finit en "us"'
 date: '2017-10-16'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Coup sur coup, deux anecdotes qui tournent autour du même mot…

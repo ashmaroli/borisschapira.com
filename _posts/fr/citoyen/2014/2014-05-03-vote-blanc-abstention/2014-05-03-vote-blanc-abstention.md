@@ -2,7 +2,7 @@
 title: 'Vote blanc, abstention'
 date: '2014-05-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.

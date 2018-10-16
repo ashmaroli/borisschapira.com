@@ -9,7 +9,7 @@ series:
     - 'Sud Web 2014'
 date: '2014-05-20'
 type: post
-locale: fr_FR
+locale: fr
 loadTwitterWjs: true
 ---
 

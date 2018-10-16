@@ -5,7 +5,7 @@ tags:
     - MSP
 date: '2007-06-09'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Petit retour sur la session MSP et la journée Imagine Cup. Toutes les photos que j'ai sont ici.</p>

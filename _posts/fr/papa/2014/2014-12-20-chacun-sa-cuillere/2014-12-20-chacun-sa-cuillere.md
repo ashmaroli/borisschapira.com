@@ -2,7 +2,7 @@
 title: 'Chacun sa cuillère'
 date: '2014-12-20'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > — Et tu veux quoi comme cuillère ?  

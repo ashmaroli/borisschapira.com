@@ -2,7 +2,7 @@
 title: 'Le justicier des férias'
 date: '2016-12-19'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Il y a quelques années, nous sommes allé à un mariage dont la réception du lendemain avait un thème vestimentaire : nous étions tous habillés en tenue basque blanche, foulard rouge…

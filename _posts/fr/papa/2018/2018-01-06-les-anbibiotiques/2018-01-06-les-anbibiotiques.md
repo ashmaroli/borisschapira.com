@@ -2,7 +2,7 @@
 title: 'Les anbibiotiques'
 date: '2018-01-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Suite à [l'accident](/2017/12/a-l-hopital/), le traitement du petit continue.

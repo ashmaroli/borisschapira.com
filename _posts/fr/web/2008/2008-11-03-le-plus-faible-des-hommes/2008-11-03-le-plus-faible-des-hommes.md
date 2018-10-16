@@ -5,7 +5,7 @@ tags:
     - Mariage
 date: '2008-11-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les films mentent. Le moment parfait ne vient jamais tout seul. Les mots les plus élaborés s'oublient très vite et les situations les mieux préparées… ne se déroulent jamais comme prévues. Hugh Grant est un tricheur.

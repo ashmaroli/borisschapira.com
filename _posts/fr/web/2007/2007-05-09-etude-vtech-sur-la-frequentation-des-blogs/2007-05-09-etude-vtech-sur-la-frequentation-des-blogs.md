@@ -4,7 +4,7 @@ tags:
     - RSS
 date: '2007-05-09'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Accessoblog a annoncé aujourd'hui la mise en ligne du résultat d'un sondage réalisé par VTech à propos de l'utilisation que font les internautes des blogs.

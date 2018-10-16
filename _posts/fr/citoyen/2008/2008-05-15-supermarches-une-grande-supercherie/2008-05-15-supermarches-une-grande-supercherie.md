@@ -5,7 +5,7 @@ tags:
     - 'Billet d''humeur'
 date: '2008-05-15'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Je voudrais bien qu'on m'explique une chose&nbsp;: comment certaines grandes enseignes de supermarché arrivent-elles à rembourser jusqu'à 20 % des chariots des clients en bons d'achat et dire qu'il s'agit d'une mesure pour lutter contre la "vie chère" et la "baisse du pouvoir d'achat"&nbsp;?

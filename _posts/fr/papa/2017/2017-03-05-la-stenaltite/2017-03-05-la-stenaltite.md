@@ -2,7 +2,7 @@
 title: 'La stènaltite'
 date: '2017-03-05'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Le petit fait de la pâte à modeler. Curieux, je lui demande ce qu'il est en train de façonner :

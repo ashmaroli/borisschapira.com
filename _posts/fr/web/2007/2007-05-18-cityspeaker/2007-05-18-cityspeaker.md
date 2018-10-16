@@ -5,7 +5,7 @@ tags:
     - Publicité
 date: '2007-05-18'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 A l'approche des **vacances** d'été et alors que les petits week-ends font fureur, beaucoup d'entre nous sont à la recherche du **bon plan touristique** de l'été. Et si c'était dans votre lecteur mp3 qu'il fallait chercher&nbsp;?

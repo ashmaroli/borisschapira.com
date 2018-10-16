@@ -2,7 +2,7 @@
 title: 'Pourquoi les conférences (Paris Web 2015)'
 date: '2015-10-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Aujourd'hui, les enfants sont malades et je suis à la maison pour m'occuper d'eux. Un peu avant 15h, dans une atmosphère très calme (ce qui est excessivement rare à la maison), je me demande si je peux laisser le petit à sa sieste et le grand à son film pour me mater une conférence…

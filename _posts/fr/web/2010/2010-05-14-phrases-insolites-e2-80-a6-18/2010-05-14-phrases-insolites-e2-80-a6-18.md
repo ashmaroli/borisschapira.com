@@ -4,7 +4,7 @@ series:
     - 'Phrases insolites'
 date: '2010-05-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

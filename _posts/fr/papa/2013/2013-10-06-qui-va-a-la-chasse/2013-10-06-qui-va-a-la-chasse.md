@@ -2,7 +2,7 @@
 title: 'Qui va à la chasse'
 date: '2013-10-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > — Papa, biberon !  

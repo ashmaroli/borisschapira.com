@@ -2,7 +2,7 @@
 title: 'Je suis un Papa'
 date: '2016-06-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Grosse colère du grand.

@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 date: '2014-04-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > We know that happiness is mainly being satisfied with people that we like, spending time with people that we like. There are other pleasures, but this is dominant.

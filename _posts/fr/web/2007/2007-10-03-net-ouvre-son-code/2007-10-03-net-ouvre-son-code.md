@@ -5,7 +5,7 @@ tags:
     - .NET
 date: '2007-10-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Un des gros reproches (parfois à raison) du monde du libre envers le Framework .NET est l'impossibilité de voir exactement ce qui s'y déroule. Microsoft a décidé d'y remédier en publiant une partie du code source du framework .NET dès février 2008.

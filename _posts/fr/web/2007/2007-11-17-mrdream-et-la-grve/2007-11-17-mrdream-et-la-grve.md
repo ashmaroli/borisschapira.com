@@ -4,7 +4,7 @@ tags:
     - Grève
 date: '2007-11-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 _Rien &#224; voir mais…&nbsp;: si vous avez 5 minutes, je suis toujours en qu&#234;te de r&#233;ponses pour le **post d'avant** ^^_

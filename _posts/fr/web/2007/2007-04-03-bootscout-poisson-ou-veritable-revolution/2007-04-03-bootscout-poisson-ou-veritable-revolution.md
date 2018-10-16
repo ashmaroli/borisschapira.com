@@ -4,7 +4,7 @@ tags:
     - Outils
 date: '2007-04-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les équipes de développement de Microsoft apprennent de la concurrence. En effet, des infos commencent à courir sur le Net concernant la possibilité de faire tourner MacOS X sur un PC gr&acirc;ce à une application qui serait développée par Microsoft et qui aurait pour nom de code BootScout.

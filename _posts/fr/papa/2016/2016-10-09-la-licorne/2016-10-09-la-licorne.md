@@ -2,7 +2,7 @@
 title: 'La licorne'
 date: '2016-10-09'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Le grand a pris l'habitude de ranger sa chambre en musique. Au bout de dix minutes, il descend pour demander un morceau particulier.

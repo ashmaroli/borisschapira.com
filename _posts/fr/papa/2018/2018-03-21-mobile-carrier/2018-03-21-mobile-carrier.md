@@ -3,7 +3,7 @@ title: Opérateur
 date: '2018-03-21'
 type: post
 i18n-key: mobile-carrier
-locale: fr_FR
+locale: fr
 slug: operateur
 ---
 

@@ -2,7 +2,7 @@
 title: 'Debout dans son parc'
 date: '2011-11-30'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Clairement le début d'une **nouvelle ère**.

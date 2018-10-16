@@ -4,7 +4,7 @@ tags:
     - 'Open Source'
 date: '2007-03-21'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 On parle beaucoup de "Web 2.0" dans les médias, et un des arguments mis en avant est le design interactionnel que devrait avoir le "Web 2.0"&nbsp;: des éléments dynamiques et un design léché offrant arrondis, ombrages et reflets là où on n'avait que du carré, du terne et du figé.

@@ -6,7 +6,7 @@ tags:
     - Économie
 date: '2009-01-05'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Au menu aujourd'hui, des éléments de réponse aux questions suivantes :

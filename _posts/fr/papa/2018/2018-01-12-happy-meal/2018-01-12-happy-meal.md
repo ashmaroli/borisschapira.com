@@ -3,7 +3,7 @@ title: 'Des Happy Meals pour adultes'
 date: '2018-01-12'
 type: post
 i18n-key: happy-meal
-locale: fr_FR
+locale: fr
 slug: des-happy-meals-pour-adultes
 ---
 

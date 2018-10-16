@@ -5,7 +5,7 @@ categories:
     - web
 date: '2009-01-16'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 **Et si finalement, la nomination de NKM n'était pas une bonne nouvelle pour le Web&nbsp;? Réfléchissons à la suite d'évènement qui a amené à cette nomination…**

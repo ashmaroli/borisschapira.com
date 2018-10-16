@@ -2,7 +2,7 @@
 title: Arnacœur
 date: '2016-08-31'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 À son petit regard malicieux, je vois qu'il n'est pas mielleux pour rien…

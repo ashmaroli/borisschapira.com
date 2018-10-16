@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-08-10'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Non, vous ne rêvez pas. Les joies du .NET seront bientôt accessibles aux développeurs iPhone (et respectivement, les joies de l’iPhone aux développeurs .NET) grâce aux développeurs du projet Mono !

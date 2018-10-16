@@ -6,7 +6,7 @@ series:
     - 'Charlie Hebdo'
 date: '2015-01-09'
 type: post
-locale: fr_FR
+locale: fr
 loadTwitterWjs: true
 ---
 

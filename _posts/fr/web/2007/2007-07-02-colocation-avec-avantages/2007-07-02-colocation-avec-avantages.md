@@ -4,7 +4,7 @@ tags:
     - Boulogne
 date: '2007-07-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

@@ -2,7 +2,7 @@
 title: 'Vous pouvez disposer'
 date: '2018-03-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Tous les soirs, je fais un dernier câlin à mes deux fils.

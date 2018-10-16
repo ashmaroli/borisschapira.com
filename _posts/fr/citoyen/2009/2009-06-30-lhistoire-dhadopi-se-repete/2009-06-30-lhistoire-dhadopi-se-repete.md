@@ -4,7 +4,7 @@ tags:
     - Hadopi
 date: '2009-06-30'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi premier du nom…

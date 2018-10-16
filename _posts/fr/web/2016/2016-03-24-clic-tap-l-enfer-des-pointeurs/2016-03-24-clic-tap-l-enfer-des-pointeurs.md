@@ -2,7 +2,7 @@
 title: 'Clic, Tap, l''enfer des pointeurs'
 date: '2016-03-24'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## Le problème

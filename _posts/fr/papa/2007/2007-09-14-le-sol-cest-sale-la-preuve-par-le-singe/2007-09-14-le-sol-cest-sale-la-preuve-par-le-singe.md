@@ -2,7 +2,7 @@
 title: 'Le sol c''est sale, la preuve par le singe'
 date: '2007-09-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Petit échange entendu il y a quelques jours… le petit bonhomme comptait moins d'années que les doigts d'une main…

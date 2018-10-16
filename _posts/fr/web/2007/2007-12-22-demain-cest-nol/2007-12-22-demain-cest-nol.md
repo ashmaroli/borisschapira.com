@@ -4,7 +4,7 @@ tags:
     - Libellule
 date: '2007-12-22'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 **Re-Edit**&nbsp;: Elle a fini par arriver, mais on ne sait pas où sont les bagages (qui contenaient notamment les cadeaux de Noël pour la famille)…

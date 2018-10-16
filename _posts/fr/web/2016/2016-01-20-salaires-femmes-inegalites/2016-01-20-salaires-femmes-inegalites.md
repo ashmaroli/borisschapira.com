@@ -6,7 +6,7 @@ tags:
     - Égalité
 date: '2016-01-20'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > Que pensez-vous du plan d'action suivant :

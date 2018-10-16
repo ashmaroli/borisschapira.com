@@ -2,7 +2,7 @@
 title: 'Un hook de pre-commit global pour ne jamais contribuer un var_dump'
 date: '2016-11-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 On commence par définir le modèle de <span lang="en">hooks</span> de <span lang="en">pre-commit</span>.

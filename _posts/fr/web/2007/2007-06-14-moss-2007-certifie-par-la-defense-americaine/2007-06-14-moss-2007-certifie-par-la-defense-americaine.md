@@ -4,7 +4,7 @@ tags:
     - Sharepoint
 date: '2007-06-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 La solution de gestion de contenu d'entreprise Microsoft Office SharePoint Server 2007 a reçu la certification 5015.2 du Département américain de la Défense (DoD). Cette norme est une référence en ce qui concerne la gestion des enregistrements et des documents. Le Gartner, célèbre cabinet de consultants américains dont les études en informatique sont prises très au sérieux _«&nbsp;recommande que les entreprises considèrent la norme DoD 5015.2 comme un élément fondamental dans le choix d'un produit de gestion des enregistrements, en plus de la prise en compte des règles et impératifs locaux.&nbsp;»_.

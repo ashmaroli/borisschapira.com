@@ -5,7 +5,7 @@ date: '2018-08-08'
 type: post
 tags:
     - Netflix
-locale: en_US
+locale: en
 slug: bookmark-netflix-brightness
 ---
 

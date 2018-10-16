@@ -2,7 +2,7 @@
 title: 'Le "Péchapé" Tour'
 date: '2018-05-28'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Leur mère est partie [intervenir au PHP Tour Montpellier](https://www.youtube.com/watch?v=60HN3BHeNtc). Toute une aventure !

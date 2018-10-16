@@ -5,7 +5,7 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2012/09/06/github-communique-sur-son-monitoring-de-la-performance/'
 date: '2012-09-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 GitHub, qu’on connait bien pour ses nombreuses publications sur l’intégration continue ou le travail délocalisé, vient de publier sur son blog un article dédié à la Performance Web.

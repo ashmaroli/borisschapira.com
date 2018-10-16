@@ -2,7 +2,7 @@
 title: 'Mal du pays'
 date: '2016-07-22'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Quinze jours loin de la maison, c'est long pour un petit bonhomme de 3 ans.

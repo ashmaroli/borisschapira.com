@@ -4,7 +4,7 @@ tags:
     - Conférences
 date: '2014-02-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 J'ai animé il y a quelques jours une présentation chez [Clever Age](http://www.clever-age.com/fr/) autour de JavaScript.

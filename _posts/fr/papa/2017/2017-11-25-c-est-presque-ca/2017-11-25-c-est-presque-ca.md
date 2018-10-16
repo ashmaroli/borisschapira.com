@@ -2,7 +2,7 @@
 title: 'C''est presque ça'
 date: '2017-11-25'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du temps, il faut décrypter. Cet après-midi, je propose à mon fils aîné de sortir avec moi jouer au Nerf Vortex…

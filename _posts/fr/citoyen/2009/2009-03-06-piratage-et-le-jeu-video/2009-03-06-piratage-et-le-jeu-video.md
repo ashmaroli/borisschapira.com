@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2009-03-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ces derniers jours ont lieu de nombreux débats autour de la loi "Hadopi", de la culture libre ou du piratage. Au cœur de ce débat&nbsp;: l'industrie des loisirs médiatiques.

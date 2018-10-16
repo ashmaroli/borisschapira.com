@@ -2,7 +2,7 @@
 title: 'Dessin du jour'
 date: '2018-03-15'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Le petit arrive, tout fier.

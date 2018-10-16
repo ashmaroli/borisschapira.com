@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 date: '2007-02-26'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 L'année dernière, deux camarades et moi-même avons réalisé un projet de calibrage de caméra (au sein de [l'ESIEE-Paris](http://www.esiee.fr) à partir des travaux de [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) pour Microsoft Research). Avec l'avènement de la technique par [Richard Hartley](http://www.robots.ox.ac.uk/~vgg/hzbook/), le lab Microsoft a élaboré [PhotoSynth](https://en.wikipedia.org/wiki/Photosynth).

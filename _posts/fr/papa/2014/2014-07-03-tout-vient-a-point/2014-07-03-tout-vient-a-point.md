@@ -2,7 +2,7 @@
 title: 'Tout vient à point...'
 date: '2014-07-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > — Papa, pas cracteur à ça !  

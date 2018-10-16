@@ -2,7 +2,7 @@
 title: 'Un petit coin de paradis'
 date: '2007-05-19'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Nous venons de passer plusieurs jours dans cette sympathique région qu'est la [Vallée de L'Ognon (autour de Melisey)](http://www.tourisme.fr/295/office-de-tourisme-melisey.htm) au début du mois.

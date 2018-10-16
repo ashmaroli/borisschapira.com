@@ -2,7 +2,7 @@
 title: 'Pas préparés'
 date: '2015-02-10'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 On ne nous prépare jamais à la fatigue. Cette fatigue incroyable issue d'heures, voire de jours, à essayer de garder son calme pour ne pas en balancer un par la fenêtre.

@@ -4,7 +4,7 @@ tags:
     - 'Me, myself & I'
 date: '2017-01-24'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## Retour sur 2016

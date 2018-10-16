@@ -4,7 +4,7 @@ date: '2017-04-15'
 type: post
 tags:
     - anecdotes
-locale: fr_FR
+locale: fr
 ---
 
 Il y a parfois des souvenirs, des échanges, qui font de vous le professionnel que vous êtes. En voici un lié à la Qualité…

@@ -2,7 +2,7 @@
 title: 'Backlog : analyse multi-dimensionnelle pour faciliter la valorisation des User Stories'
 date: '2016-09-26'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## Valorisation vs. Priorisation

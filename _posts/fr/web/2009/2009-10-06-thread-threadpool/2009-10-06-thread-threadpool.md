@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-10-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Aujourd’hui, retour sur une question fondamentale : faut-il utiliser `Thread` ou `ThreadPool` ?

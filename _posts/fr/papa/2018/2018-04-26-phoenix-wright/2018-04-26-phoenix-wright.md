@@ -2,7 +2,7 @@
 title: 'Phoenix Wright'
 date: '2018-04-26'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les enfants ont une capacité incroyable à revoir et réentendre les mêmes histoires, encore en encore. Une passion que je ne partage pas, mais alors pas du tout.

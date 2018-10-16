@@ -6,7 +6,7 @@ tags:
     - Subprime
 date: '2007-08-18'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 J'ai tenté d'expliquer dans un précédent article les raisons de la crise des Subprimes. Depuis, les choses ont évolué et il est nécessaire d'aller un peu plus loin dans la compréhension des personnages…

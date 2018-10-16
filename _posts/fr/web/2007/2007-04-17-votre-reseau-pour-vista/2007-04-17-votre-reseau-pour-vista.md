@@ -5,7 +5,7 @@ tags:
     - 'Windows Vista'
 date: '2007-04-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Vous avez chez vous un réseau privé et vous ne savez pas si votre routeur actuel est compatible avec les fonctionnalités réseaux avancées de Windows Vista&nbsp;?

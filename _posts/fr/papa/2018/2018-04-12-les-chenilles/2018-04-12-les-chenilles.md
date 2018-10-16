@@ -2,7 +2,7 @@
 title: 'Les chenilles'
 date: '2018-04-12'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > – Mamie, tu sais qu'il faut qu'on fasse attention sous l'arbre.  

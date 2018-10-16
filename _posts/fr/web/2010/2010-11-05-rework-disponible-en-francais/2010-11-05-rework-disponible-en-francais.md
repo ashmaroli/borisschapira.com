@@ -4,7 +4,7 @@ tags:
     - Management
 date: '2010-11-05'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Une petite note pour signaler que l'ouvrage ["Rework" de Jason Fried et David Heinemeier Hansson](/2010/08/rework-jason-fried-et-david-heinemeier-hansson/), est désormais disponible en français aux éditions Maxima. Il est bien évidemment disponible [sur le site de Maxima](http://www.maxima.fr/index-fiche-419-Rework-reussir-autement.html '"Rework, réussir autrement", sur le site des Editions Maxima'), et dans toutes les bonnes librairies.

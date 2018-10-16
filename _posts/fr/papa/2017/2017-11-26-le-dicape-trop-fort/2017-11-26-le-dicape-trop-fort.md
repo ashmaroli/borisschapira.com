@@ -2,7 +2,7 @@
 title: 'Le ''dicapé trop fort'
 date: '2017-11-26'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Jouer à des jeux vidéo à côté des enfants, c'est saisir l'occasion de les voir aborder les images avec un autre regard…

@@ -2,7 +2,7 @@
 title: 'Shoot me now'
 date: '2016-11-19'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ce soir, les enfants sont créatifs. Ils font plein de choses nouvelles comme peindre la tête du chat et le tapis du salon, mettre du maïs dans leur soupe, mélanger des tomates dans leur crème au chocolat…

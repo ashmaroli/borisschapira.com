@@ -2,7 +2,7 @@
 title: 'Fils de pâtissière'
 date: '2017-06-06'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ce soir, mon koala nous raconte sa journée à l'école. Journée pendant laquelle ses camarades et lui ont fêté son anniversaire.

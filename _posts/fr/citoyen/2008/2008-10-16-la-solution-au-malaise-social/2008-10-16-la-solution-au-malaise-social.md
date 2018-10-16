@@ -2,7 +2,7 @@
 title: 'La solution au malaise social ?'
 date: '2008-10-16'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 **1\. Trouver des coupables et les rabaisser**

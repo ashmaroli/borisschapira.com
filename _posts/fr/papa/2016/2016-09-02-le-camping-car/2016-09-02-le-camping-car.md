@@ -2,7 +2,7 @@
 title: 'Le camping-car'
 date: '2016-09-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Mes beaux-parents ont un camping-car, pour le plus grand plaisir des petits qui adorent dormir dedans. Forcément, quand on en croise un, ils y pensent.

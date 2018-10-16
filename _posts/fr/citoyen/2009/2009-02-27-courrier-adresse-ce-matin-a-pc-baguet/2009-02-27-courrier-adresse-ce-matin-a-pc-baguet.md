@@ -5,7 +5,7 @@ tags:
 series: Hadopi
 date: '2009-02-27'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Monsieur le député,

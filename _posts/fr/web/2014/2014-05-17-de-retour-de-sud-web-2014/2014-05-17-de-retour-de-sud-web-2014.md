@@ -6,7 +6,7 @@ series:
     - 'Sud Web 2014'
 date: '2014-05-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## De beaux projets, de belles personnes

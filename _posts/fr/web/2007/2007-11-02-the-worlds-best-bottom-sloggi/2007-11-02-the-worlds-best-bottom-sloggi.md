@@ -4,7 +4,7 @@ tags:
     - Sexy
 date: '2007-11-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Le concours **Show Me You Sloggi** organisé par la marque éponyme vient de se terminer.

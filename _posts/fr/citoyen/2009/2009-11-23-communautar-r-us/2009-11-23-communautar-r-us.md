@@ -6,7 +6,7 @@ tags:
     - Religion
 date: '2009-11-23'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Le document envoyé par Eric Besson aux préfets pour la conduite des débats sur l’Identité Nationale contient cette question épineuse&nbsp;:

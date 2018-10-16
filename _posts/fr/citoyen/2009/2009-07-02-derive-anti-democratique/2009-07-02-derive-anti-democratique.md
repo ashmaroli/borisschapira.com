@@ -5,7 +5,7 @@ tags:
     - 'Billet d''humeur'
 date: '2009-07-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Lorsque je lis l'actualité du Gouvernement, j'ai de plus en plus l'impression que le Parlement (autrement appelé Assemblée Nationale) est présenté comme un obstacle, un parcours du combattant durant lequel les "meilleures" lois sont sabotées par de vils députés.

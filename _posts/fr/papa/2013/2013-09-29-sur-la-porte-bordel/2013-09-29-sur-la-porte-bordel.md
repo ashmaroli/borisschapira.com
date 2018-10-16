@@ -2,7 +2,7 @@
 title: 'Sur la porte, bordel'
 date: '2013-09-29'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Forcément, le seul moment où ton bébé finit par dormir, il y a une gourdasse qui vient sonner à la porte :

@@ -2,7 +2,7 @@
 title: 'Maxime du (dernier) jour'
 date: '2015-03-11'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Toujours profiter d'eux comme si c'était le dernier jour.

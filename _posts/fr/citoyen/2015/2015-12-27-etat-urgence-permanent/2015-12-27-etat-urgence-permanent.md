@@ -4,7 +4,7 @@ tags:
     - 'État d''urgence'
 date: '2015-12-27'
 type: post
-locale: fr_FR
+locale: fr
 loadTwitterWjs: true
 ---
 

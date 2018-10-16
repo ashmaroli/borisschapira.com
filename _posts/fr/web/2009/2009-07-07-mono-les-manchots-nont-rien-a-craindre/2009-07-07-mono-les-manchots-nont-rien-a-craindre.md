@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-07-07'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les partisans du libre peuvent souffler. Après la montée au créneau de Richard Stallman qui demandait que l’on n’intègre pas à Debian l’application Tomboy (exécutée par Mono), la polémique avait enflé, accusant Microsoft de manipuler les développeurs afin d’en tirer un jour profit en réclamant des brevets logiciels portant sur l’implémentation de ses technologies. Il n’en sera rien.

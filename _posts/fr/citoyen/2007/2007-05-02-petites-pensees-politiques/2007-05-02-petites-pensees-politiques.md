@@ -5,7 +5,7 @@ tags:
     - Présidentielles
 date: '2007-05-02'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Je suis revenu du travail vers 20h, pour être sûr de ne pas rater le débat présidentiel. Les chroniqueurs radio commentaient les préparatifs du débat. Comment sont-ils placés, comment sont-ils habillés, quelles sont les petites phrases tactiques qu'ils sortiront au moment voulu… placement, maillot, tactique… un vrai match de foot.

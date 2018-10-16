@@ -4,7 +4,7 @@ tags:
     - Techdays
 date: '2007-06-21'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les Microsoft TechDays 2008 se dérouleront les **11, 12 et 13 février 2008 au Palais des Congrès de Paris**.

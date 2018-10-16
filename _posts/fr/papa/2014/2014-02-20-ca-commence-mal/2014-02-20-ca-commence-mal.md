@@ -2,7 +2,7 @@
 title: 'Ça commence mal'
 date: '2014-02-20'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Réveil douloureux.

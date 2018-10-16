@@ -6,7 +6,7 @@ tags:
     - Stage
 date: '2007-06-30'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Quand je n'adapte pas des Webparts dans SharePoint, c'est que soit je m'occupe de ce blog, soit je m'occupe de ma chérie, soit mon manager m'invite à une journée détente à Eurodisney. Bon, ok, la dernière hypothèse est de loin la plus rare et pour tout dire, ça n'est arrivé qu'une fois. Mais ça montre que chez Microsoft, on sait s'amuser&nbsp;!

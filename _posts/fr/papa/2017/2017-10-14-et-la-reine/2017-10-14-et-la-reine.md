@@ -2,7 +2,7 @@
 title: 'Et la reine ?'
 date: '2017-10-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les garçons jouent à la bataille avec leur mère.

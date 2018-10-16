@@ -2,7 +2,7 @@
 title: 'À l''hôpital'
 date: '2017-12-16'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Accident à la maison. Ils se sont battus, le grand a claqué la porte de sa chambre sans voir que le petit avait un doigt dans le chambranle. On s'est tous fait une grosse frayeur et le petit a passé quelques jours à l'hôpital pendant lesquels sa mère et moi nous sommes relayés à ses côtés.

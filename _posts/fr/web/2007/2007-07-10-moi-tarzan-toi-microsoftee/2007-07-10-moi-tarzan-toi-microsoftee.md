@@ -2,7 +2,7 @@
 title: 'Moi tarzan, toi Microsoftee'
 date: '2007-07-10'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ne rien comprendre au paragraphe suivant est un signe de non-appartenance à ma division chez Microsoft.

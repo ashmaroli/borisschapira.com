@@ -5,7 +5,7 @@ tags:
     - Conférences
 date: '2014-02-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Je rejoins une nouvelle initiative, celle des [Brown Bag Lunches](http://www.brownbaglunch.fr).

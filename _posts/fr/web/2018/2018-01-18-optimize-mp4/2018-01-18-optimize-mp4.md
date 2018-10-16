@@ -7,7 +7,7 @@ type: post
 tags:
     - 'Performance Web'
     - Video
-locale: fr_FR
+locale: fr
 cloudinary_logo: dareboost-logo
 slug: video-optimisez-vos-mp4-pour-de-meilleures-performances
 ---

@@ -5,7 +5,7 @@ tags:
 series: 'Dangers du Net'
 date: '2007-08-29'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Lundi matin **Renaud Marcadet**, chef de produit Microsoft Office chez Microsoft France, donnait [sur BFM](http://bfmbusiness.bfmtv.com/) quelques conseils de rentrée pour prendre de bons réflexes avec les mails laissés à l'abandon pendant de longues semaines de dorage de pilule.

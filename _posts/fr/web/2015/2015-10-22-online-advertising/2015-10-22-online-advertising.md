@@ -9,7 +9,7 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
 date: '2015-10-22'
 type: post
-locale: fr_FR
+locale: fr
 slug: publicite-en-ligne-un-point
 ---
 

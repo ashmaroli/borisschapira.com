@@ -2,7 +2,7 @@
 title: 'La meilleure'
 date: '2016-12-24'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Vacances des enfants chez ma mère.

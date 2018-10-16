@@ -2,7 +2,7 @@
 title: 'Manuel France'
 date: '2017-11-12'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Parfois, quand les enfants jouent, j'ai la chance d'entrevoir le monde imaginaire de l'école. C'est un monde assez différent de celui de la maison, qui digère et transforme les événements du réel en jeux. Aujourd'hui, ils ont joué à **Manuel France**.

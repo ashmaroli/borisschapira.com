@@ -2,7 +2,7 @@
 title: 'Revenu de base'
 date: '2017-02-08'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > On ne peut pas se remonter les manches quand on n’a pas de chemise.

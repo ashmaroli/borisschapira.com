@@ -5,7 +5,7 @@ tags:
     - Nexdotnet
 date: '2009-12-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 C’est Marek Safar qui l’annonce sur son blog et chez NexDotNet, ça nous rend tous choses… <span lang="en">Well done guys</span> !

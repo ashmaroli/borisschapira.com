@@ -2,7 +2,7 @@
 title: 'Le problème avec les mamies'
 date: '2018-03-23'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Les vacances arrivent. Je sens mon petit dernier préoccupé, donc je vais lui faire un câlin dans son lit et lui demande ce qui se passe.

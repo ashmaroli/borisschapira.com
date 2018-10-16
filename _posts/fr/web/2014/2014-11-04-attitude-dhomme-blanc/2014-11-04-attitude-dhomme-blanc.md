@@ -5,7 +5,7 @@ tags:
     - Accessibilité
 date: '2014-11-04'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > En juin dernier, Fiona Taylor Gorringe soulevait une question intéressante sur son blog&nbsp;:

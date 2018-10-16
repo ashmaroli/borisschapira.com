@@ -5,7 +5,7 @@ tags:
     - Mariage
 date: '2009-09-14'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Un mariage, ça coûte cher. Alors si en plus on se loupe sur le prix des choses, c'est rageant. Vu le nombre d'envois que l'on a besoin de faire durant la préparation et après le déroulement du mariage, il est bon de faire attention.

@@ -7,7 +7,7 @@ tags:
     - Publicité
 date: '2007-11-03'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste prend la parole&nbsp;:

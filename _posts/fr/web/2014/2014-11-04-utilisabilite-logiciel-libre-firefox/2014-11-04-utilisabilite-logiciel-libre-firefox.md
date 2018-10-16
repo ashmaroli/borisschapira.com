@@ -5,7 +5,7 @@ tags:
     - 'Service Design'
 date: '2014-11-04'
 type: post
-locale: fr_FR
+locale: fr
 loadTwitterWjs: true
 ---
 

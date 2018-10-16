@@ -2,7 +2,7 @@
 title: 'Pas le temps'
 date: '2017-10-12'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Quand on s'occupe seul·e de ses enfants, arrive toujours ce moment fatidique. Ce moment qu'on redoute, où la nature nous rattrape…

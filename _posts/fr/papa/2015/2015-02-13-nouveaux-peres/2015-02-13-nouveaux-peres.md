@@ -2,7 +2,7 @@
 title: 'Nouveaux pères'
 date: '2015-02-13'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ma femme, avec une amie enceinte :

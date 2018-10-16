@@ -2,7 +2,7 @@
 title: 'Où sont les femmes ?'
 date: '2014-10-25'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > — Mais qu'est-ce que vous faites là ?  

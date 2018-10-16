@@ -2,7 +2,7 @@
 title: 'Aspirateurs à valeur'
 date: '2017-02-28'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > — Uber : la plus grande compagnie de taxi au monde, ne possède aucun véhicule.  

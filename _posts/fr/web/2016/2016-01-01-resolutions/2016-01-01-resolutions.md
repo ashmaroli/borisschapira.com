@@ -4,7 +4,7 @@ tags:
     - 'Me, myself & I'
 date: '2016-01-01'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## pour 2016

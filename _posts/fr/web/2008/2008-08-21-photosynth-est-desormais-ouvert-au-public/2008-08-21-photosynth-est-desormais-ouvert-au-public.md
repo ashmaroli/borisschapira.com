@@ -5,7 +5,7 @@ tags:
     - PhotoSynth
 date: '2008-08-21'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Je serais peut-être le 100e à vous parler de [**PhotoSynth** ](https://en.wikipedia.org/wiki/Photosynth)aujourd'hui, mais vous n'y couperez pas. Je suis l'actualité de ce projet depuis mes tous premiers jours de Microsoft Most Valuable Student il y a 3 ans&nbsp;!

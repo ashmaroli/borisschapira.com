@@ -2,7 +2,7 @@
 title: 'Les études'
 date: '2016-03-21'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 > Moi, plus tard, je veux faire des toiles comme Spider-Man !

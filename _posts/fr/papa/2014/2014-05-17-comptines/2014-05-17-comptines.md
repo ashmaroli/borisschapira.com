@@ -2,7 +2,7 @@
 title: Comptines
 date: '2014-05-17'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 Ma femme a écouté des comptines avec les petits. Elle est un peu remontée :

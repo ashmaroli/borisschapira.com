@@ -7,7 +7,7 @@ loadTwitterWjs: true
 loadTwitter: true
 date: '2016-02-20'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## pour mieux régner

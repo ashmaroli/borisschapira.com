@@ -5,7 +5,7 @@ tags:
     - Religion
 date: '2009-12-11'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 ## Merci pour ce témoignage, Madame

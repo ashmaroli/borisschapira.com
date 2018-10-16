@@ -4,7 +4,7 @@ tags:
     - Photos
 date: '2008-08-24'
 type: post
-locale: fr_FR
+locale: fr
 ---
 
 <p style="text-align: center">
