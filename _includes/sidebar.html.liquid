@@ -33,11 +33,11 @@
 
       <div class="lang">
         <ul>
-          {% if page.translation %}
-            {% assign lang = page.translation.locale | slice: 0,2 %}
-            {% capture read_in %}{{ locale.read_in }} {% if lang == "en" %}{{ locale.english }}{% else %}{{ locale.french }}{% endif %}{% endcapture %}
-            <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
-          {% endif %}
+          {% for item in page.hreflangs %}
+            {% capture read_in %}{{ locale.read_in }} {% if item.locale == "en" %}{{ locale.english }}{% else %}{{ locale.french }}{% endif %}{% endcapture %}
+            <link rel="{{ item.relation }}" hreflang="{{ item.locale }}" href="{{ item.url | absolute_url }}" />
+            <li><a class="{{ item.locale }}" href="{{ item.url | relative_url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ item.locale }}" aria-hidden="true"><use xlink:href="#flag-{{ item.locale }}"></use></svg></a></li>
+          {% endfor %}
         </ul>
       </div>
 

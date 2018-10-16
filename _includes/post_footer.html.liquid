@@ -1,3 +1,6 @@
+{% assign source = page.path | split: '/' %}
+{% assign folderName = source.last | split: '.' | first %}
+
 <footer class="post-footer">
   <div class="contrib">
     <p>

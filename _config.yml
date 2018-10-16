@@ -49,6 +49,16 @@ defaults:
       category: dad
   -
     scope:
+      path: "pages/"
+    values:
+      category: main
+  -
+    scope:
+      path: "_locales/**/pages/"
+    values:
+      category: main
+  -
+    scope:
       path:            "assets/**/*.pdf"
     values:
       sitemap:         false
