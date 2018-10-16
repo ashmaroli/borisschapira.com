@@ -48,17 +48,14 @@
     {% assign noindex = page.robots.noindex | default: false %}
     {% assign nofollow = page.robots.nofollow | default: false %}
   {% endif %}
-  {% if page.translation %}
-    {% assign lang = page.translation.locale | slice: 0,2 %}
-  {% endif %}
   {% if paginator and paginator.page > 1 %}
     {% assign noindex = true %}
-  {% else %}
-    {% if page.translation %}
-      <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
-    {% endif %}
   {% endif %}
-
+  
+  {% for item in page.hreflangs %}
+    <link rel="{{ item.relation }}" hreflang="{{ item.locale }}" href="{{ item.url | absolute_url }}" />
+  {% endfor %}
+  
   {% if site.robots %}
     <meta name="robots" content="{{ site.robots }}">
   {% else %}
