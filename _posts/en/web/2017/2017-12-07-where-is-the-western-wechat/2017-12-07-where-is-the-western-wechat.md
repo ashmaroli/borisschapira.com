@@ -11,6 +11,7 @@ tags:
 publishDate: '2017-10-29'
 locale: en_US
 cloudinary_logo: clever-logo
+slug: where-is-the-western-wechat
 ---
 
 China is unquestionably changing the way Internet integrates our daily lives with its mobile app [WeChat](https://blog.clever-age.com/en/2017/05/19/10-ways-to-leverage-wechat-for-your-business/). How does this impact the web in the Western world?
