@@ -43,6 +43,25 @@ namespace :build do
     sh './scripts/postprocess.sh ./_site'
   end
 
+  desc 'Generate for deployment (but do not deploy)'
+  task :generate_no_doctor, %i[env deployment_configuration] => [:clean, 'prebuild:config'] do |_t, args|
+    args.with_defaults(env: 'prod')
+    config_file = "_config_#{args[:env]}.yml"
+    if rake_running
+      puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
+      puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
+      puts 'Are you sure you want to continue? [Y|n]'
+
+      ans = STDIN.gets.chomp
+      exit if ans != 'Y'
+    end
+
+    puts 'Building…'
+    jekyll("build --config _config.yml,#{config_file}", 'production')
+    puts 'Cleaning BOMs…'
+    sh './scripts/postprocess.sh ./_site'
+  end
+
   #
   # General support functions
   #

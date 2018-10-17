@@ -3,4 +3,4 @@
   publish = "_site"
 
 [context.branch-deploy]
-  command = "bundle exec rake build:generate[integ]"
+  command = "bundle exec rake build:generate_no_doctor[integ]"
