@@ -47,7 +47,7 @@
 
       <ul class="secondary">
         <li class="sidebar-nav-item">
-          <a href="{{ page.base-url }}{{ locale.about }}/">
+          <a href="{{ locale.about | absolute_url }}/">
             {{ locale.about_maj }}
             <!-- nomicrotypo -->
             {% include img/avatar.svg %}

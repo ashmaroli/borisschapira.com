@@ -10,7 +10,7 @@
             <li>{{ locale.written_in }} {% include locale_display.html.liquid locale=page.locale %}.</li>
         </ul>
         {% if page.category != 'web' %}<p>
-            {{ locale.only_web_related }} <a href="{{ "web/feed.xml" | prepend: page.base-url | prepend: site.url }}">{{ locale.this_feed }}</a>.
+            {{ locale.only_web_related }} <a href="{{ "/web/feed.xml" | absolute_url }}">{{ locale.this_feed }}</a>.
         </p>{% endif %}
     </div>{% endunless %}
     {% endunless %}

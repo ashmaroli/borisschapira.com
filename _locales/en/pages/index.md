@@ -7,7 +7,6 @@ displayCustomHead: true
 displayCustomTitle: false
 i18n-key: home
 locale: "en"
-base-url: "/en/"
 category: ''
 pagination: 
   enabled: true

@@ -24,9 +24,7 @@
   {% else %}
     {%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}
   {% endif %}
-  {% comment %}<style>{% include styles/{{ css_file }} %}</style>{% endcomment %}
-  TOTO{{ css_file }}TITI
-  <style>{% include styles/main.min.css %}</style>
+  <style>{% include styles/{{ css_file }} %}</style>
 
   <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
   <!-- endnomicrotypo -->
