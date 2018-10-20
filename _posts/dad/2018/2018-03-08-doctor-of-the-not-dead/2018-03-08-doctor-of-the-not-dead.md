@@ -2,7 +2,6 @@
 title: 'Docteur des pas morts'
 date: '2018-03-08'
 type: post
-i18n-key: doctor-of-the-not-dead
 locale: fr
 slug: docteur-des-pas-morts
 ---

@@ -29,7 +29,7 @@
   <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
   <!-- endnomicrotypo -->
 
-  {% if page.i18n-key == "search" %}
+  {% if page.key == "search" %}
     <style>{% include styles/vendors/instantsearch.min.css %}{% include styles/vendors/instantsearch-theme-algolia.min.css %}</style>
   {% endif %}
 

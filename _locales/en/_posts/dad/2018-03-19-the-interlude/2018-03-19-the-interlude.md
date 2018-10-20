@@ -2,7 +2,6 @@
 title: "The interlude"
 date: '2018-03-19'
 type: post
-i18n-key: entracte
 categories:
     - papa
 publishDate: '2018-03-19'

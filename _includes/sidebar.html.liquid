@@ -19,17 +19,17 @@
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem"><a href="{{ locale.web | downcase | absolute_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.web }}</a></li>
 
-        {% if page.locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+        {% if page.locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citizen' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
         <a href="{{ locale.citizen | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.citizen }}</a>
         </li>{% endif %}
 
-        <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
+        <li class="sidebar-nav-item{% if page.category == 'dad' %} active {% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
         <a href="{{ locale.dad | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.dad }}</a>
         </li>
 
-        <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
+        <li class="sidebar-nav-item{% if page.key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
         itemtype="http://schema.org/SearchResultsPage">
         <a href="{{ locale.search | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ locale.search }}</a>
         </li>

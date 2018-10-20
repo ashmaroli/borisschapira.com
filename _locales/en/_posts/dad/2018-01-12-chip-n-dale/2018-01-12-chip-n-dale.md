@@ -2,7 +2,6 @@
 title: "Chip 'n' Dale"
 date: '2018-01-12'
 type: post
-i18n-key: chip-dale
 categories:
     - papa
 publishDate: '2018-01-12'

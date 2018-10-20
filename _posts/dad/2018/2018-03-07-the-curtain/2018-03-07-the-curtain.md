@@ -2,7 +2,6 @@
 title: 'Le rideau'
 date: '2018-03-07'
 type: post
-i18n-key: the-curtain
 locale: fr
 slug: le-labyrinthe
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Netflix : augmenter la luminosité des vidéos'
-i18n-key: bookmark-netflix-brightness
 date: '2018-08-08'
 type: post
 tags:

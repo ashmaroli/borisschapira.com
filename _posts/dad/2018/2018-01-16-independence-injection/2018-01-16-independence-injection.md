@@ -2,7 +2,6 @@
 title: 'Injection d''indépendance'
 date: '2018-01-16'
 type: post
-i18n-key: independence-injection
 locale: fr
 slug: injection-d-independance
 ---

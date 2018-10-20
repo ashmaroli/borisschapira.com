@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'First test of the layout'
-i18n-key: test-of-layout
 hidden: true
 tags:
     - Typograph

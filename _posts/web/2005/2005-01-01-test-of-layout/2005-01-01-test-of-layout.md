@@ -1,6 +1,5 @@
 ---
 title: 'Premier Test de mise en forme'
-i18n-key: test-of-layout
 tags:
     - Typographie
 date: '2005-01-01'

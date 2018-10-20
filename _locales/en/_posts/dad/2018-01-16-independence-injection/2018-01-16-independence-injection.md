@@ -2,7 +2,6 @@
 title: "Independence injection"
 date: '2018-01-16'
 type: post
-i18n-key: independence-injection
 categories:
     - papa
 publishDate: '2018-01-16'

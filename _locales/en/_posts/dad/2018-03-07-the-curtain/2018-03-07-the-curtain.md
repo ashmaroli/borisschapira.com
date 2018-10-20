@@ -2,7 +2,6 @@
 title: "The curtain"
 date: '2018-03-07'
 type: post
-i18n-key: the-curtain
 categories:
     - papa
 publishDate: '2018-03-07'
