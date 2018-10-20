@@ -4,7 +4,7 @@
 
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting"{% if include.postPage %} id="content"{% else %} aria-labelledby="{{ post.slug }}"{% endif %}>
     <header class="p-header">
-        {% assign datetime = post.date | date_to_xmlschema %}<time class="p-date dt-published" datetime="{{ datetime }}">{{ post.date | localize_date: ":long" }}</time>{% if page.locale =='fr' %}<span class="p-category"><a href="{{ post.category | downcase | absolute_url }}" title="{{ locale.posts_in }} {{ locale.the_category }} {{ post.category }}">{{ post.category }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
+        {% assign datetime = post.date | date_to_xmlschema %}<time class="p-date dt-published" datetime="{{ datetime }}">{{ post.date | localize_date: ":long" }}</time>{% if page.locale =='fr' %}<span class="p-category"><a href="{{ post.category | downcase | absolute_url }}" title="{{ locale.posts_in }} {{ locale.the_category }} {{ post.category }}">{{ locale[post.category] }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
     </header>
 
   {% capture hn %}h2{% endcapture %}

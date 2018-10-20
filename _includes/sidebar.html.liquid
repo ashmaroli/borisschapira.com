@@ -17,16 +17,16 @@
         itemtype="http://schema.org/ListItem"><i>debug: {{ page.locale }}</i></li>
 
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem"><a href="{{ locale.category_web | downcase | absolute_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category_web }}</a></li>
+        itemtype="http://schema.org/ListItem"><a href="{{ locale.web | downcase | absolute_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.web }}</a></li>
 
         {% if page.locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ locale.category_citizen | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category_citizen }}</a>
+        <a href="{{ locale.citizen | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.citizen }}</a>
         </li>{% endif %}
 
         <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
-        <a href="{{ locale.category_dad | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.category_dad }}</a>
+        <a href="{{ locale.dad | downcase | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ locale.dad }}</a>
         </li>
 
         <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
