@@ -1,4 +1,4 @@
-{% capture url_prefix %}{% if page.category.size > 0 %}/{{page.category | | downcase }}{% endif %}{% endcapture %}
+{% capture url_prefix %}{% if page.category.size > 0 %}/{{ locale[page.category] | | downcase }}{% endif %}{% endcapture %}
 {% if paginator.total_pages > 1 %}
 <ul class="pagination">
   {% comment %} Page précédente {% endcomment %}
@@ -6,7 +6,7 @@
     {% if paginator.previous_page == 1 %}
       {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
       <li>
-        <a href="{{ url_prefix }}" rel="prev"><span class="sr-only">{{ locale.home }}</span>&lsaquo;</a>
+        <a href="{{ url_prefix }}/" rel="prev"><span class="sr-only">{{ locale.home }}</span>&lsaquo;</a>
       </li>
     {% else %}
       {% comment %} Sinon, c'est la page d'avant {% endcomment %}
@@ -27,7 +27,7 @@
   {% else %}
     {% comment %} Sinon, afficher le lien {% endcomment %}
     <li>
-      <a href={{ url_prefix }}><span class="sr-only">{{ locale.home }}</span>1</a>
+      <a href="{{ url_prefix }}/"><span class="sr-only">{{ locale.home }}</span>1</a>
     </li>
   {% endif %}
   
