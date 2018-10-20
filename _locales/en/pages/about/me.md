@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Boris
-permalink: /en/about/me/
+permalink: /about/me/
 date: 2015-10-05 17:15:20
 locale: "en"
 ---

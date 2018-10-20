@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About…
-permalink: /en/about/
+permalink: /about/
 date: 2015-10-05 17:15:20
 locale: "en"
 ---
