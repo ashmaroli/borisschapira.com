@@ -147,7 +147,7 @@ author:
   reading_speed_fr: 723
 
 # Posts links and pagination
-# permalink: :year/:month/:title/
+permalink: :year/:month/:title/
 
 pagination:
   enabled: true
