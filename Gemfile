@@ -13,7 +13,7 @@ group :jekyll_tests do
 end
 
 group :jekyll_plugins do
-  gem "jekyll-locale", "~> 0.5.0"
+  gem "jekyll-locale"
   gem 'classifier-reborn'
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
@@ -23,7 +23,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2', :branch => 'default-values'
   gem 'jekyll-postfiles', '~> 2.1'
   gem 'jekyll-pwa-plugin'
-  gem 'jekyll-sitemap'
+#  gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
 end
 
