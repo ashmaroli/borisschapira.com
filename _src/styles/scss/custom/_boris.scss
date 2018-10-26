@@ -9,6 +9,14 @@ $sidebar-size: 14rem;
 "vendor/hyde",
 "mixins/scrollbars";
 @include scrollbars(0.3rem, fade-out($color-main, 0.6));
+
+@media (color-index: 48), (prefers-color-scheme: dark) {
+	:root {
+		--site-bgcolor: #1b1b1b;
+		--site-color: #fff;
+	}
+}
+
 html {
 	font-size: calc( 16px + (22 - 16)*(100vw - 400px) / (1280-400));
 	line-height: 1.7;
@@ -28,14 +36,11 @@ html {
 }
 
 body {
-	background-color: #fff;
+	background-color: var(--site-bgcolor, #fff);
 	text-rendering: optimizeSpeed;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-}
-
-body {
-	color: #2b2b2b;
+	color: var(--site-color, #2b2b2b);
 }
 
 blockquote {
