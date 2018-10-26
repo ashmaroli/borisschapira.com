@@ -1,9 +1,9 @@
 defaults:
   -
     scope:
-      path: "pages"
+      type: "pages"
     values:
-      type: pages
+      category: main
   -
     scope:
       path: "_confs"
@@ -19,7 +19,7 @@ defaults:
       hidden: false
   -
     scope:
-      path: "_posts/web"
+      path: "web"
     values:
       category: web
   -
@@ -29,7 +29,7 @@ defaults:
       category: web
   -
     scope:
-      path: "_posts/citizen"
+      path: "citizen"
     values:
       category: citizen
   -
@@ -39,7 +39,7 @@ defaults:
       category: citizen
   -
     scope:
-      path: "_posts/dad"
+      path: "dad"
     values:
       category: dad
   -
@@ -47,16 +47,6 @@ defaults:
       path: "_locales/**/dad"
     values:
       category: dad
-  -
-    scope:
-      path: "pages/"
-    values:
-      category: main
-  -
-    scope:
-      path: "_locales/**/pages/"
-    values:
-      category: main
   -
     scope:
       path:            "assets/**/*.pdf"
@@ -93,14 +83,6 @@ exclude:
   - _posts/**/*.mp4
   - _posts/**/*.webm
   - _posts/**/*.ogv
-  - _locales/**/*.jpg
-  - _locales/**/*.jpeg
-  - _locales/**/*.png
-  - _locales/**/*.gif
-  - _locales/**/*.pdf
-  - _locales/**/*.mp4
-  - _locales/**/*.webm
-  - _locales/**/*.ogv
   - borisschapira-dev.com+3.pem
   - borisschapira-dev.com+3-key.pem
 include:
