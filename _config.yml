@@ -91,7 +91,6 @@ include:
   - ".htpasswd"
   - "_headers"
   - "_redirects"
-  - "_locales"
 
 # Site settings
 name: 'Boris Schapira'
