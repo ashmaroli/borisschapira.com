@@ -1,15 +1,7 @@
 ---
-layout: index
+layout: category-feed
 title: Dad
-permalink: /dad/
 description: "<strong>I'm the proud dad</strong> of two restless, intelligent and sensitive boys who provide me every day with many delicious anecdotes to share, and a beautiful perspective on life."
-displayCustomHead: true
-displayCustomTitle: true
-i18n-key: papa
+locale: en
 category: dad
-locale: "en"
-pagination: 
-  enabled: true
-  category: dad
-  locale: en
 ---
