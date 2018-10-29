@@ -1,17 +1,17 @@
 defaults:
   -
     scope:
-      type: "pages"
+      type: pages
     values:
       category: main
   -
     scope:
-      path: "_confs"
+      path: _confs
     values:
       layout: conf
   -
     scope:
-      type: "posts"
+      type: posts
     values:
       layout: post
       comments: true
@@ -19,45 +19,26 @@ defaults:
       hidden: false
   -
     scope:
-      path: "web"
+      path: _posts/web
     values:
       category: web
   -
     scope:
-      path: "_locales/**/web"
-    values:
-      category: web
-  -
-    scope:
-      path: "citizen"
+      path: _posts/citizen
     values:
       category: citizen
   -
     scope:
-      path: "_locales/**/citizen"
-    values:
-      category: citizen
-  -
-    scope:
-      path: "dad"
+      path: _posts/dad
     values:
       category: dad
-  -
-    scope:
-      path: "_locales/**/dad"
-    values:
-      category: dad
-  -
-    scope:
-      path:            "assets/**/*.pdf"
-    values:
-      sitemap:         false
 
 # Exclusions
 exclude:
   - ".csscomb.json"
   - ".ruby-version"
   - ".cache"
+  - ".jekyll-cache"
   - "node_modules"
   - "package.json"
   - "scripts"
@@ -99,11 +80,12 @@ email: borisschapira@gmail.com
 tagline: '<span lang="en">Life is too short to be small</span>'
 description: "Blog personnel de Boris Schapira. Des avis sur les métiers du web mais aussi sur ma vie de parent et de citoyen."
 url: "https://borisschapira.com"
-baseurl: "/"
+baseurl: ""
 timezone: Europe/Paris
 incremental: true
 encoding: utf-8
-lsi: true
+# lsi: true
+livereload: true
 repository: "borisschapira/borisschapira.com"
 
 microtypo:
