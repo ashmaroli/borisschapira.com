@@ -104,7 +104,6 @@ GEM
     jekyll-commonmark (1.2.0)
       commonmarker (~> 0.14)
       jekyll (>= 3.0, < 4.0)
-    jekyll-mermaid (1.0.0)
     jekyll-microtypo (0.2.3)
       jekyll (>= 3.0, < 4.0)
     jekyll-postfiles (2.1.1)
@@ -171,7 +170,6 @@ DEPENDENCIES
   jekyll-archives
   jekyll-cloudinary
   jekyll-commonmark
-  jekyll-mermaid
   jekyll-microtypo
   jekyll-paginate-v2!
   jekyll-postfiles (~> 2.1)
