@@ -10,32 +10,31 @@ locale: fr_FR
 defaults:
   -
     scope:
-      path: ""
-    values:
-      locale: fr_FR
-      baseurl: "/"
-  -
-    scope:
-      path: "_pages"
+      path: "_pages/fr"
     values:
       type: pages
+      base-url: "/"
+      locale: fr_FR
   -
     scope:
       path: "_pages/en"
     values:
-      baseurl: "/en/"
+      type: pages
+      base-url: "/en/"
       locale: en_US
   -
     scope:
       path: "_posts/en"
     values:
-      baseurl: "/en/"
-      locale: en_US
+      locale: "en_US"
+      base-url: "/en/"
   -
     scope:
       path: "_confs"
     values:
       layout: conf
+      base-url: "/"
+      locale: fr_FR
   -
     scope:
       type: "posts"
@@ -46,34 +45,19 @@ defaults:
       hidden: false
   -
     scope:
-      path: "_posts/fr/web/"
+      path: "_posts/**/web"
     values:
       category: web
   -
     scope:
-      path: "_posts/fr/papa/"
+      path: "_posts/**/papa"
     values:
       category: papa
   -
     scope:
-      path: "_posts/fr/citoyen/"
+      path: "_posts/fr/citoyen"
     values:
       category: citoyen
-  -
-    scope:
-      path: "_posts/en/web/"
-    values:
-      category: web
-  -
-    scope:
-      path: "_posts/en/papa/"
-    values:
-      category: papa
-  -
-    scope:
-      path: "assets/**/*.pdf"
-    values:
-      sitemap: false
 
 # Exclusions
 exclude:
