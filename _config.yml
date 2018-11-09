@@ -137,6 +137,8 @@ incremental: true
 encoding: utf-8
 repository: "borisschapira/borisschapira.com"
 
+markdown: CommonMark
+
 microtypo:
   median: true
 
@@ -174,10 +176,6 @@ pagination:
 collections:
   confs:
     output: true
-
-# Build settings
-kramdown:
-  hard_wrap: true
 
 jekyll-archives:
   enabled:

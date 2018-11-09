@@ -60,6 +60,8 @@ GEM
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
     colorize (0.8.1)
+    commonmarker (0.18.1)
+      ruby-enum (~> 0.5)
     concurrent-ruby (1.1.3)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
@@ -99,6 +101,9 @@ GEM
     jekyll-cloudinary (1.13.0)
       fastimage (~> 2.0)
       jekyll (~> 3.6)
+    jekyll-commonmark (1.2.0)
+      commonmarker (~> 0.14)
+      jekyll (>= 3.0, < 4.0)
     jekyll-mermaid (1.0.0)
     jekyll-microtypo (0.2.3)
       jekyll (>= 3.0, < 4.0)
@@ -137,6 +142,8 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (3.3.0)
+    ruby-enum (0.7.2)
+      i18n
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.7.2)
@@ -163,6 +170,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-archives
   jekyll-cloudinary
+  jekyll-commonmark
   jekyll-mermaid
   jekyll-microtypo
   jekyll-paginate-v2!

@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem 'classifier-reborn'
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
+  gem 'jekyll-commonmark'
   gem 'jekyll-cloudinary'
 #  gem "jekyll-include-cache"
   gem 'jekyll-mermaid'
