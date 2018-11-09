@@ -138,6 +138,9 @@ encoding: utf-8
 repository: "borisschapira/borisschapira.com"
 
 markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE", "HARDBREAKS"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 microtypo:
   median: true
