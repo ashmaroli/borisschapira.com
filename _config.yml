@@ -18,21 +18,21 @@ defaults:
       path: "pages/fr"
       type: pages
     values:
-      base-url: "/"
+      baseurl: "/"
       locale: fr_FR
   -
     scope:
       path: "pages/en"
       type: pages
     values:
-      base-url: "/en/"
+      baseurl: "/en/"
       locale: en_US
   -
     scope:
       path: ""
     values:
       locale: fr_FR
-      base-url: "/"
+      baseurl: "/"
   -
     scope:
       path: "_confs"
@@ -63,13 +63,13 @@ defaults:
       path: "en"
     values:
       locale: "en_US"
-      base-url: "/en/"
+      baseurl: "/en/"
   -
     scope:
       locale: "en_US"
       path: "_posts/en"
     values:
-      base-url: "/en/"
+      baseurl: "/en/"
   -
     scope:
       path: "_posts/en/web"
