@@ -37,6 +37,4 @@ layout: default
 {% include post_related.html.liquid posts=related_locale_notnav %}
 {% endcomment %}
 
-{% if page.comments == true %}
-  {% include comments.html.liquid slug=page.slug url=page.url comments_locked=page.comments_locked  %}
-{% endif %}
+{% include comments.html.liquid slug=page.slug url=page.url %}
