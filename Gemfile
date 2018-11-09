@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.4.3'
 
-gem 'i18n'
 gem 'jekyll', '~>3.8.0'
 
 # Optimize Liquid compilation
