@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.4.3'
 
-gem 'jekyll', '~>3.8.0'
+gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', branch: 'master'
 
 # Optimize Liquid compilation
 gem 'liquid', :git => 'https://github.com/Shopify/liquid', branch: 'master'
