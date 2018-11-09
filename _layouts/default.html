@@ -45,10 +45,8 @@ layout: microtypo
     <link rel="alternate" type="application/rss+xml" href="{{ site.author.feed }}">
 
     <!-- Lang and indexation -->
-    {% if page.robots %}
-      {% assign noindex = page.robots.noindex | default: false %}
-      {% assign nofollow = page.robots.nofollow | default: false %}
-    {% endif %}
+    {% assign noindex = page.robots.noindex | default: false %}
+    {% assign nofollow = page.robots.nofollow | default: false %}
     {% if page.translation %}
       {% assign lang = page.translation.locale | slice: 0,2 %}
     {% endif %}
