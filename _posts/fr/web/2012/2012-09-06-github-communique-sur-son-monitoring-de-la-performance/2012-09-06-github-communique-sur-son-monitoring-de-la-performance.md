@@ -12,8 +12,11 @@ GitHub, qu’on connait bien pour ses nombreuses publications sur l’intégrati
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [GitHub communique sur son monitoring de la performance](https://blog.clever-age.com/fr/2012/09/06/github-communique-sur-son-monitoring-de-la-performance/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 La société y présente notamment son tableau de bord dont le design est assez pertinent et les données traitées de manière statistiques. Mieux, elle y rappelle l’essentiel&nbsp;: un tableau de bord est fait pour informer, pas pour expliquer. L’explication se fait au moyen d’autres outils, plus fins, page par page et surtout, plus manuels.
 

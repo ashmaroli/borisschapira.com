@@ -14,8 +14,11 @@ Il devient de plus en plus évident que la Chine est train de changer la façon 
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Où est le WeChat occidental ?](https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## WeChat réinvente les usages du Web
 

@@ -24,8 +24,11 @@ caption=img_caption
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 Que vous soyez un acteur du Luxe désireux de diffuser des vidéos de très haute qualité ou une plateforme d'information à la recherche d'une proposition de contenu accrocheuse, la vidéo est devenue en quelques années un élément incontournable du Web. Mais l'ajout d'une vidéo à un site peut être complexe.
 
