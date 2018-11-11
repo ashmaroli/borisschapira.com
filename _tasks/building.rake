@@ -38,7 +38,7 @@ namespace :build do
     end
 
     puts 'Building…'
-    jekyll("build --config _config.yml,#{config_file}")
+    jekyll("build --config _config.yml,#{config_file}", 'production')
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
   end
