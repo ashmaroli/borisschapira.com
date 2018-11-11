@@ -3,7 +3,7 @@ title: 'Un seul site vous manque, et tout le web est cassé'
 tags:
     - Front-End
     - 'Performance Web'
-canonical: https://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/
+canonical: 'https://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/'
 date: '2014-06-20'
 type: post
 locale: fr_FR
