@@ -16,7 +16,7 @@ cloudinary_logo: dareboost-logo
 
 {% capture img_alt %}Sur un carré blanc sont disposés plusieurs pixels en camaïeu de bleu, au dessus de la diagonale, de manière progressive{% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2017-10-29/square.jpg "
+path="/assets/images/2017-10-29/square.jpg"
 alt=img_alt
 %}
 

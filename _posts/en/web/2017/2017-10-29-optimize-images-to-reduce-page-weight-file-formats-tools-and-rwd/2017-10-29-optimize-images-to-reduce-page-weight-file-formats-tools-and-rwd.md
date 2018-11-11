@@ -16,7 +16,7 @@ cloudinary_logo: dareboost-logo
 
 {% capture img_alt %}On a white square are gradually designed several pixels in shades of blue, above the diagonal{% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2017-10-29/square.jpg "
+path="/assets/images/2017-10-29/square.jpg"
 alt=img_alt
 %}
 
@@ -120,7 +120,7 @@ If you want to offer, in addition to your optimized image, formats supported by 
 {% capture img_alt %}Code capture{% endcapture %}
 {% capture img_caption %}HTML markup for Responsive Images, from The Guardian website<{% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2017-10-29/theguardian.png "
+path="/assets/images/2017-10-29/theguardian.png"
 alt=img_alt
 caption=img_caption
 %}

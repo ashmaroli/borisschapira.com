@@ -44,7 +44,7 @@ Le système des App Store, aussi satisfaisant qu’il soit, atteint ses limites.
 
 {% capture img_alt %}Une main tenant un téléphone de face. On y voit de nombreuses applications Android listées dans un menu.{% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2017-06-20/50614.jpg "
+path="/assets/images/2017-06-20/50614.jpg"
 alt=img_alt
 %}
 
